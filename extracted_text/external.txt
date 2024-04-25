@@ -1,0 +1,135 @@
+External Resources | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+External Resources
+This page contains a collection of resources for professors to use in adopting data science curricula at their own institutions.
+Data Science Workshops
+2024 National Workshop on Data Science Education
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+This page contains a collection of resources for professors to use in adopting data science curricula at their own institutions. These resources have been prepared through a collaborative effort with the Data Science Education Program (DSEP) and the professors of the Department of Statistics, Computer Science, faculty in Human Contexts and Ethics, and more.
+Several of the institutions we have worked with in the past are listed on our partner institutions page.
+Data 8 Adoption
+Data 8 is a foundational data science course combining three perspectives: inferential thinking, computational thinking, and real-world relevance. Find information on the Data 8 course website, textbook, and further resources related to adopting the course here.
+Instructor Interest Form - Interested in adopting Data 8 curriculum? Complete our interest form!
+Data 100 Adoption
+Data 100 is an intermediate level class that explores key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.​ Read more about Data 100 goals, course materials, website, textbook, and adoption guide here.
+Workshops
+Explore past presentations and register for the 2024 National Workshop on Data Science Education hosted by UC Berkeley CDSS on topics related to data science pedagogy.
+Curriculum Development
+Browse guides on adopting and developing courses related to the data science major and/or minor, as well as related programs such as Human Contexts and Ethics (HCE). Other information relevant to instructors teaching modules and connectors can also be found.
+Infrastructure
+Overview two major infrastructural accessories - JupyterHub and Otter Grader - essential for teaching data science courses at scale. Deployment guides and community forums are linked to assist instructors in shaping their courses with the right services.
+Community
+Discover and connect to the data science instructor community, both at Berkeley and around the nation.
+California Alliance for Data Science
+The California Alliance for Data Science Education (CADSE) seeks to advance data science education in California Community Colleges (CCCs), California State Universities, and the University of California system. Read more about CADSE success stories and initiatives expanding across the state.
+Academic Resource Kit
+Access our guide offering open-source resources for teaching data science.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

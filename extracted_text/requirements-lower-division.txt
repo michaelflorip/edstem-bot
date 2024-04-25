@@ -1,0 +1,167 @@
+Requirements: Lower Division | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Requirements: Lower Division
+Upper Division Requirements
+Domain Emphasis Requirements
+Data Science Major
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+Policies
+All courses toward the major must be completed for a letter grade and passed with a 'C-' or higher.
+A single course may not be used to fulfill more than one requirement within the requirements of the major.
+Data Science BA Worksheet [PDF]
+Requirements: Lower Division
+Requirement
+Preferred Track
+Alternate Course Options
+Foundations of Data Science
+Data C8 (also listed as CompSci/Stat/Info C8)
+Stat 20 (may not be combined with Engin 7 for Intro Programming requirement)
+Calculus I
+Math 1A or N1A or approved high school exam credit*
+Math 10A or 16A
+Calculus II
+Math 1B or N1B or approved high school exam credit*
+Linear Algebra
+Math 54/N54/W54 or
+Math 56 - Linear Algebra (offered as Math 91 in F22) or
+Stat 89A (4 units)
+EE/EECS 16A and 16B (both required), or Physics 89
+Program Structures
+CompSci 61A or CompSci/Data C88C
+Engin 7
+Data Structures
+CompSci 61B or CompSci 61BL
+Domain Emphasis
+1 lower-division course from approved list
+*The Data Science BA accepts Advanced Placement, International Baccalaureate and A-Level exam credit for the calculus requirements only, per the UC Berkeley Math department guidelines. Exam credit is not accepted for the Domain Emphasis or other major requirements.
+Approved Exceptions/Substitutions
+Data 8 Substitutions:
+All Students: Students may substitute Statistics 20, if completed in any term, for Data C8 toward the Data Science major or minor. This option is only available for students who completed or will complete CS 61A or CS 88/Data C88C for the Program Structures requirement; it is not available for students who take Engin 7 for their Program Structures requirement.
+Continuing Students Through Spring 2019: When the Data Science BA was first approved, the faculty approved a substitution option for continuing students to substitute for Data 8 by completing CompSci 61A and one from Stat 20, 21, W21, 131A or 135. This substitution option for Data 8 applies only to courses completed by Spring 2019. First year students admitted to UC Berkeley in or after Fall 2018 are not eligible to use this option.
+Linear Algebra Transfer Courses:
+We accept linear algebra without differential equations from California community colleges in all cases where the course is included in a Math 54 articulation agreement. Linear algebra courses from non-California community colleges may be considered by individual petition.
+P/NP Grading Exceptions:
+Based on changes authorized by L&S policy, courses completed at UC Berkeley with a grade of Pass in FALL 2022 will count toward Data Science major requirements, including prerequisites to declare the major. See the L&S Fall 2022 Late Grading Option Change Modification for more information.
+Based on changes authorized by L&S policy, courses completed at UC Berkeley with a grade of Pass in Spring 2020, Fall 2020, Spring 2021 and Summer 2021 will count toward Data Science major requirements, including prerequisites to declare the major. Please see the L&S P/NP policy modifications for more information.
+Prerequisite courses taken on a P/NP basis before Fall 2018 will be accepted. Grades of ‘P’ earned will be evaluated as ‘C-’ for GPA calculation purposes. Courses taken on a P/NP basis after Summer 2018 will not be accepted.
+Updated 3/22/24.
+Data Science Major
+Lower-division Requirements
+Upper-division Requirements
+Domain Emphasis Requirements
+Declaring the Major
+Need Advising?
+Data Science advisors are available to help! Email us at ds-advising@berkeley.edu, or find out about our other advising services.
+Ready to declare?
+Submit your application online.
+More questions?
+View our FAQ page.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

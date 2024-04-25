@@ -1,0 +1,1748 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91252143-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-91252143-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});gtag("config", "G-DHXZN2TMLR", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<meta name="description" content="Over the past decade, AI has permeated nearly every corner of science: Machine learning models have been used to predict protein structures, estimate the fraction of the Amazon rainforest that has been lost to deforestation and even classify faraway galaxies that might be home to exoplanets. But while AI can be used to speed scientific discovery — helping researchers make predictions about phenomena that may be difficult or costly to study in the real world — it can also lead scientists astray. In the same way that chatbots sometimes “hallucinate,” or make things up, machine learning models can sometimes present misleading or downright false results. In a paper published online today in Science, researchers at the University of California, Berkeley, present a new statistical technique for safely using the predictions obtained from machine learning models to test scientific hypotheses." />
+<link rel="canonical" href="https://cdss.berkeley.edu/news/how-use-ai-discovery-without-leading-science-astray" />
+<link rel="image_src" href="https://cdss.berkeley.edu/sites/default/files/styles/large/public/2023-11/MJrelease.jpg?h=1354360d&amp;itok=xeFpAxJp" />
+<meta property="og:image:url" content="https://cdss.berkeley.edu/sites/default/files/styles/large/public/2023-11/MJrelease.jpg?h=1354360d&amp;itok=xeFpAxJp" />
+<meta property="og:image:alt" content="MJrelease.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Over the past decade, AI has permeated nearly every corner of science: Machine learning models have been used to predict protein structures, estimate the fraction of the Amazon rainforest that has been lost to deforestation and even classify faraway galaxies that might be home to exoplanets. But while AI can be used to speed scientific discovery — helping researchers make predictions about phenomena that may be difficult or costly to study in the real world — it can also lead scientists astray. In the same way that chatbots sometimes “hallucinate,” or make things up, machine learning models can sometimes present misleading or downright false results. In a paper published online today in Science, researchers at the University of California, Berkeley, present a new statistical technique for safely using the predictions obtained from machine learning models to test scientific hypotheses." />
+<meta name="twitter:site" content="@BerkeleyDataSci" />
+<meta name="twitter:title" content="How to use AI for discovery — without leading science astray" />
+<meta name="twitter:site:id" content="780475893114298368" />
+<meta name="twitter:url" content="https://cdss.berkeley.edu/news/how-use-ai-discovery-without-leading-science-astray" />
+<meta name="twitter:image:alt" content="MJrelease.jpg" />
+<meta name="twitter:image" content="https://cdss.berkeley.edu/sites/default/files/styles/large/public/2023-11/MJrelease.jpg?h=1354360d&amp;itok=xeFpAxJp" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/all/themes/cdss/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>How to use AI for discovery — without leading science astray | CDSS at UC Berkeley</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_knTXI6wfLaBQ10TimIzj0Mqu8w508oGCsVbAhrX6JCY.css?delta=0&amp;language=en&amp;theme=cdss&amp;include=eJxdUOFugyEIfCH3-UgGlVlSFCPYzj59_Zp1y_bngLuEO0hXzGQyQhQxtQE9GET1J7giUhgDNOBllNT_J5wuNaw-gqJLDKrrT19RFQqqSzLQNxkVmB5bzrqXsUTgD7XF1IrDL9v16vOYHfj4Hh3DkmkhTuKMw9tdknBQTEbS3momTXLDsbw03Lq7Ed7Vv_Cokif_RGqS0XUYUPatF33b_TLHbH1GJr1gdnV_B_wnseE4EvTT9AkPynkV" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_f_7a9Rs2PnWgJN5xLqA8mCaPmtWFoaThUKZ--PgU_Lc.css?delta=1&amp;language=en&amp;theme=cdss&amp;include=eJxdUOFugyEIfCH3-UgGlVlSFCPYzj59_Zp1y_bngLuEO0hXzGQyQhQxtQE9GET1J7giUhgDNOBllNT_J5wuNaw-gqJLDKrrT19RFQqqSzLQNxkVmB5bzrqXsUTgD7XF1IrDL9v16vOYHfj4Hh3DkmkhTuKMw9tdknBQTEbS3momTXLDsbw03Lq7Ed7Vv_Cokif_RGqS0XUYUPatF33b_TLHbH1GJr1gdnV_B_wnseE4EvTT9AkPynkV" />
+
+    
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://use.typekit.net/ukh6nwv.css" rel="stylesheet">
+
+  </head>
+  <body class="page-news-how-use-ai-discovery-without-leading-science-astray path-node page-node-type-article banner-style-gradient_only">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container header-layout-container">
+  <div class="topbar-navigation">
+     <div class="container">
+       <div class="row">
+        <div class="region region-topbar-nav">
+    <nav role="navigation" aria-labelledby="block-socialmedialinks-menu" id="block-socialmedialinks" class="block block-menu navigation menu--social-media-links">
+            
+  <h2 class="visually-hidden" id="block-socialmedialinks-menu">Social Media Links</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/UCBdatascience/" target="_blank" class="fb">Facebook</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://twitter.com/berkeleydatasci" target="_blank" class="tw">Twitter</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.linkedin.com/school/computingdatasciencesociety/" target="_blank" class="linkedin">Linkedin</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.youtube.com/channel/UCYosMoD6e3_RLZyFmMXB30w/featured" target="_blank" class="yt">Youtube</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.instagram.com/berkeleydatasci/" target="_blank" class="insta">Instagram</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topbarnavigation-menu" id="block-topbarnavigation" class="block block-menu navigation menu--topbar-navigation">
+            
+  <h2 class="visually-hidden" id="block-topbarnavigation-menu">Topbar Navigation</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/information-and-resources-students" data-drupal-link-system-path="node/970">Students</a>
+              </li>
+                <li class="menu-item">
+        <a href="/information-and-resources-facultystaff" data-drupal-link-system-path="node/971">Faculty &amp; Staff</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://give.berkeley.edu/fund/FD1057000" target="_blank" class="give-button">Give</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+       </div>
+    </div>
+   </div>
+
+  <div class="main-navigation">
+
+    <button aria-label="Menu Open Close Toggle" type="button" class="slide-menu-control navbar-toggler hamburger
+    hamburger--collapse hamburger-tab" data-target="test-menu-right" data-action="toggle" onclick="this.blur();">
+      <span class="hamburger-box hamburger-box-closed">
+       <!-- <span class="hamburger-inner"></span> -->
+      </span>
+    </button>
+
+    <div id="desktop-nav">
+      <div class="container">
+        <div class="row">
+            <div class="region region-desktop-nav">
+    <div id="block-cdss-branding" class="block block-system block-system-branding-block">
+  <a href="/" rel="home" class="site-logo">
+
+    <img src="/sites/all/themes/cdss/images/DESKTOP_SECTIONS/HEADER-FOOTER/CDSS_LOGO_NEW_HEADER.svg" alt="Home" typeof="foaf:Image" />
+
+      </a>
+</div>
+<nav role="navigation" aria-labelledby="block-cdss-main-menu-menu" id="block-cdss-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-cdss-main-menu-menu">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item-about menu-item menu-item--collapsed">
+        <a href="/about" class="menu-item-about" data-drupal-link-system-path="node/1">About</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item">
+        <a href="/about/people" data-drupal-link-system-path="node/4">People</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/departments-and-programs" data-drupal-link-system-path="node/1882">Departments and Programs</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/our-vision" data-drupal-link-system-path="node/1959">Our Vision</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/support-us" data-drupal-link-system-path="node/32">Support Our People and Research</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/job-opportunities" data-drupal-link-system-path="node/40">Job Opportunities</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/contact" data-drupal-link-system-path="node/7">Contact</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-academics slide-menu-items menu-item menu-item--collapsed">
+        <a href="/academics" class="menu-item-academics slide-menu-items" data-drupal-link-system-path="node/2">Academics</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item menu-item--expanded">
+        <a href="/about/departments-and-programs" data-drupal-link-system-path="node/1882">Departments and Programs</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+                    
+
+      <li class="menu-item">
+        <a href="https://ccb.berkeley.edu">Center for Computational Biology</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://computationalhealth.berkeley.edu">Computational Precision Health</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/dsus" data-drupal-link-system-path="node/14">Data Science Undergraduate Studies</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://eecs.berkeley.edu/">Department of Electrical Engineering and Computer Sciences (EECS)</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://statistics.berkeley.edu/">Department of Statistics</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/academics/undergraduate-education" data-drupal-link-system-path="node/2261">Undergraduate Education</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/academics/graduate-education" data-drupal-link-system-path="node/2262">Graduate Education</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://data.berkeley.edu/academics#advisingresources">Advising Resources</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://data.berkeley.edu/academics#academicenrichment">Student Opportunities</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-research menu-item menu-item--collapsed">
+        <a href="/research_faculty" class="menu-item-research" data-drupal-link-system-path="node/3">Research &amp; Faculty</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item">
+        <a href="/research" data-drupal-link-system-path="node/2370">Research</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://data.berkeley.edu/research_faculty#faculty">Faculty</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-equity menu-item">
+        <a href="/equity-inclusion" class="menu-item-equity" data-drupal-link-system-path="node/6">Equity &amp; Inclusion</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-news-events menu-item menu-item--collapsed">
+        <a href="/news-events" class="menu-item-news-events" data-drupal-link-system-path="node/55">News &amp; Events</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/college-newsletter" data-drupal-link-system-path="node/2635">College Newsletter</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/events-calendar" data-drupal-link-system-path="node/53">Events</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/news" data-drupal-link-system-path="node/54">News</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/videos" data-drupal-link-system-path="node/29">Videos</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+<div id="block-searchtopnavblock" class="block block-cdss-general block-cdss-search-top-nav-block" role="search">
+  
+    
+      <div class="active-search-container"><form class="header-search-form" data-drupal-selector="header-search-form" action="/news/how-use-ai-discovery-without-leading-science-astray" method="post" id="header-search-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search form-item-search">
+      <label for="edit-search" class="js-form-required form-required">Search by keyword</label>
+        <input placeholder="Search by keyword" autocomplete="off" size="110" data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-ska0sbmhjuhfok1b09ujspku-f93l-emcqudxia30q" type="hidden" name="form_build_id" value="form--sKA0SbmhjuHfOK1B09UJSpku-f93L_EmcqudXIA30Q" />
+<input data-drupal-selector="edit-header-search-form" type="hidden" name="form_id" value="header_search_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button button--primary js-form-submit form-submit" />
+</div>
+
+</form>
+<a title="Search" href="/search" class="search-toggle" aria-label="Close Search Form"><span class="svg-wrapper"><svg id="close-search-toggle-svg" width="20px" height="20px" viewbox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+      <path opacity="0" id="svg-close" d="M15.898,4.045c-0.271-0.272-0.713-0.272-0.986,0l-4.71,4.711L5.493,4.045c-0.272-0.272-0.714-0.272-0.986,0s-0.272,0.714,0,0.986l4.709,4.711l-4.71,4.711c-0.272,0.271-0.272,0.713,0,0.986c0.136,0.136,0.314,0.203,0.492,0.203c0.179,0,0.357-0.067,0.493-0.203l4.711-4.711l4.71,4.711c0.137,0.136,0.314,0.203,0.494,0.203c0.178,0,0.355-0.067,0.492-0.203c0.273-0.273,0.273-0.715,0-0.986l-4.711-4.711l4.711-4.711C16.172,4.759,16.172,4.317,15.898,4.045z"></path>
+    </svg></span><span class="visually-hidden">Search</span></a></div>
+<a title="Search" href="/search" class="search-toggle" aria-label="Open Search Form"><span class="svg-wrapper-open"></span><span class="visually-hidden">Search</span></a>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+        <div id="test-menu-right" class="slide-menu">
+      <div class="controls">
+        <button aria-label="Menu Close" type="button" class="slide-menu-control navbar-toggler hamburger
+        hamburger--collapse hamburger-close" data-action="close">
+          <span class="hamburger-box hamburger-box-open">
+           <!-- <span class="hamburger-inner"></span> -->
+          </span>
+        </button>
+      </div>
+      <div id="mobile_nav">
+                  </div>
+      </div>
+    </div>
+    <div id="mobile_search"></div>
+  </div>
+
+</div>
+
+<div class="layout-container content-layout-container">
+  
+  <header class="has-banner">
+          <div class="banner" role="banner">
+          <div class="region region-banner-header">
+    <div id="block-cdss-dynamic-banner-block" class="block block-cdss-general block-cdss-dynamic-banner-block">
+  
+    
+        <div class="paragraph paragraph--type--banner paragraph--view-mode--default banner-waypoint banner-style-gradient_only banner-height-400">
+          <div class="image-container">
+        <span class="background-l"></span>
+        
+        <span class="background-r"></span>
+      </div>
+      <div class="content-overlay">
+        <div class="container">
+          <div class="row">
+            <div class="content-block">
+
+              
+
+                              <h1>How to use AI for discovery — without leading science astray</h1><div class="banner-byline">By Kara Manke, Berkeley News | November 9, 2023</div>
+                          </div>
+          </div>
+        </div>
+      </div>
+    
+      </div>
+
+  </div>
+
+  </div>
+
+      </div>
+    
+      </header>
+     <div class="container">
+      <div class="row">
+         <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+         
+      </div>
+    </div>
+  
+ <main role="main">
+     <a id="main-content" tabindex="-1"></a>
+    
+    <div class="container primary-boxed-layout-content">
+      <div class="row">
+        
+                
+
+        <div  class="col-md-12 layout-content">
+            <div class="region region-content">
+    <div id="block-cdss-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="2511" about="/news/how-use-ai-discovery-without-leading-science-astray" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-full">
+
+  
+
+    <span property="schema:name" content="How to use AI for discovery — without leading science astray" class="rdf-meta hidden"></span>
+
+
+  
+  <div class="node__content">
+      
+    
+  
+        <div class="bs-layout two-column row gx-5">
+                      <div  class="main-region col-md-8">
+              <div class="block-mb-30 block block-layout-builder block-field-blocknodearticlebody">
+  
+    
+      
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><span><span><span><span>Over the past decade, AI has permeated nearly every corner of science: Machine learning models have been used to predict protein structures, estimate the fraction of the Amazon rainforest that has been lost to deforestation and even classify faraway galaxies that might be home to exoplanets.</span></span></span></span></p>
+
+<p><span><span><span><span>But while AI can be used to speed scientific discovery — helping researchers make predictions about phenomena that may be difficult or costly to study in the real world — it can also lead scientists astray. In the same way that chatbots sometimes “hallucinate,” or make things up, machine learning models can sometimes present misleading or downright false results.</span></span></span></span></p>
+
+<p><span><span><span><span>In <a href="https://www.science.org/doi/full/10.1126/science.adi6000">a paper published online today</a></span></span><span><span>&nbsp;in&nbsp;<em>Science</em>, researchers at the University of California, Berkeley, present a new statistical technique for safely using the predictions obtained from machine learning models to test scientific hypotheses. </span></span></span></span></p>
+
+<p><span><span><span><span>The technique, called prediction-powered inference (PPI), uses a small amount of real-world data to correct the output of large, general models — such as </span></span><a href="https://www.nature.com/articles/d41586-023-02984-w"><span><span>AlphaFold</span></span></a><span><span>, which predicts protein structures — in the context of specific scientific questions.</span></span></span></span></p>
+
+<p><span><span><span><span>“These models are meant to be general: They can answer many questions, but we don't know which questions they answer well and which questions they answer badly — and if you use them naively, without knowing which case you're in, you can get bad answers,” said study author <a href="https://people.eecs.berkeley.edu/~jordan/">Michael Jordan</a>, the Pehong Chen Distinguished Professor of electrical engineering and computer science and of statistics at UC Berkeley. “With PPI, you're able to use the model, but correct for possible errors, even when you don’t know the nature of those errors at the outset.”</span></span></span></span></p>
+
+<figure role="group" class="caption caption-drupal-media align-center">
+<div class="media media--type-image media--view-mode-inline" data-height data-width>
+  
+      
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img src="/sites/default/files/styles/max_2600x2600/public/2023-11/MJrelease.jpg?itok=GVNUoHAz" width="936" height="590" alt="MJrelease.jpg" loading="lazy" typeof="foaf:Image" class="image-style-max-2600x2600">
+
+
+</div>
+      
+  </div>
+
+<figcaption>A team at UC Berkeley has created a new statistical technique that allows researchers to safely use the predictions obtained from machine learning to test scientific hypotheses. This image shows an artistic interpretation of the technique, called prediction-powered inference, which has been generated by the DALL-E AI system. (Courtesy of Michael Jordan)</figcaption>
+</figure>
+
+
+<h3><span><span><span><span>The risk of hidden biases</span></span></span></span></h3>
+
+<p><span><span><span><span>When scientists conduct experiments, they’re not just looking for a single answer — they want to obtain a range of plausible answers. This is done by calculating a “confidence interval,” which, in the simplest case, can be found by repeating an experiment many times and seeing how the results vary. </span></span></span></span></p>
+
+<p><span><span><span><span>In most science studies, a confidence interval usually refers to a summary or combined statistic, not individual data points. Unfortunately, machine learning systems focus on individual data points, and thus do not provide scientists with the kinds of uncertainty assessments that they care about.&nbsp;For instance, AlphaFold predicts the structure of a single protein, but it doesn't provide a notion of confidence for that structure, nor a way to obtain confidence intervals that refer to general properties of proteins.</span></span></span></span></p>
+
+<p><span><span><span><span>Scientists may be tempted to use the predictions from AlphaFold as if they were data to compute classical confidence intervals, ignoring the fact that these predictions are not data.&nbsp; The problem with this approach is that machine learning systems have many hidden biases that can skew the results. These biases arise, in part, from the data on which they are trained, which are generally existing scientific research that may not have had the same focus as the current study.</span></span></span></span></p>
+
+<p><span><span><span><span>“Indeed, in scientific problems, we're often interested in phenomena which are at the edge between the known and the unknown,” Jordan said. “Very often, there aren’t much data from the past that are at that edge, and that makes generative AI models even more likely to ‘hallucinate,’ producing output that is unrealistic.”</span></span></span></span></p>
+
+<h3><span><span><span><span>Calculating valid confidence intervals</span></span></span></span></h3>
+
+<p><span><span><span><span>PPI allows scientists to incorporate the predictions from models like AlphaFold without making any assumptions about how the model was built or the data it was trained on. To do this, PPI requires a small amount of data that is unbiased, with respect to the specific hypothesis being investigated, paired with machine learning predictions corresponding to that data. By bringing these two sources of evidence together, PPI is able to form valid confidence intervals.</span></span></span></span></p>
+
+<p><span><span><span><span>For example, the research team applied the PPI technique to algorithms that can pinpoint areas of deforestation in the Amazon using satellite imagery. These models were accurate, overall, when tested individually on regions in the forest; however, when these assessments were combined to estimate deforestation across the entire Amazon, the confidence intervals became highly skewed. This is likely because the model struggled to recognize certain newer patterns of deforestation.</span></span></span></span></p>
+
+<blockquote>
+<p><span><span><span><span>"There’s really no limit on the type of questions that this approach could be applied to."</span></span></span></span></p>
+</blockquote>
+
+<p><span><span><span><span>With PPI, the team was able to correct for the bias in the confidence interval using a small number of human-labeled regions of deforestation.</span></span></span></span></p>
+
+<p><span><span><span><span>The team also showed how the technique can be applied to a variety of other research, including questions about protein folding, galaxy classification, gene expression levels, counting plankton, and the relationship between income and private health insurance.</span></span></span></span></p>
+
+<p><span><span><span><span>“There’s really no limit on the type of questions that this approach could be applied to,” Jordan said. “We think that PPI is a much-needed component of modern data-intensive, model-intensive and collaborative science.”</span></span></span></span></p>
+
+<p><span><span><span><span>Additional co-authors include Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang and Tijana Zrnic of UC Berkeley. This research was supported by the Office of Naval Research (N00014-21-1-2840) and the National Science Foundation.</span></span></span></span></p>
+
+<p><em>This article was <a href="https://news.berkeley.edu/2023/11/09/how-to-use-ai-for-discovery-without-leading-science-astray">first published</a> by Berkeley News.</em></p>
+</div>
+      
+  </div>
+<div class="block-mb-30 block block-layout-builder block-inline-block-content-column-boxes block-content _content_column_boxes column-boxes block-bundle-_content_column_boxes">
+  
+    
+      
+      <div class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+
+  <div class="paragraph paragraph--type--box paragraph--view-mode--default index-item">
+          
+
+      <div class="image-wrapper" >
+
+          
+
+      </div>
+
+      <div class="content-wrapper">
+                  <h3>For more information</h3>
+                <div>
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><ul>
+	<li><em>Science:&nbsp;</em><a href="https://www.science.org/doi/full/10.1126/science.adi6000">Prediction-powered inference</a></li>
+</ul>
+</div>
+      </div>
+
+
+      </div>
+
+
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+            </div>
+                                <div  class="sidebar-region sidebar-right col-md-4">
+              
+
+<div class="block-mb-30 block block-layout-builder block-inline-block-sidebar-content-block">
+  
+    
+            <div  class="image-wrapper">
+        
+      </div>
+        <div class="content-wrapper">
+                        <h2>For Media Inquiries</h2>
+                    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="mailto:kjmanke@berkeley.edu "><span><span>kjmanke@berkeley.edu </span></span></a></p>
+</div>
+      
+    
+    </div>
+  </div>
+<div class="views-element-container block-mb-30 block block-views block-views-block-news-by-category-block-5">
+  
+    
+      <div><div class="news-sidebar view view--news-by-category view-id-_news_by_category view-display-id-block_5 js-view-dom-id-e407dfa45506dc7c916508701c62709b6e4af38cb35b8d2c7f17f54e48f96452">
+  
+    
+      <div class="view-header">
+      <h4><strong>Latest Research News</strong></h4>
+    </div>
+      
+      <div class="view-content">
+      
+<div class="view-content-row-wrapper">
+          <div class="views-row">
+<div data-history-node-id="2930" about="/news/uc-berkeley-joins-effort-advance-open-source-initiatives-across-uc-system" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-teaser  style--border_image">
+  <a href="/news/uc-berkeley-joins-effort-advance-open-source-initiatives-across-uc-system">
+    <div class="image-wrapper">
+      
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-river-teaser">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/river_teaser/public/2024-04/UC%20OSPO%20web%20river%20image.png?h=69561dc0&amp;itok=Fltrd2hL" width="880" height="550" alt="UC OSPO logo" loading="lazy" typeof="foaf:Image" class="image-style-river-teaser" />
+
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+    </div>
+
+    <div class="content-wrapper">
+      
+              <h2>
+         <span property="schema:name" class="field field--name-title field--type-string field--label-hidden">UC Berkeley joins effort to advance open source initiatives across UC system</span>
+
+        </h2>
+              <span property="schema:name" content="UC Berkeley joins effort to advance open source initiatives across UC system" class="rdf-meta hidden"></span>
+
+
+      <div class="node__submitted">
+                        News
+                 | April 17, 2024
+                
+      </div>
+
+    </div>
+  </a>
+</div>
+</div>
+          <div class="views-row">
+<div data-history-node-id="2921" about="/news/how-keep-ai-killing-us-all" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-teaser">
+  <a href="/news/how-keep-ai-killing-us-all">
+    <div class="image-wrapper">
+      
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-river-teaser">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/river_teaser/public/2024-04/russell_crop.jpeg?h=735f7c84&amp;itok=5IZCFoYR" width="880" height="550" alt="Stuart Russell is a professor at UC Berkeley." loading="lazy" typeof="foaf:Image" class="image-style-river-teaser" />
+
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+    </div>
+
+    <div class="content-wrapper">
+      
+              <h2>
+         <span property="schema:name" class="field field--name-title field--type-string field--label-hidden">How to keep AI from killing us all</span>
+
+        </h2>
+              <span property="schema:name" content="How to keep AI from killing us all" class="rdf-meta hidden"></span>
+
+
+      <div class="node__submitted">
+                        News
+                 | April 9, 2024
+                
+      </div>
+
+    </div>
+  </a>
+</div>
+</div>
+          <div class="views-row">
+<div data-history-node-id="2892" about="/news/three-decades-after-un-milestone-experts-convene-find-ai-climate-solutions" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-teaser">
+  <a href="/news/three-decades-after-un-milestone-experts-convene-find-ai-climate-solutions">
+    <div class="image-wrapper">
+      
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-river-teaser">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/river_teaser/public/2024-03/bidmaplab.2024.sim_.jpg?h=a141e9ea&amp;itok=l_TBIIVL" width="880" height="550" alt="UC Berkeley scholars work at the Yaghi Lab." loading="lazy" typeof="foaf:Image" class="image-style-river-teaser" />
+
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+    </div>
+
+    <div class="content-wrapper">
+      
+              <h2>
+         <span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Three decades after UN milestone, experts convene to find AI climate solutions</span>
+
+        </h2>
+              <span property="schema:name" content="Three decades after UN milestone, experts convene to find AI climate solutions" class="rdf-meta hidden"></span>
+
+
+      <div class="node__submitted">
+                        News
+                 | March 20, 2024
+                
+      </div>
+
+    </div>
+  </a>
+</div>
+</div>
+          <div class="views-row">
+<div data-history-node-id="2840" about="/news/new-center-aims-create-healthcare-innovation-research-impact-pipeline" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-teaser">
+  <a href="/news/new-center-aims-create-healthcare-innovation-research-impact-pipeline">
+    <div class="image-wrapper">
+      
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-river-teaser">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/river_teaser/public/2024-03/Jonathan.Kolstad.2023.HaasBerger.jpg?h=f728280d&amp;itok=yD_b_u95" width="880" height="550" alt="Jonathan Kolstad is the Center of Healthcare Marketplace Innovation faculty director and an associate professor at UC Berkeley&#039;s Haas School of Business. (Photo/ Copyright Noah Berger 2023)" loading="lazy" typeof="foaf:Image" class="image-style-river-teaser" />
+
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+    </div>
+
+    <div class="content-wrapper">
+      
+              <h2>
+         <span property="schema:name" class="field field--name-title field--type-string field--label-hidden">New center aims to create healthcare innovation research-to-impact pipeline</span>
+
+        </h2>
+              <span property="schema:name" content="New center aims to create healthcare innovation research-to-impact pipeline" class="rdf-meta hidden"></span>
+
+
+      <div class="node__submitted">
+                        News
+                 | March 6, 2024
+                
+      </div>
+
+    </div>
+  </a>
+</div>
+</div>
+          <div class="views-row">
+<div data-history-node-id="2838" about="/news/statistics-computer-science-faculty-among-schmidt-sciences-ai2050-fellows" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-teaser">
+  <a href="/news/statistics-computer-science-faculty-among-schmidt-sciences-ai2050-fellows">
+    <div class="image-wrapper">
+      
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-river-teaser">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/river_teaser/public/2023-07/HAGHTALAB-Nika-square-low%20-%20Nika%20Haghtalab.jpg?h=4771da08&amp;itok=Zf89AyJB" width="880" height="550" alt="NikaHaghtalab" loading="lazy" typeof="foaf:Image" class="image-style-river-teaser" />
+
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+    </div>
+
+    <div class="content-wrapper">
+      
+              <h2>
+         <span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Statistics, computer science faculty among Schmidt Sciences AI2050 fellows</span>
+
+        </h2>
+              <span property="schema:name" content="Statistics, computer science faculty among Schmidt Sciences AI2050 fellows" class="rdf-meta hidden"></span>
+
+
+      <div class="node__submitted">
+                        News
+                 | March 4, 2024
+                
+      </div>
+
+    </div>
+  </a>
+</div>
+</div>
+          <div class="views-row">
+<div data-history-node-id="2775" about="/news/ziad-obermeyer-testifies-us-congress-how-ai-can-help-health-care" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-teaser">
+  <a href="/news/ziad-obermeyer-testifies-us-congress-how-ai-can-help-health-care">
+    <div class="image-wrapper">
+      
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-river-teaser">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/river_teaser/public/2024-02/Screen%20Shot%202024-02-15%20at%2011.51.48%20AM.png?h=5874a9aa&amp;itok=K6MEXHu1" width="880" height="550" alt="Ziad.Obermeyer.2024.SchoolofPublicHealth" loading="lazy" typeof="foaf:Image" class="image-style-river-teaser" />
+
+
+</div>
+          </div>
+
+  </div>
+</div>
+      
+    </div>
+
+    <div class="content-wrapper">
+      
+              <h2>
+         <span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Ziad Obermeyer testifies in U.S. Congress on how AI can help health care</span>
+
+        </h2>
+              <span property="schema:name" content="Ziad Obermeyer testifies in U.S. Congress on how AI can help health care" class="rdf-meta hidden"></span>
+
+
+      <div class="node__submitted">
+                        News
+                 | February 14, 2024
+                
+      </div>
+
+    </div>
+  </a>
+</div>
+</div>
+  </div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a class="cta-link" href="/research/news">View All</a>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+            </div>
+                  </div>
+
+
+
+  
+
+
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+        </div>
+              </div>
+    </div>
+
+    
+  </main>
+
+      <footer role="contentinfo">
+        <div class="region region-footer">
+    <div id="block-layoutfooter" class="block block-block-content block-block-content9d45d066-6c8e-488d-9521-e8ea5cd4ff26 block-content layout_block block-bundle-layout_block">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-inline-blockbasic block-content basic block-bundle-basic">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footer-logo">
+  <img alt="University of California computing data science and society logo" src="/sites/all/themes/cdss/images/DESKTOP_SECTIONS/HEADER-FOOTER/CDSS_LOGO_NEW_FOOTER.svg" />
+</div></div>
+      
+  </div>
+<nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item-about menu-item menu-item--collapsed">
+        <a href="/about" class="menu-item-about" data-drupal-link-system-path="node/1">About</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item">
+        <a href="/about/people" data-drupal-link-system-path="node/4">People</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/departments-and-programs" data-drupal-link-system-path="node/1882">Departments and Programs</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/our-vision" data-drupal-link-system-path="node/1959">Our Vision</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/support-us" data-drupal-link-system-path="node/32">Support Our People and Research</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/job-opportunities" data-drupal-link-system-path="node/40">Job Opportunities</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/about/contact" data-drupal-link-system-path="node/7">Contact</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-academics slide-menu-items menu-item menu-item--collapsed">
+        <a href="/academics" class="menu-item-academics slide-menu-items" data-drupal-link-system-path="node/2">Academics</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item menu-item--expanded">
+        <a href="/about/departments-and-programs" data-drupal-link-system-path="node/1882">Departments and Programs</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+                    
+
+      <li class="menu-item">
+        <a href="https://ccb.berkeley.edu">Center for Computational Biology</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://computationalhealth.berkeley.edu">Computational Precision Health</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/dsus" data-drupal-link-system-path="node/14">Data Science Undergraduate Studies</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://eecs.berkeley.edu/">Department of Electrical Engineering and Computer Sciences (EECS)</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://statistics.berkeley.edu/">Department of Statistics</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/academics/undergraduate-education" data-drupal-link-system-path="node/2261">Undergraduate Education</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/academics/graduate-education" data-drupal-link-system-path="node/2262">Graduate Education</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://data.berkeley.edu/academics#advisingresources">Advising Resources</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://data.berkeley.edu/academics#academicenrichment">Student Opportunities</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-research menu-item menu-item--collapsed">
+        <a href="/research_faculty" class="menu-item-research" data-drupal-link-system-path="node/3">Research &amp; Faculty</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item">
+        <a href="/research" data-drupal-link-system-path="node/2370">Research</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="https://data.berkeley.edu/research_faculty#faculty">Faculty</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-equity menu-item">
+        <a href="/equity-inclusion" class="menu-item-equity" data-drupal-link-system-path="node/6">Equity &amp; Inclusion</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item-news-events menu-item menu-item--collapsed">
+        <a href="/news-events" class="menu-item-news-events" data-drupal-link-system-path="node/55">News &amp; Events</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-mega-menu-dropdown-ref field--type-entity-reference field--label-hidden field__item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <nav role="navigation"  class="block block-menu navigation menu--main">
+            
+    <h2 class="visually-hidden">Main navigation</h2>
+  
+
+        
+<span class="back-toggle"></span>
+  <ul class="menu menu-level-0">
+            
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/college-newsletter" data-drupal-link-system-path="node/2635">College Newsletter</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/events-calendar" data-drupal-link-system-path="node/53">Events</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/news" data-drupal-link-system-path="node/54">News</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+                    
+
+      <li class="menu-item">
+        <a href="/news-events/videos" data-drupal-link-system-path="node/29">Videos</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+</div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--25-75">
+
+          <div  class="layout__region layout__region--first">
+        <div class="block block-layout-builder block-inline-blockbasic block-content basic block-bundle-basic">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>University of California, Berkeley<br />
+Berkeley, CA 94720-1786
+<br /><br />
+Email: CDSSinfo@berkeley.edu</p>
+</div>
+      
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        <nav role="navigation" aria-labelledby="-menu" class="block block-menu navigation menu--social-media-links">
+            
+  <h2 class="visually-hidden" id="-menu">Social Media Links</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/UCBdatascience/" target="_blank" class="fb">Facebook</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://twitter.com/berkeleydatasci" target="_blank" class="tw">Twitter</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.linkedin.com/school/computingdatasciencesociety/" target="_blank" class="linkedin">Linkedin</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.youtube.com/channel/UCYosMoD6e3_RLZyFmMXB30w/featured" target="_blank" class="yt">Youtube</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.instagram.com/berkeleydatasci/" target="_blank" class="insta">Instagram</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="block block-layout-builder block-inline-blockbasic block-content basic block-bundle-basic">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="https://give.berkeley.edu/giftdetails?fund1=FH0106000" target="_BLANK" class="btn btn-white">GIVE TO CDSS TODAY</a></div>
+      
+  </div>
+<div class="block block-layout-builder block-inline-blockbasic block-content basic block-bundle-basic">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="cc-line">
+<a href="https://dac.berkeley.edu/web-accessibility" data-extlink="">Accessibility</a> <span class="sep"> | </span> <a href="https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement" data-extlink="">Nondiscrimination</a> <span class="sep"> | </span> <a href="https://security.berkeley.edu/policy/privacy-statement-uc-berkeley-websites" data-extlink="">Privacy</a> <span class="sep last"> | </span> <span class="cc">Copyright © 2023 UC Regents; all rights reserved</span>
+</div></div>
+      
+  </div>
+
+      </div>
+    
+  </div>
+
+  </div>
+
+  </div>
+
+    </footer>
+  </div>
+
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2511","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxdj1FuAyEMRC9ElyMhAy6xYjDCJik9fUnaTaT-jMbzLMuTsqovLBH4Q20xteLSFTOZjBBFTG1ADwZR_UNcYlBdPoLi6SuqQsEXa5I3k4HbjQpM3-jwy_btq89jduDjb3RFpDAGaMDLKO1X_gWOYcm0ECdxxuHtLkk4KCYjaSfNpEluOJaXhpu7uhuA_yQ2HEeC_lzuMKDsNhc933gnx2x9Ria9YHa61LD-drwR3tU_9aiSJ-MPxs95FQ","theme":"cdss","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"google_analytics":{"account":"UA-91252143-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"data\\.berkeley\\.edu","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"19642f281e4475f807303e853e8d6d54a99416a3ae6152487f04888bfc7dc574"}}</script>
+<script src="/modules/contrib/jquery_once/lib/jquery_3.7.1_jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/modules/contrib/jquery_once/lib/jquery-once-2.2.3/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.2.5"></script>
+<script src="/core/misc/drupal.js?v=10.2.5"></script>
+<script src="/core/misc/drupal.init.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/core/assets/vendor/tua-body-scroll-lock/tua-bsl.umd.min.js?v=10.2.5"></script>
+<script src="/modules/contrib/ckeditor_bootstrap_tabs/js/tabs.js?scggfa"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.2.5"></script>
+<script src="/core/misc/progress.js?v=10.2.5"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/core/misc/debounce.js?v=10.2.5"></script>
+<script src="/core/misc/announce.js?v=10.2.5"></script>
+<script src="/core/misc/message.js?v=10.2.5"></script>
+<script src="/core/misc/ajax.js?v=10.2.5"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=10.2.5"></script>
+<script src="/core/misc/displace.js?v=10.2.5"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=10.2.5"></script>
+<script src="/core/misc/position.js?v=10.2.5"></script>
+<script src="/core/misc/dialog/dialog.js?v=10.2.5"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=10.2.5"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=10.2.5"></script>
+<script src="/core/misc/dialog/dialog.ajax.js?v=10.2.5"></script>
+<script src="/libraries/colorbox/jquery.colorbox-min.js?v=10.2.5"></script>
+<script src="/modules/contrib/colorbox/js/colorbox.js?v=10.2.5"></script>
+<script src="/modules/contrib/colorbox/styles/default/colorbox_style.js?v=10.2.5"></script>
+<script src="/sites/all/themes/cdss/js/slide-menu.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/vendor/bootstrap/dist/js/bootstrap.bundle.min.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/vendor/slick/slick.min.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/vendor/waypoints/jquery.waypoints.min.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/vendor/snap/dist/snap.svg-min.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/vendor/swiper/swiper-bundle.min.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/vendor/simpleParallax/simpleParallax.min.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/js/script.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/js/tabs.js?v=1.01"></script>
+<script src="/sites/all/themes/cdss/js/messages.js?v=1.01"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=10.2.5"></script>
+
+  </body>
+</html>

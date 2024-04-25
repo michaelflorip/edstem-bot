@@ -1,0 +1,114 @@
+Program Overview | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Program Overview
+DE-CDSE Home
+About
+Executive Committee
+Faculty
+Contact
+Student Applicants
+Resources
+Supporting Organizations
+By-Laws
+The College of Computing, Data Science, and Society (CDSS) sponsors a Designated Emphasis in Computational and Data Science and Engineering (DE-CDSE), a program that is committed to the development of new curricula and expanded programs aimed at development and propagation of the use of numerical and computational tools to further research across multiple disciplines.
+This interdisciplinary graduate minor recognizes the integral role of advanced computational techniques for mathematical modeling and simulation in a range of fields for the analysis of complex physical systems, such as computer chip manufacturing, battery modeling, turbine design, aircraft prototype testing, climate change and star formation, among others.
+The dramatic increase in computational power for mathematical modeling and simulation has led to the fact that scientific computing now plays a significant role in the analysis of complex physical systems, such as computer chip manufacturing, battery modeling, turbine design, aircraft prototype testing, climate change and star formation, to name a few. More recently, too much data has become another compelling problem: radio telescopes, DNA sequencers, particle accelerators, sensor networks, social networks and the internet all collect much more data than humans can analyze and understand. In this case one needs to use statistics and machine learning, along with data visualization, to extract useful information from the data. The solutions to the mentioned problems share many mathematical, statistical and computational techniques in common.
+Mission
+The program is open only to students who are already enrolled in a Ph.D. program at UC Berkeley.
+The Designated Emphasis in Computational and Data Science and Engineering Program at the University of California, Berkeley trains students to use and manage scientific data, whether it is in analyzing complex physical systems or in using statistics and machine learning, along with data visualization, to extract useful information from the massive amount of data that can be collected from sensors today. The CDSE program is committed to the development of new curricula and expanded programs aimed at development and propagation of the use of numerical and computational tools to further research across multiple disciplines. To that end, the CDSE program will actively support the training and multidisciplinary education of scientists, engineers and technical specialists who are experts in relevant areas.
+The CDSE program that crosses numerous disciplines, and participating departments include Computer Science, Mathematics, Chemistry, Mechanical Engineering, Astronomy, Neuroscience and Political Science, among many others. Upon graduation, the student receives a “PhD in X with a Designated Emphasis in Computational and Data Science and Engineering” on their transcript and diploma. This designation certifies that he or she has participated in, and successfully completed, a Designated Emphasis in addition to the departmental requirements for the PhD, and completion of the DE-CDSE will also be posted to the student’s transcript.
+Activities include:
+Identifying existing and encouraging the development of new courses that best serve to educate computational science and engineering students
+Encouraging involvement in CDSE research activities by undergraduate and graduate students and postdoctoral researchers, and, potentially, by experienced professionals seeking to develop new skills that can benefit their careers
+Supporting formal short “boot-camp” education programs involving both live and web-based course offerings, with certificates if completed
+Supporting summer schools, seminar series, and tutorials
+Integration of these activities with Lawrence Berkeley National Laboratory (LBNL)
+A great many fields of science, engineering, finance and social science are embracing modeling, simulation, and data analysis as necessary tools to advance their fields. Sometimes this is driven by the need to perform simulations of systems that cannot easily be directly measured, and sometimes it is driven by the increasing generation of large data sets that require extensive computation to understand. Both need to take advantage of the computational power which comes from continuing advances in computer components and architectures, including parallel computing.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

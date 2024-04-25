@@ -1,0 +1,245 @@
+2021 National Workshop on Data Science Education | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+2021 National Workshop on Data Science Education
+Online Format for Summer 2021
+One day Bootcamp on teaching a Data 8 style fundamentals class
+Office hours from the Berkeley professors and student staff and Labs for Data 8, Data 100, and Data Science Modules
+Panels and discussions on a variety of topics Wednesday to Friday
+Read our Conference Welcome Letter
+The conference will be hosted online via Hopin
+Hopin Participants Guide   / Hopin Speakers Guide
+This workshop  is organized by UC Berkeley's Division of Computing, Data Science, and Society with support from Microsoft and the West Big Data Innovation Hub
+Resources
+Please take a look at our external-facing resources portal website with key links for instructors.
+We also have a one-page handout summary guide to open-source resources.  This short document will explain the curriculum and set of technologies developed at Berkeley.
+Questions
+Please feel free to contact us at ds-help@berkeley.edu) with any questions or concerns on implementing a Data Science program at your institution. We would also like to invite you to join our slack channel at datascienceeducation.slack.com
+Code of Conduct
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop and at all workshop events.  Code of Conduct
+Schedule (Schedule in Formation - all times are PDT)
+Monday, June 14: Bootcamp for Instructors
+9:00 AM
+Data 8 Overview - John DeNero(link is external).  - Video Recording(link is external)
+10:00 AM
+Sample Interactive Online Lab - Ian Castro and Anna Nguyen
+11:00 AM
+A panel of Instructors teaching Fundamentals Classes at other institutions - Video Recording
+Gloria Washington, Howard University
+Solomon Russell, El Camino College
+Karle Flanagan, UIUC
+1:00 PM
+Berkeley Data Stack - Infrastructure Overview - Chris Pyles, Yuvi Panda - Video Recording
+2:00 PM
+Advanced Lab (Data 8) - Yanay Rosen
+3:00 PM
+Alternative Cloud Technology Options - Amal Bhatnagar and Justin Cheung - Video Recording
+Tuesday, June 15: Open Office Hours AMA and Labs with UC Berkeley Course Staff (10 AM-5 PM PDT)
+8:00 AM
+Human Contexts and Ethics Workshop - {separate platform} - Margarita Boenig-Liptsin
+[Note - this is a separate platform - please sign up via Form to get Zoom Link]
+10:00 AM
+Berkeley Data Science Program Overview - Michael Jordan - Video Recording
+11:00 AM
+Data 6 - A new introductory course - Suraj Rampure - Video Recording
+1:00 PM
+Data 100 - Principles of Data Science - Fernando Perez and Joey Gonzalez)  - Video Recording
+2:00 PM
+Data Communication. - Video Recording
+Deb Nolan, UC Berkeley
+Sara Stoudt, Smith College
+Amelia McNamara, St Thomas
+Jeff Leek, Johns Hopkins
+Trity Pourbahrami
+3:00 PM
+Modules and Connectors - Eric Van Dusen and Alleana Clark
+VIdeo Recording
+Wednesday, June 16: Live Virtual Panels (9 AM-5 PM PDT)
+9:00 AM
+Human Contexts and Ethics Panel - Hear about new curriculum to introduce Data Science students to engage in social justice contexts.  Video Recording
+Margarita Boenig-Liptsin, UC Berkeley
+Jerry Volcy, Spelman College
+Anna Lauren Hoffmann, University of Washington
+11:00 AM
+California Alliance Panel - Overview of efforts at UC, CSU, and Community College levels including efforts to harmonize and articulate across institutions - Video Recording
+UC Overview - Aaron Frankel, UCSD
+CSU Overview - Hunter Glanz, Cal Poly   Judith Canner, CSU Monterey Bay
+California Community Colleges - Katia Fuchs, CCSF,  Denise Hum, Skyline College
+1:30 PM
+Data 8 Adopters - Hear from adopters of Data 8 Curriculum at a range of institutions and contexts VIdeo Recording
+Data 8 Survey Overview - Kseniya Usovich, UC Berkeley
+Justin Eldridge, UCSD
+Adam Poliak, Barnard College
+Luu, Thao-Nhi, Anne Arundel CC
+Ajay Anand, U Rochester
+3:30 PM
+Lightning Talks [Presentations] & Expo Booths
+Salomey Addo, Leuphana University of Lüneburg
+Valentin Danchev, University of Essex
+Matt Dube, University of Maine at Augusta
+Sam Donovan, University of Pittsburgh
+Patrick Washington, Morehouse College
+Andrew Ross, Eastern Michigan University
+Julien Langou, University of Colorado at Denver
+Timothy Warren, Oregon State University
+Thursday, June 17: Live Virtual Panels (9 AM-5 PM PDT)
+9:00 AM
+High School Data Science - Evolution of high school curriculum to include Data Science - Video Recording
+Jo Boaler, Stanford YouCubed
+Rob Gould, UCLA
+Taylor Gibson, NCSSM
+Zarek Drozda, Data Science Fellow, U.S. Department of Education
+11:00 AM
+National Efforts - Several networks and national efforts seek to coordinate and create synergies across institutions  - Video Recording
+Talitha Washington, Atlanta Univesity Center
+Sarah Stone, West Big Data Hub
+Micaela Parker, Academic Data Science Alliance
+Belle Wei, San Jose State University
+1:30 PM
+Technology for Teaching - Several technology options and innovations within Data Science education - Video Recording
+Jessica Lyons, Tableau
+Naomi Alterman, Cloudbank
+Chris Policastro, NYU
+Chris Holdgraf, 2i2c
+Lee Stott, Microsoft. - (presentation)
+3:30 PM
+Lightning Talks [Presentations] & Expo Booths
+Rachel Saidi, Montgomery College
+Aeron Zentner, Coastline College
+Tural Sadigov, Hamilton College
+Andre de Waal, IBM
+Mark Sawula, Peddie School
+Federica Bianco, University of Delaware
+Boyan Kostadinov, New York City College of Technology, CUNY
+Rick Cleary, Babson College
+Grace Li and Kyle Kishimoto, UC Berkeley
+Claudia Roda, American University of Paris
+Friday, June 18: Live Virtual Panels (9 AM-3 PM PDT)
+9:00 AM
+Increasing Inclusion in Data Science - Efforts to increase the diversity of who is engaging in studying Data Science, with examples from Mills College, and UMBC - Video Recording(link is external)
+Claudia Von Vacano, UC Berkeley
+Vandana Janeja, UMBC
+Susan Wang, Mills
+Seyi Olojo, UC Berkeley
+Rudy Mendoza - Denton, UC Berkeley
+11:00 AM
+Math for Data Science - A discussion of how Math courses can align with Data Science  - Video Recording
+Tim Chartier, Davidson
+Dave Austin, Grand Valley College
+Jo Hardin, Pomona
+Gireeja Ranade, UC Berkeley
+1:30 PM
+Data Science Capstone Projects - Overview of efforts to give students project-based experience within Data Science  - Video Recording
+Shannon Ellis, UCSD
+Ambuj Singh, UCSB
+Pamela Scott-Johnson, CSULA
+Maliaca Oxnam, U Arizona
+Arlo Malmberg, UC Berkeley
+Staff Organizers
+Eric Van Dusen
+Anthony Suen
+Student Team
+Justin Cheung
+Kseniya Usovich
+Alan Liang
+Registration Page for the National Workshop on Data Science Education
+Click Here to Sign Up
+Introduction to the National Workshop on Data Science Education
+Previous Workshops
+2018 Workshop
+DATA SCIENCE EDUCATION WORKSHOP
+2019 National Workshop on Data Science Education
+2020 National Workshop on Data Science Education
+2021 National Workshop on Data Science Education
+HCE Teacher Training
+Data Science Academic Resource Kit
+Data Science Curriculum Development
+Data Science Ethos Lifecycle
+SIGCSE Data Science Education Workshop
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

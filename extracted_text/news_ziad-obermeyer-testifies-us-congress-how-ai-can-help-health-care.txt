@@ -1,0 +1,146 @@
+Ziad Obermeyer testifies in U.S. Congress on how AI can help health care | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Ziad Obermeyer testifies in U.S. Congress on how AI can help health careBy Sheila Kaplan, UC Berkeley School of Public Health | February 14, 2024
+Ziad Obermeyer believes that artificial intelligence can help doctors and others in the healthcare system make better decisions, improving health and reducing cost. He also thinks that without strong oversight, much could go wrong.
+On February 8,  Obermeyer, Blue Cross Distinguished Associate Professor of Health Policy and Management at Berkeley Public Health, warned the U.S. Senate Finance Committee about some of AI’s potential hazards within the healthcare field, and offered ways to ensure that AI systems are safe, unbiased and useful.
+The hearing, “Artificial Intelligence and Health Care: Promise and Pitfalls,” explored the growing use of AI in medicine, and by federal health care agencies.
+“Throughout my ten years of practicing medicine, I have agonized over missed diagnoses, futile treatments, unnecessary tests and more,” Obermeyer said. “The collective weight of these errors, in my view, is a major driver of the dual crisis in our healthcare system: suboptimal outcomes at very high cost. AI holds tremendous promise as a solution to both problems.”
+Obermeyer, a physician and researcher, studies how machine learning can help doctors make better decisions (like whom to test for heart attack), and help researchers make new discoveries—by “seeing” the world the way algorithms do (like finding new causes of pain that doctors miss, or linking individual body temperature set points to health outcomes). He has also shown how widely-used algorithms affecting millions of patients automate and scale up racial bias. That work has impacted how many organizations build and use algorithms, and how lawmakers and regulators hold AI accountable.
+Obermeyer is a co-PI of a lab, joint between Berkeley and U Chicago, that builds algorithmic tools to improve decision-making and deepen understanding in health. He is the co-founder of Nightingale Open Science, a non-profit that makes massive new medical imaging datasets available for research; and Dandelion, a data platform to jump-start AI innovation in health. He is also a Chan Zuckerberg Biohub Investigator, a Faculty Research Fellow at the National Bureau of Economic Research, and was named an Emerging Leader by the National Academy of Medicine. He is an affiliated faculty member of the UC San Francisco-UC Berkeley Joint Program in Computational Precision Health.
+Obermeyer told the panel that one area where AI is already used to improve patient care, is in helping doctors predict which patients are at high risk for potential arrhythmias that cause sudden death.
+“In the U.S. alone, 300,000 people experience sudden cardiac death every year,” Obermeyer said. “What makes these events so tragic is that many of them are preventable: had we known a patient was at high risk, we would have implanted a defibrillator in her heart, to terminate the potential arrhythmias that cause sudden death, and save her life. Unfortunately, we are very bad at knowing who is at high risk.”
+Obermeyer worked with a team of colleagues in the U.S. and Sweden to train an AI system to predict the risk of sudden cardiac death using just the waveform of a patient’s electrocardiogram.
+“It performs far better than our current prediction technologies, based largely on human judgment,” he said. “This means we have the potential to both save more lives and reduce waste, by ensuring that precious defibrillators are implanted in the right patients. It’s rare to have an opportunity to both improve quality and reduce cost; normally we must choose. AI is a transformative new way for us to sidestep this dilemma entirely, and rebuild our health care system on a foundation of data-driven decision making.”
+This principle—better human decisions through AI-driven predictions—can apply to many areas of medicine, Obermeyer said.
+But despite his optimism, Obermeyer worries that without concerted effort from researchers, the private sector, and government, “AI may be on a path to do more harm than good in health care.”
+To make this case, Obermeyer walked the senators through a study he led five years ago that showed how a group of poorly designed AI algorithms, built and used in both public and private sectors, perpetuated large-scale racial bias.
+The algorithm’s goal was to identify patients with high future health needs. But, Obermeyer said, AI is extremely literal. Absent a data set called future health needs, the AI developers chose to predict a proxy variable that is present in health datasets: future healthcare costs.
+It seemed reasonable. But because of discrimination and barriers to access, underserved patients who need health care often don’t get it, Obermeyer said.
+“This means Black patients, and also poorer patients, rural patients, less-educated patients, and all those who face barriers to accessing health care when they need it—get less spent on their healthcare than their better-served counterparts, even though they have the same underlying health conditions. Low costs do not necessarily mean low needs.”
+The AI ignored those facts, and predicted that Black patients would generate lower costs; and thus deprioritized them for access to help with their health.
+“The result,” Obermeyer said, “was racial bias that affected important decisions for hundreds of millions of patients every year.”
+“Many of the biased algorithms we studied remain in use today,” he said. When questioned by members of the panel, he added, “unfortunately as AI learns to basically replicate our current system, it’s going to replicate all of the inequalities in our current system.”
+Fortunately, Obermeyer said, “there are a number of specific things that programs under this committee’s jurisdiction can do to ensure that AI produces the social value we all want.”
+Obermeyer said that Medicare, Medicaid, and other programs under the finance committee’s jurisdiction can realize enormous benefits from well-designed AI products to improve quality of service and reduce costs.
+“These programs should be willing to pay for AI—but they should not simply accept the flawed products that the market often produces,” Obermeyer said. “Rather, they should take advantage of their market power to articulate clear criteria for what they will pay for, and how much.”
+He also called for transparency by AI businesses.
+“We need more accountability in the form of evaluating those algorithms in new data sets and by third parties,” he said, “so that we don’t have to take an algorithm developer’s word that the AI is working well and equitably across groups.”
+Claudia Williams, UC Berkeley School of Public Health’s inaugural chief social impact officer, said, “Dr. Obermeyer points out that AI is a policy unicorn. It has the potential to improve health and reduce costs. But it won’t achieve these outcomes without the policy guardrails he recommends.”
+Other witnesses at the hearing were Michelle M. Mello, professor of health policy and of law at Stanford University; Peter Shen of Siemens Healthineers; Dr. Mark Sendak of Health AI Partnership; and Katherine Baicker, provost of the University of Chicago.
+Watch the full hearing here.
+This article was initially published by UC Berkeley's School of Public Health as, "Bring on the AI guardrails!"
+For Media Inquiries
+publichealthcommunications@berkeley.edu
+Image
+Meet the Expert
+Ziad Obermeyer is the Blue Cross Distinguished Associate Professor of Health Policy and Management at UC Berkeley's School of Public Health and an affiliated faculty member with the UC San Francisco-UC Berkeley Joint Program in Computational Precision Health. (Photo/ Berkeley Public Health)
+Latest News
+Image
+Isabel Serrano builds bridges, empowers CSU students to find their PhD path
+News
+| April 24, 2024
+Image
+UC Berkeley joins effort to advance open source initiatives across UC system
+News
+| April 17, 2024
+Image
+Francisca Vasconcelos chosen as Paul and Daisy Soros New American fellow
+News
+| April 17, 2024
+Image
+How to keep AI from killing us all
+News
+| April 9, 2024
+Image
+U.S. News & World Report ranks UC Berkeley computer science graduate program No. 1
+News
+| April 9, 2024
+View All
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

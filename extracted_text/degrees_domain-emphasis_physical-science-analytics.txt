@@ -1,0 +1,123 @@
+Physical Science Analytics | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Physical Science Analytics
+The Physical Science Analytics domain emphasis allows students to explore ways that data analytics, inference, computational simulation and modeling, uncertainty analysis, and prediction arise in physical science and engineering domains.
+From the lists shown below, students will select one course from the lower-division, and two courses from the upper-division. The lower division course is a required element of the Domain Emphasis.
+Courses in this domain emphasis are often restricted by major to enroll, and several have extensive prerequisites. It may be difficult to complete this emphasis given these restrictions. Students are advised to make appropriate alternate plans.
+Prerequisites are shown within square brackets.
+Lower Division (select one)
+PHYSICS 5BL. Introduction to Experimental Physics I (2 units) [Prerequisites: PHYSICS 5A or 7A; 5B or 7B]
+and PHYSICS 5CL. Introduction to Experimental Physics II (2 units) [Prerequisites: PHYSICS 5B & 5BL or 7B; 5C or 7C]
+PHYSICS 77. Introduction to Computational Techniques in Physics (3 units)
+PHYSICS 7A. Physics for Scientists and Engineers (4 units)
+Upper Division (select two)
+ASTRON 120. Optical and Infrared Astronomy Laboratory (4 units) [Prerequisites: MATH 54, PHYSICS 7ABC]
+ASTRON 121. Radio Astronomy Laboratory (4 units) [Prerequisites: MATH 53, MATH 54, PHYSICS 7ABC]
+ASTRON 128. Astronomy Data Science Laboratory (4 units) [Prerequisites: ASTRON 7A+B, MATH 53, 54, Data 8, 100 (recommended)]
+ASTRON C161. Relativistic Astrophysics and Cosmology (4 units) [Prerequisites: ASTRON 110A, 110B, 112]
+ASTRON C162. Planetary Astrophysics (4 units) [Prerequisites: MATH 53, MATH 54, PHYSICS 7ABC]
+CIV ENG C133/MEC ENG C180. Engineering Analysis Using the Finite Element Method (3 units) [Prerequisites: CS 61A, MATH 53, MATH 54]
+ENGIN 150. Basic Modeling and Simulation Tools for Industrial Research Applications (3 units)
+EPS 108. Geodynamics (4 units) [Prerequisites: MATH 53, MATH 54]
+EPS 109. Computer Simulations in Earth and Planetary Sciences (4 units) [Prerequisite: MATH 1A]
+EPS 122. Physics of the Earth and Planetary Interiors (3 units) [Prerequisites: PHYSICS 7AB, MATH 53]
+EPS C183 / ESPM C170. Carbon Cycle Dynamics (3 units)
+GEOG C136 / ESPM C130. Terrestrial Hydrology (4 units) [Prerequisites: PHYSICS 7A, CHEM 1A]
+GEOG C139 / EPS C181. Atmospheric Physics and Dynamics (3 units) [Prerequisites: MATH 53, PHYSICS 7ABC]
+NUC ENG 101. Nuclear Reactions and Radiation (4 Units) [Prerequisites: PHYSICS 7ABC]
+NUC ENG 130. Analytical Methods for Non-proliferation (4 units) [Prerequisites: NUC ENG 101]
+NUC ENG 155. Introduction to Numerical Simulations in Radiation Transport (3 units) [Prerequisites: MATH 53]
+PHYSICS 105. Analytic Mechanics (4 units) [Prerequisites: PHYSICS 7ABC]
+PHYSICS 111A. Instrumentation Laboratory (3 units)
+PHYSICS 112. Introduction to Statistical and Thermal Physics (4 units) [Prerequisites: PHYSICS 7ABC]
+PHYSICS 129. Particle Physics (4 units) [Prerequisites: PHYSICS 137A, 137B]
+PHYSICS 188. Data Science and Bayesian Statistics for Physical Sciences (4 units) [Prerequisites: PHYSICS 77 or DATA 8 or CS 61A; PHYSICS 89 or MATH 54 or EE 16A/B] [formerly offered as PHYSICS 151]
+These course lists are subject to change.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

@@ -1,0 +1,136 @@
+Infrastructure | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Infrastructure
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+Setting up and teaching a data science course often may require significant infrastructural setup, especially at scale. Two types of infrastructure are generally required:
+JupyterHub: an open-source service part of Project Jupyter that creates on-demand cloud-based Jupyter notebook servers. Installing a JupyterHub moves students' compute to the cloud, creating a more equitable, scalable, and uniform computing environment, eliminating issues with differeing student environments.
+Autograding: automatic-grading allows instructors to easily and efficiently grade large amounts of student submissions, and also lets students have a way to check their progress and ensure they’re heading the right direction.
+For data science adopters from other institutions, we recommend first checking out The Data Science Educator’s Guide to Technology Infrastructure(link is external). This Jupyter Book is a technology guide for others who wish to adopt a data science classroom environment, and is based on the Data Science Education Program’s (DSEP) experiences from running Data 8 and other data science courses.
+JupyterHub
+About JupyterHub
+JupyterHub is an open source service that creates on-demand cloud-based Jupyter notebook servers. The project has allowed Berkeley’s data science program to deploy scalable Jupyter infrastructure utilizing cloud computing resources. It enables users to interact remotely with a standardized and common computing environment through any web browser. Compared to local environments that run Jupyter, a cloud-based JupyterHub provides many conveniences, including pre-installed software, quicker access to course content, and computing flexibility that enables even users on Chromebooks or iPads to run Jupyter notebooks.
+UC Berkeley Datahub Documentation
+UC Berkeley Datahub Services
+Jupyter Discourse - Community Forum for Help
+What JupyterHub should I deploy?
+Choosing the right Jupyter environment infrastructure is often an involved process. This page goes over a few options and lays out the costs associated with each option.
+JupyterHub Deployment Guides
+The JupyterHub team has written guides to deploying different 'types' of JupyterHubs. Make sure to read the Choosing the Right JupyterHub Infrastructure page first to see which type of deployment is best for your institution:
+The Littlest JupyterHub Guide
+Zero to JupyterHub Guide
+Autograding
+About Otter Grader
+Otter Grader is a light-weight, modular open-source autograder developed by the Data Science Education Program at UC Berkeley. It is designed to work with classes at any scale by abstracting away the autograding internals in a way that is compatible with any instructor's assignment distribution and collection pipeline. Otter supports local grading through parallel Docker containers, grading using the autograder platforms of 3rd party learning management systems (LMSs), the deployment of an Otter-managed grading virtual machine, and a client package that allows students to run public checks on their own machines. Otter is designed to grade Python scripts and Jupyter Notebooks, and is compatible with a few different LMSs, including Canvas and Gradescope.
+Links
+Otter Documentation
+Otter Developer Slack
+Otter GitHub
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

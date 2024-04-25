@@ -1,0 +1,196 @@
+Undergraduate Student Opportunities Application Hub | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Undergraduate Student Opportunities Application Hub
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+Spring 2024 applications are open!
+Students interested in developing their technical and analytical skills, gaining professional experience, and making a difference in the data science community at Cal are encouraged to apply!
+To learn more about the available positions and to submit an application, please click on the Job Descriptions linked below. Please note that application deadlines vary.
+Additional positions will be posted as they become available.
+Please contact ds-teams@berkeley.edu (link sends email) if you have any questions or concerns.
+Before you apply:
+To access the team applications, click on the Job Descriptions linked below. Please read through the responsibilities and qualifications for the positions you are interested in. We encourage applicants from all backgrounds and skill levels to apply!
+You may apply to as many teams as you like, but if you are offered a position on multiple teams and are new to working for DSUS, you may only select one.
+Note: application deadlines vary.
+Please direct any questions to ds-teams@berkeley.edu (link sends email).
+After you apply:
+Each semester, we receive hundreds of applications to process and review, so please be patient as we review all candidates.
+If you believe you may have made an error on any of your applications, please contact ds-teams@berkeley.edu (link sends email). To maintain fairness for all applicants, we cannot guarantee that errors or changes will be fixed once the application period ends. Therefore, we recommend you review your application before submission.
+Frequently Asked Questions
+Updated March 31, 2022
+Will these positions be remote or in-person?
+Positions will vary from remote to in-person depending on the team. Please contact us at ds-teams@berkeley.edu(link sends email) for more specific inquiries.
+I will be located out-of-state or out-of-country for the spring semester. Am I still able to apply?
+If you will be located outside of California:
+You can still apply! If you receive an offer with us and decide to accept, you must agree to follow all of our policies in compliance with campus around reporting out-of-state work or your out-of-state address on all necessary platforms (i.e., CalCentral) for tax implications. You must also fill out an out-of-state work agreement via Docusign, which you will be provided during onboarding.
+If you will be located outside of the U.S.:
+The University of California as an employer does not yet have systems in place to ensure compliance requirements are met; therefore, the UC expects paid employees to conduct work within the United States at this time.
+BUT, we are recruiting for a few roles on a volunteer basis, and these roles are open to students outside of the U.S.
+Are any research positions available for the summer?
+The College of Computing, Data Science, and Society has a program focused on research called the Discovery Research Program. Please check their website for the most up-to-date information and deadlines.
+The College also has a pilot program called Discovery Exchange, which links students together for independent data science research. Learn more about the program at the Discovery Exchange website.
+Where can I find more information about a team or specific position?
+You can find information about all of our teams on our Student Opportunities page. You may also find it helpful to review the Data Science Undergraduate Studies' Student Teams Structure Chart (link is external) before applying. More information about specific positions, job descriptions, responsibilities, and qualifications for each position are posted below.
+Are there any work-study positions available?
+Yes — all paid positions are eligible for work-study, and there is no separate application for work-study applicants. If you receive an offer with us in a paid role and decide to accept, we will contact you about whether you want to use work-study (you must be eligible) for this role. If you choose to use your work-study, we will send you an offer through the Work-Study Management System, which you must accept promptly so that your work-study can be processed in time.
+Curriculum Support Teams
+Connector Course Assistants, Human Contexts and Ethics (HCE), Data Science Modules, Online Learning Services (OLS)
+About the Team
+The Curriculum Support teams work with faculty to create open-source materials for lectures, labs, and homework. The work that the Curriculum Support teams do is incorporated into course materials throughout campus. From data ethics to incorporating data science into other departments, the Curriculum Support team is key in creating and promoting our Data Science Undergraduate Studies on campus. Hone your skills as a data scientist and build a portfolio while making an educational impact across campus!
+Positions Available
+Connector Course Assistants
+-
+HCE
+-
+DS Modules
+-
+OLS
+-
+Application Information
+Positions are recruited by a team. To access the team application, please see the job description page for each position you are interested in.
+Along with your application for any teams you are interested in, you must also complete the Applicant Supplemental Form. However, you must only complete the Applicant Supplemental Form once.
+Note: You must sign in to your UC Berkeley email account to complete the application.
+Curriculum Support Teams
+Campus Support Teams
+Data Peer Consultants, Global Adoption Team, Infrastructure Team, Peer Advising Team, Transfer Mentors, Career Accelerator Program, Data Ambassadors
+Campus Support Teams
+About the Team
+The Campus Support student teams, provide services to the broader campus community by consulting on research projects, building infrastructure, and supporting other campuses in adopting data science programs and curricula. In addition, the Support teams work directly with both students and campus, providing support for data science and being ambassadors for the Data Science Undergraduate Studies Students will learn the ins and outs of a rapidly growing academic organization and make their mark on the largest Data Science education program in the nation by contributing to the operational functions of the organization.
+Positions Available
+Data Ambassadors
+- Data Ambassador
+Global Adoption
+-
+Peer Advising
+-
+Transfer Mentors -
+Career Accelerator Program
+-
+Application Information
+Positions are recruited by a team. To access the team application, please see the job description page for each position you are interested in.
+Along with your application for any teams you are interested in, you must also complete the Applicant Supplemental Form. However, you must only complete the Applicant Supplemental Form once.
+Note: You must sign in to your UC Berkeley email account to complete the application.
+Program Support Teams
+Discovery Operations, Discovery Consultants, HR & Management, Strategic Operations/Nexus
+About the Team
+The Program Support team supports the crucial functions of the Data Science Undergraduate Studies by developing our branding and marketing platform, managing the initiatives that draw all of our student programs together, and creating and maintaining a sense of data science community. Gain valuable leadership skills while working on large-scale projects with impacts across campus and the broader data science community. Learn the ins and outs of a rapidly growing academic organization and make your mark on the largest Data Science program in the nation!
+Positions Available
+Discovery Operations
+-
+Discovery Consultants
+-
+HR & Management - Not recruiting for Spring 2024.
+Strategic Operations/Nexus - Not recruiting for Spring 2024.
+Application Information
+Positions are recruited by a team. To access the team application, please see the job description page for each position you are interested in.
+Along with your application for any teams you are interested in, you must also complete the Applicant Supplemental Form. However, you must only complete the Applicant Supplemental Form once.
+Note: You must sign in to your UC Berkeley email account to complete the application.
+Program Support Teams
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

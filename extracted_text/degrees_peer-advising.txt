@@ -1,0 +1,288 @@
+Data Science Peer Advising (DSPA) | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Data Science Peer Advising (DSPA)
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+Peer Advising Drop-in Advising Hours (Hybrid)
+Mon-Thu 10am-4pm
+Peer Advising is available from Weeks 2 through 14 each term. Peer Advising is not available in the summer.
+Peer Advising is hybrid. When you sign in, you will be able to request your advising session either online via Zoom/Google Meet or in-person at 130 Warren Hall (back entrance).
+Sign In
+to join the waiting list during drop-in hours. This link is only active during drop-in hours as listed in the schedule above.
+View Queue
+to check your position in the queue after you have signed in.
+When your name reaches the top of the list:
+If you selected an in-person session, make sure you are at 130 Warren Hall before joining queue.
+If you selected an online session, check your UC Berkeley email account for an email from a Data Science Peer Advisor with a link to join your online Google Meet session. Depending on the number of advisors available, this email may take 10-15 minutes to arrive. Join your Google Meet session within 5 minutes of receiving the email.
+You will not be able to sign in if drop-in hours have not started or have already ended. Sign-ins may end early if the waiting list is already too long for peer advisors to see all waiting students.
+Data Science Peer Advisors (DSPAs) complement the Data Science Advising services by sharing their diverse knowledge and experiences with DS courses, different Data Science Major domain emphases, extracurriculars, and student groups on campus, research opportunities, and various campus resources.
+SPRING 2024: DSPAs are available for drop-in advising beginning in week two of the semester.  Their last advising day for the Spring 2024 semester will be Thursday, April 25th.
+Peer Advisors Spring 2024 Schedule
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+10-11
+Ella
+Nicole
+Michael
+Nicole
+Nicole
+Allison
+Nicole
+-
+11 - 12
+Allison
+Nicole
+Asbah
+Ella
+Lori
+Allison
+Esha
+-
+12 - 1
+Allison
+Esha
+Ella
+Michael
+Vivrd
+Esha
+-
+1 - 2
+Esha
+Lori
+Asbah
+Michael
+Lori
+Vivrd
+Esha
+Vivrd
+-
+2 - 3
+Asbah
+Lori
+Michelle
+Asbah
+Michelle
+Ella
+Michelle
+Vivrd
+-
+3 - 4
+Lori
+Michelle
+Michelle
+Ella
+Michael
+Michael
+Vivrd
+-
+Meet the Peer Advisors
+Image
+Allison
+Pronouns: she/her
+Major(s) and Minor(s): Statistics, Data Science
+Domain Emphasis: Economics
+Activities/Extracurriculars: D-lab, Research Assistant, LAEP
+Post Graduate Plans: Either graduate school or straight to industry
+Major Courses Completed: DATA 8, DATA C88C, COMPSCI 61B, DATA C100, ECON 2, DEMOG 180, MATH 1B, MATH 53, MATH W54
+Current Courses: DATA C140, ECON 100A, MATH 74
+Hi I’m Allison, a sophomore studying Statistics and Data Science. I’ve also got interests in demography, economics, public health, and history. Fun fact: I once saw Carol Christ being driven around in a Tesla around the Stanford campus. In my free time I love sleeping, going on boba runs, and making my friends’ 4-year plans. Feel free to stop by during my hours if you need help with courses, advise or just want to chat!
+Image
+Asbah
+Pronouns: She/Her/Hers
+Major(s) and Minor(s): Data Science, Cognitive Science
+Domain Emphasis: Cognition
+Activities/Extracurriculars: Berkeley Certificate in Design Innovation, Jacobs Institute for Design Innovation, Cognitive Science Student Association (CSSA), Data Science Undergraduate Studies (DSUS), Muslim Student Association (MSA)
+Research: BMW x JIDI Digital Design for Sustainability Research Fellow
+Post Graduate Plans: Work in industry, specifically in the UX field.
+Major Courses Completed: MATH 1A, MATH 1B, DATA 8, COMPSCI 88, COMPSCI 61B, DATA100, DATA 144, MATH 54, COGSCI 1, COGSCI 150, COGSCI C131, LINGUIS C142
+Current Courses: ENGIN 183D, ENVECON C118, INDENG 172, SOCIOL 150
+Hi everyone! My name is Asbah, and I am a junior studying Data Science and Cognitive Science, and I am also pursuing the Berkeley Certificate in Design Innovation. I was first exposed to the Data Science field when I took Data 8 in my first semester at Cal. Data 8 opened my eyes to the numerous applications of Data Science to almost any other field, which spurred my interest in the subject even further. Cognitive Science is also an interdisciplinary field, and I find it fascinating how both subjects go hand-in-hand. This encouraged me to become more involved in organizations at Cal, such as DSUS, to share my passion with my peers. I have previously been Connector Associate for a Data Science connector course, and I have also been on course staff for Data 100. In my free time, I enjoy drawing, painting, reading, going on walks, and organizing. Feel free to drop in to my advising hours if you would like some advice, guidance, or just want to chat! As a DSPA, I hope to share my knowledge, passion, and experiences to better support you!
+Image
+Ella
+Pronouns: she/her
+Major(s) and Minor(s): Data Science and Anthropology
+Domain Emphasis: Human Behavior & Psychology
+Activities/Extracurriculars: RecWell Swim
+Post Graduate Plans: I hope to start working!
+Major Courses Completed: COMPSCI 61A, COMPSCI 61B, STAT 20, MATH 16A, MATH 1B, MATH 54, PSYCH 1, DATA 100, DATA 144, INDENG 172, ECON 110, PSYCH 140, ESPM 167
+Current Courses: INFO 159, INDENG 142A
+Hi! I'm Ella, and I’m a senior studying Data Science. My prior experience in data and computer science was limited before Cal, but I'm grateful for the supportive community and dedicated course staff. In my free time, I enjoy yoga, climbing, swimming, watching movies, and frequent trips to Top Dog. Feel free to drop by during my advising hours to chat or ask any questions!
+Image
+Esha
+Pronouns: She/Her
+Major(s) and Minor(s): Data Science and Cognitive Science
+Domain Emphasis: Cognition
+Activities/Extracurriculars: Undergraduate Lab at Berkeley, DataGood @ Berkeley, Association of Women Engineers (AWE), Society of Women Engineers(SWE), Girls Who Code
+Research: The Unintended Consequences Of The Things We Say: A Replication and Extension (https://escholarship.org/uc/item/9850j6jv)
+Post Graduate Plans: So far, I am planning to enter the industry and then pursue graduate school. Major Courses Completed: DATA 8, DATA 100, COMPSCI 61A, COMPSCI 61B, COMPSCI 70, MATH 1A, MATH 1B, CogSci 1, MATH 54, PSYCH C61, PHILOS 3, LINGUIS 100 DATA 140, DATA 144, COMPSCI 188, PSYCH C123
+Current courses: COGSCI C126, DATA C104, COGSCI 115, INDENG 170
+Hi everyone! I’m Esha, a junior studying Data Science and Cognitive Science. I came into Berkeley as a freshman not knowing too much about data science, but after taking Data 8, I really enjoyed it! Over the past summer, I’ve been working with data related applications in the healthcare industry, and can truly see myself in a similar role in the future. I love baking, reading, traveling and exploring new cafes with friends. Feel free to ask any questions regarding the major, navigating extracurriculars, or anything else at my advising hours!
+Image
+Lori
+Pronouns: She/Her/Hers
+Major(s) and Minor(s): Data Science & Business Administration
+Domain Emphasis: Business and Industrial Analytics
+Activities/Extracurriculars: Consult Your Community (CYC), DSUS Module Developer & Women in Computing and Data Science (WiCDS)
+Research: Data Discovery Research Program - IBM Mangroves
+Post Graduate Plans: Tech Consulting & Graduate School
+Major Courses Completed: Data 8, Data 100, Data 140, Data 104, Data 144, CS 61A, CS 61B, Econ 2, UGBA 88 & UGBA 104, Econ 140
+Current Courses: Ind Eng 142A, UGBA 105, UGBA 101A, UGBA 102B
+Hi! My name is Lori, and I’m a senior double majoring in Data Science and Business. I didn’t have much coding experience before coming to Berkeley, but I really enjoyed statistics so I decided to take Data 8 my first semester. After taking Data 8, I wanted to learn how to apply data science to other industries, especially for environmental good and business challenges. I also love to travel, and I studied abroad in Madrid during my junior spring semester. In my free time, I like to play basketball, hike, watch movies, and spend time with my friends! If you have any questions or just want to chat, please feel free to come to my advising hours. :)
+Image
+Michael
+Pronouns: He/Him/His
+Major(s) and Minor(s): Data Science
+Domain Emphasis: Business and Industrial Analytics
+Activities/Extracurriculars: Data Science Society at Berkeley (Vice President), UCS1 (Tutor) for DATA 8
+Research: Data Science Discovery Program
+Post Graduate Plans: Grad school!
+Major Courses Completed: DATA 8, DATA 88E, DATA 100, CS 61A, CS 61B, MATH 54
+Current Courses: DATA 104, DATA C88S, INDENG 120, AGRS 28, STAT 33B
+Hi! I'm Michael and I'm a second-year Data Science major. My favorite thing about data science is how applicable it is to every field of interest and work. For me, DATA 100 was the deciding factor in my decision to be a Data Science major. On campus, I'm a member of Data Science Society at Berkeley, where I've been a member for three semesters. I was a consultant in the Social Good Committee in my previous two semesters and I’m currently the Vice President of Sourcing. I’m responsible for finding and signing on clients for both the Social Good and Consulting committees, as well as managing client relations. I’m also a UCS1 (Tutor) for DATA C8. In my free time, I enjoy watching NBA basketball and trying new foods. I love talking about my experiences and past involvements so come by advising hours and I'm happy to chat!
+Image
+Michelle
+Pronouns: She/Her/Hers
+Major(s) and Minor(s): Business Administration + Psychology, Data Science minor
+Domain Emphasis: N/A Activities/Extracurriculars: EthiCAL, AFX
+Post Graduate Plans: Get work experience and study for a MBA later
+Major Courses Completed: CS 88, DATA 8, DATA 100, XMATH 1B, MATH 54, STAT 88, ECON 100B, XMCB 32, PSYCH101, PSYCH 134, ECON 100A, UGBA 102A, PSYCH 130, SOCIOL 106, UGBA100, UGBA 103, UGBA 107
+Current Courses: UGBA 102B, UGBA 104, PSYCH C115C, PSYCH C61
+Hi! I’m Michelle, a fourth-year from Houston majoring in Business and Psychology, minoring in Data Science. As a freshman, I never imagined that I would study Data Science, but my DS classes had super welcoming communities and supportive staff! I hope to help other students see how accessible Data Science is. In my free time, you can find me catching up on Netflix shows (always looking for recs), reading, or finding the best food spots with friends. Please feel free to reach out if you need second opinions, class advice, or have any Data Science related questions!
+Image
+Nicole
+Pronouns: she/her/hers
+Major(s) and Minor(s): DS, CS
+Domain Emphasis: Business Analytics
+Activities/Extracurriculars: DSPA
+Research: URAP
+Post Graduate Plans: Working in the industry and then go to graduate school
+Major Courses Completed: all DS Lower divisions, Data 100, Data 104, Data 140, CS 170, CS 189, Stat 135, UGBA 104, CS 161, CS 188
+Current Courses: Engin 183, CS 168, CS 186
+Hi my name is Nicole! Nice to meet you all and I’m happy to share my experiences about classes and extracurriculars relating to data science at Cal. In my free time, I like to go to museums, grocery-shopping, and recently I’m into making vlogs and videos. Drop in during my hours and I’ll do my best to help :)
+Image
+Vivrd
+Pronouns: He/Him/His
+Major(s) Data Science Minor(s) Computer Science
+Domain Emphasis: Applied Mathematics and Modeling
+Activities/Extracurriculars: Student Association of Applied Statistics (SAAS), Computer Science Mentors (CSM), DSUS External Adoption,
+Research: Data Science Discovery
+Post Graduate Plans: Going into industry or pursuing a master's degree in DS/CS
+Major Courses Completed: CS 61A, CS 61B, CS 162, CS 189, Data 8, Data 100, Data 101, Data 102, Data 140, Stat 135, Math 53, Math 54, Math 110
+Current Courses: INFO 159, CIVENG 259
+Hi there! I am Vivrd and I'm a senior studying Data Science. Data 8 was my first introduction to data science, and my experience in the major have been amazing ever since! I'm especially fascinated about how applicable data science is in so many domains. In my free time, I love to catch up on novels and work on jigsaw puzzles; I'm a big fan of Wordle as well! Feel free to reach out if you have any questions about Data Science at Berkeley, career planning, or just want to chat!
+Image
+Contact Us
+Email: ds-peer-advising@berkeley.edu
+Location: 130 Warren Hall
+Follow us on Instagram!
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

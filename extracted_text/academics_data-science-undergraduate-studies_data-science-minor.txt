@@ -1,0 +1,217 @@
+Data Science Minor | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Data Science Minor
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+Based on changes to L&S policy, courses completed at UC Berkeley with a grade of Pass in FALL 2022 will count toward Data Science minor requirements, including prerequisites to declare the minor. See the L&S Fall 2022 Late Grading Option Change Modification for more information.
+Additionally, courses completed at UC Berkeley with a grade of Pass in Spring 2020, Fall 2020, Spring 2021 and Summer 2021 will count toward Data Science minor requirements, including prerequisites to declare the minor. Please see the L&S P/NP policy modifications for more information.
+On This Page
+Minor Requirements
+Grading & Overlap Rules
+Declaration and Completion Process
+Minor FAQs
+The Minor in Data Science at UC Berkeley aims to provide students with practical knowledge of the methods and techniques of data analysis, as well as the ability to think critically about the construction and implications of data analysis and models. The minor will empower students across the wide array of campus disciplines with a working knowledge of statistics, probability, and computation that allow students not just to participate in data science projects, but to design and carry out rigorous computational and inferential analysis for their field of interest.
+The minor in Data Science has been approved for all undergraduate students (except those pursuing a BA in Data Science).
+Lower Division Requirements
+1.
+Foundations
+Data C8 (CompSci/Stat/Info C8)
+Stat 20 may substitute for Data C8 if combined with CS/Data C88C or CS 61A for the Programming requirement; this option is not available for students who take Engin 7 for their Programming requirement.
+2.
+Programming
+CompSci/Data C88C (formerly CompSci 88) or CompSci 61A or ENGIN 7
+3.
+Probability
+Stat/Data C88S (formerly Stat 88) or CivEng 93 or CompSci 70 or Math 10B or Math 55
+(Students may choose to substitute Stat 134, Stat 140, IND ENG 172, or EECS 126. If counted here, the same course will not also count toward the upper-division electives in the minor.)
+Upper Division Requirements
+1-Course Core Pathway
+The 1-course core pathway expects background of at least 2 semesters of calculus and 1 semester of linear algebra. In its current implementation, Data 100 uses Python.
+2-Course Core Pathway
+The 2-course core pathway expects background of 1 semester of calculus. In its current implementation, Stat 131A and 133 use R.
+1.
+Gateway
+Data 100 (CS/Stat C100) - Principles & Techniques of Data Science
+(Enforced Prerequisites: Data C8; CS 61A or 88 or Engin 7. Enforced Corequisite: Math 54 or 56 or EE/EECS 16A.)
+Data/Stat 131A - Statistical Methods for Data Science and
+Stat 133 - Concepts in Computing with Data
+2.
+Human Contexts & Ethics
+Choose ONE from: AMERST/AFRICAM 134 or C134, BIO ENG 100, CY PLAN 101, DATA C104/HIST C184D/STS C104, DIGHUM 100, ESPM C167/PBHLTH C160, INFO 188, ISF 100J, NWMEDIA 151AC, PHILOS 121
+Choose ONE from: AMERST/AFRICAM 134 or C134, BIO ENG 100, CY PLAN 101, DATA C104/HIST C184D/STS C104, DIGHUM 100, ESPM C167/PBHLTH C160, INFO 188, ISF 100J, NWMEDIA 151AC, PHILOS 121
+Elective(s)
+Choose TWO from the approved electives list
+Choose ONE from the approved electives list
+Grading Rules
+All courses for the minor must be taken for a letter grade.
+Students must earn a C- or better in each course, and have a minimum 2.0 GPA in all courses towards the minor.
+Overlap Rules*
+Please note that the Data Science minor is offered by the College of Computing, Data Science and Society and overlap policies differ from minors offered by other Schools or Colleges. Please read this section carefully.
+*Please also be sure to check with your home College about any overlap rules that may apply to minors. If your College has a different policy, the most restrictive policy applies.
+Students may overlap up to 1 course in the upper division requirements for the Data Science minor with each of their majors (for example, a Computer Science major may count COMPSCI/STAT C100 toward both their major and the Data Science minor).
+A maximum of one course offered by or cross-listed with the student’s major department(s) may count toward the data science minor upper-division requirements, including any overlapping course (for example, if a Computer Science major takes COMPSCI/STAT C100 toward the Data Science minor, this is the only COMPSCI, ELENG, or EECS course which may count toward the upper-division requirements for the minor).
+An upper-division course used to fulfill a lower-division requirement (for example, Stat 134 to fulfill the probability requirement) will not be counted toward the maximum 1 course allowed to overlap with the major, nor will it fulfill one of the four upper division course requirements.
+There is no restriction on overlap with another minor.
+Students may not earn both a BA in Data Science and a minor in Data Science.
+Need Advising?
+Data Science advisors are available to help! Email us at ds-advising@berkeley.edu, or find out about our other advising services.
+Step 1: Declaring the Minor
+Criteria to declare:
+Data 8 completed with a C- or better, and
+2 additional courses toward the minor completed or in progress in the current term
+Process to declare:
+Submit on online application to declare the minor by the deadline.
+Applications are reviewed approximately twice per semester. Once approved, the Data Science minor will appear on your student record in CalCentral.
+Deadline to declare:
+You must submit your application to declare the Data Science minor prior to the first day of classes of your Expected Graduation Term. For Summer graduates, the deadline to declare a minor is anytime prior to the first day of classes for Summer Session A. If you have missed the deadline but are enrolled in all required courses to complete the minor, please consult with a Data Science Advisor about your options.
+Step 2: Verifying Completion
+Requirements to complete minor:
+All 7 courses completed with a letter grade of C- or better in each, and a 2.0 overall GPA in the minor by the end of your final term
+Process to verify completion:
+In your final semester, fill out the Data Science Minor Completion form and obtain a signature from your major advisor to verify any overlapping classes. Students with more than one major should complete one form for each major.
+Scan and submit your completed and signed form to our Minor Completion online form for final approval from a Data Science advisor.
+Data Science advisors will review your Completion form after final grades are available. If approved, the Data Science minor will appear on your UC Berkeley transcript. Minors do not appear on the diploma.
+Deadline to verify completion:
+You must submit your Data Science Minor Completion form by the last day of classes in your Expected Graduation Term in order to ensure processing before degrees are awarded.
+Forms will not be accepted earlier than the term in which you expect to graduate, regardless of when you complete the requirements for the minor.
+FAQs
+Can I use a second course offered by the department of my major toward the upper-division requirements of the Data Science minor if the course is not being counted toward my major?
+No. The overlap rules allow a maximum of 1 course offered by or cross-listed with the department of your major to count toward the upper-division requirements, regardless of whether the course is meeting any requirements in your major. Because Data Science is very interdisciplinary and spans many subject areas, our faculty feel that you will benefit most from the minor if you expand your knowledge and skill set beyond the area(s) in which you are already pursuing a major.
+Do I have to take a linear algebra class like Math 54 for a letter grade or is P/NP ok?
+Linear algebra is an enforced requisite to enroll in Data C100 but is not required for the Data Science minor, so a letter grade is not required.
+Are there any exceptions to the deadline to declare the minor?
+Students must declare the minor a semester before their expected graduation term (EGT). If you miss the deadline, you can consult with your College Advisor about changing you EGT to a later term. If this is not possible, you can contact a Data Science Advisor to discuss the appeal process.
+Can I use the Academic Progress Report in CalCentral to verify my progress toward the minor?
+While the requirements for the Data Science minor appear on the Academic Progress Report, it may not accurately reflect the minor overlap policies. Please check with a Data Science advisor if you have questions or are not sure which classes you can overlap with your major(s).
+What kind of priority (if any) will Data Science minors receive for enrollment in classes for the minor?
+Seats are reserved in impacted classes at the discretion of the department offering the course. Generally, most courses will not have seats reserved for Data Science minors, as a minor is not required to graduate.
+I've advanced beyond Data 8. Will the “grandfathered” substitution option for the major also be accepted for the minor?
+For students admitted to UC Berkeley as freshmen prior to Fall 2018 or as transfers prior to Fall 2019, we allow a "grandfathered" option to substitute for Data 8 in the minor if both courses are completed no later than Summer 2019:
+Stat 20, 21, 131A or 135 and
+CS 61A or ENGIN 7
+Stat 131A or 135 may not be used toward both the Data 8 substitution and the upper-division requirements in the minor.
+I already completed one or more of the courses for the minor on a Pass/Not Pass basis before Fall 2019. Will they be accepted?
+We will accept up to 2 courses completed with a Pass prior to Fall 2019 toward the Data Science minor, of which 1 may be upper-division. Courses completed with a Pass in Fall 2019 or later will not be accepted toward the minor.
+Is there a minimum GPA requirement to declare the minor?
+There is no minimum GPA to declare the minor, but you will need to earn a minimum 2.0 overall GPA in the minor in order to have it conferred at graduation. You must also earn a minimum C- or better in each course.
+Where does the minor appear on my student record?
+Once declared, the Data Science minor will appear on your CalCentral dashboard and your Academic Progress Report. Please note that courses listed on the Academic Progress Report may not accurately reflect the minor overlap policies.
+Once completed and verified, the Data Science minor will appear on your UC Berkeley transcript. Minors do not appear on the diploma.
+What happens if I declare the minor but don’t finish the requirements by the end of my final semester?
+If you know that you will not complete the requirements for the Data Science minor, please submit an online request to drop the minor from your student record prior to the end of your Expected Graduation Term.
+If you do not complete the requirements and/or do not submit a Minor Completion Form by Friday of RRR week in your final term, the minor will be automatically dropped and you will graduate without the minor. However, this may cause delays in processing your graduation so it is strongly recommended that you drop the minor in advance.
+If you wish to change your graduation date to a future term in order to complete the minor, you must notify your College Advisor before Friday of RRR week. Note that a minor does not entitle a student to an extra semester, or an exception to the L&S unit ceiling.
+How can I drop the Data Science minor?
+If you have already declared the minor and no longer plan to complete it, please submit an online request to drop the minor before the end of your Expected Graduation Term.
+Who should I ask if I have more questions about the minor?
+Review other frequently asked questions and answers on our Data 001 Piazza page, or post one.
+If you have questions about choosing classes for the minor, please see the Data Science Peer Advisors during their drop-in advising hours.
+If you have questions about enrolling in a specific course, please contact the instructor or department offering the course. For Data courses, contact ds-enrollments@berkeley.edu.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

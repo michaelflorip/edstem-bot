@@ -1,0 +1,155 @@
+News | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+News
+Image
+Isabel Serrano builds bridges, empowers CSU students to find their PhD path
+News
+Isabel Serrano knew what she enjoyed – the logic of math, the patterns of data, the power to help people through medicine – but for years she didn’t know how to make it a career. When an intern advisor proposed a PhD in computational biology, it clicked almost instantly. Serrano, who received her undergraduate degree from California State University, Fullerton, now helps increase awareness of this field for other CSU students. She also helps mentor and prepare them for the same ambitious path she took to study at UC Berkeley’s Center for Computational Biology. “We have presences at conferences every year. But if you’re already at these events, then you probably know what a PhD is. You have some sense of what comp bio is,” said Serrano, who will complete her PhD this spring. “What about the people who don’t – not because they’re not interested, but because they don’t have the language to figure out that this might be what they're interested in?”
+Image
+UC Berkeley joins effort to advance open source initiatives across UC system
+News
+UC Berkeley is joining an ambitious effort to advance open source research, education and public service across the University of California system. The Berkeley Institute for Data Science (BIDS) will lead the university’s involvement in this initiative, launching an office to house the campus’s extensive open source expertise. This program office is one of six in the UC system that will work individually and collectively to benefit society through open source endeavors. "BIDS will serve as an interdisciplinary community hub where computing, data, science and society intersect," said Fernando Pérez, faculty director of the institute. "We are excited to collaborate with our UC partners to build a robust open source ecosystem within the UC system."
+Image
+Francisca Vasconcelos chosen as Paul and Daisy Soros New American fellow
+News
+Francisca Vasconcelos, a doctoral student in UC Berkeley’s Department of Electrical Engineering and Computer Sciences, has been chosen as a Paul and Daisy Soros fellow. She will receive up to $90,000 to support her graduate education as part of the Paul and Daisy Soros New American Fellowship, a merit-based program for immigrants and children of immigrants. Vasconcelos, whose parents immigrated from Portugal, is the first Soros fellow with Portuguese heritage. She is one of two Berkeley students included in the 30-person 2024 cohort from 2,323 applicants. The program has spent more than $80 million since 1998 supporting 805 fellows from 103 countries pursuing U.S. graduate degrees in fields from medicine to law.
+Image
+How to keep AI from killing us all
+News
+Berkeley News: If left unchecked, powerful AI systems may pose an existential threat to the future of humanity, say UC Berkeley Professor Stuart Russell and postdoctoral scholar Michael Cohen. In a recent insights paper in the journal Science, they argue that tech companies should be tasked with ensuring the safety of their AI systems before these systems are allowed to enter the market. Berkeley News spoke with Russell and Cohen about the threat posed by AI, how close we are to developing dangerous AI systems, and what “red lines” AI should never be allowed to cross.
+Image
+U.S. News & World Report ranks UC Berkeley computer science graduate program No. 1
+News
+UC Berkeley’s computer science graduate program was ranked first in the nation for the second year in a row by U.S. News & World Report, according to 2024 rankings released April 8. Berkeley’s program in the Department of Electrical Engineering and Computer Sciences shared the top spot with computer science programs at the Massachusetts Institute of Technology, Stanford University and Carnegie Mellon University. Several other Berkeley graduate programs in business, public health, public affairs and more were listed in the top 20 for their disciplines. These rankings are based on a survey of academics at peer institutions, according to U.S. News.
+Image
+Three decades after UN milestone, experts convene to find AI climate solutions
+News
+Thirty years after a United Nations convention combating climate change entered into force, the dangers of increasing human-caused, planet-warming emissions are on full display. Severe droughts strain water reserves, surging temperatures threaten food supplies and rising sea levels turn whole villages into climate refugees. Scientists warn it will get much worse. But climate change isn’t the only phenomena that’s accelerating. The science and technology needed to address its impacts is also rapidly advancing. Using the power of artificial intelligence, material and climate science experts are developing cutting-edge technology to stem the planet’s warming and its related impacts. They are converting water molecules from the air into drinking water, making clearer and faster climate and weather predictions and building better renewable energy systems.
+Image
+Berkeley experts urge high schools to offer advanced math in line with UC report
+News
+An advanced math curriculum in high school is essential for preparing California students for science and technology majors in college, University of California, Berkeley experts wrote in a recent EdSource op-ed. The authors credited a recent report from a UC Board of Admissions and Relations with Schools (BOARS) workgroup that recommends “only courses that require knowledge of advanced algebra should validate the Algebra II/ Math III course” for UC admission. The report recommendations were subsequently shared in a message to high school counselors and advisers by the UC Office of the President, explaining steps the system is taking to implement the BOARS recommendations for the 2025-26 academic year.
+Image
+New center aims to create healthcare innovation research-to-impact pipeline
+News
+UC Berkeley experts are developing a trailblazing infrastructure to translate cutting-edge AI and behavioral economics healthcare research into powerful real-world advances in patient outcomes and drastically reduced medical costs. The Center for Healthcare Marketplace Innovation is being launched by the College of Computing, Data Science, and Society and the Haas School of Business to act as a force multiplier for top-tier technological innovation and economic insights. Developing and using the research on healthcare innovation incentives will lead to the creation and deployment of interventions that meaningfully improve public health. Artificial intelligence (AI) is widely expected to transform healthcare. The new Berkeley center aims to play an essential role in ensuring those innovations benefit the public. AI tools could enhance care quality by, for example, helping triage patients in emergency rooms, diagnosing diseases and coaching clinicians. These technologies can also help reduce the 15 to 30% of health care spending that goes towards administrative functions each year, said Jonathan Kolstad, the center’s faculty director. That means up to $250 billion less in annual spending and more time focused on improving patient care. Still, this moment also carries risk.
+Image
+Statistics, computer science faculty among Schmidt Sciences AI2050 fellows
+News
+Three UC Berkeley experts have been named as Schmidt Sciences’ AI2050 Early Career Fellows, a cohort that will conduct ambitious artificial intelligence research to benefit society. Computer Science Assistant Professor Nika Haghtalab, Statistics and Computer Science Assistant Professor Jacob Steinhardt and incoming Statistics Assistant Professor Amanda Coston are among this year’s 19-person group. Each will receive up to $300,000 over two years to fund their work. "Modern AI systems are rapidly scaling in both capabilities and impact, with the potential to unlock profound discoveries," said Eric Schmidt, co-founder, with his wife Wendy, of Schmidt Sciences and AI2050 co-chair, in the organization’s announcement. "These AI2050 Early Career Fellows will tackle challenging issues in AI to uphold safety, reliability, and promising benefits for humanity.”
+Image
+Omar Yaghi honored with Fiat Lux Faculty Award
+News
+Omar Yaghi, a UC Berkeley professor of chemistry and co-director and chief scientist for the Bakar Institute of Digital Materials for the Planet, has received the 2024 Fiat Lux Faculty Award from the Cal Alumni Association as a part of this year's Achievement Awards. The Berkeley community is filled with people pushing the edges of what's possible — business leaders whose achievements have shaped entire industries and benefited humankind; alumni whose dedication to Berkeley has had a profound and lasting impact on students and faculty; and young alumni whose early achievements are already showing great promise for their fields or communities. Each year, the university honors them with the Achievement Awards, co-presented by the UC Berkeley Foundation and the Cal Alumni Association.
+Pagination
+Current page
+1
+Page
+2
+Page
+3
+Page
+4
+Page
+5
+Page
+6
+Page
+7
+Page
+8
+Page
+9
+…
+Next page
+Next
+Last page
+Last
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

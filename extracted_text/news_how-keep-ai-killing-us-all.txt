@@ -1,0 +1,161 @@
+How to keep AI from killing us all | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+How to keep AI from killing us allBy Kara Manke, Berkeley News
+| April 9, 2024
+If left unchecked, powerful AI systems may pose an existential threat to the future of humanity, say UC Berkeley Professor Stuart Russell and postdoctoral scholar Michael Cohen.
+Society is already grappling with myriad problems created by the rapid proliferation of AI, including disinformation, polarization and algorithmic bias. Meanwhile, tech companies are racing to build ever more powerful AI systems, while research into AI safety lags far behind.
+Without giving powerful AI systems clearly defined objectives, or creating robust mechanisms to keep them in check, AI may one day evade human control. And if the objectives of these AIs are at odds with those of humans, say Russell and Cohen, it could spell the end of humanity.
+In a recent insights paper in the journal Science, they argue that tech companies should be tasked with ensuring the safety of their AI systems before these systems are allowed to enter the market. Berkeley News spoke with Russell and Cohen about the threat posed by AI, how close we are to developing dangerous AI systems, and what “red lines” AI should never be allowed to cross.
+Berkeley News: To start, could you describe how future AI systems could evade human control and what threat they would pose if they do?
+Stuart Russell: Intelligence gives you power over the world, and if you are more intelligent — all other things being equal — you're going to have more power. And so if we build AI systems that are pursuing objectives, and those objectives are not perfectly aligned with what humans want, then humans won't get what they want, and the machines will.
+In practical terms, we are already giving machines bank accounts, credit cards, email accounts, social media accounts. They have access to robotic science labs where they can run chemistry and biology experiments, and we're very close to having fully automated manufacturing facilities where they can design and construct their own physical objects. We're also building fully autonomous weapons.
+If you put yourself in the position of a machine and you're trying to pursue some objective, and the humans are in the way of the objective, it might be very easy to create a chemical catalyst that removes all the oxygen from the atmosphere, or a modified pathogen that infects everybody. We might not even know what's going on until it's too late.
+Michael Cohen: They can also create other agents to work for them, and so you could quickly have a system where you have lots of agents that are unmonitored, and unmonitorable, carrying out these sorts of things.
+How do these potentially dangerous AI systems differ from those that, say, curate our social media feeds? What properties would AI need to be able to evade human control and become dangerous?
+Russell: What you see in social media and in chatbots are what we call reactive systems: Input goes in, output comes out, and there isn't really time for it to deliberate. As far as we know, this kind of AI system doesn’t think about the future.
+However, if you play chess, Go, or a lot of video games, you are used to dealing with the kind of systems we are concerned about because you can lose game after game after game. These are systems that can plan and consider the consequences of long sequences of actions, which allows them to outthink human beings.
+The kinds of agents we're talking about would basically combine the breadth of knowledge that the large language models have extracted from reading everything humans have ever written with the planning and coordination capabilities that you can find in game-playing programs.
+Cohen: I think that's the key difference. One other difference is the systems we're concerned about might also require better world models than the ones that exist today.
+What do you mean by "world models"?
+Cohen: A world model is something that can predict how the world is going to continue to evolve based on what it knows.
+Russell: You can think of it like the rules of chess — that's a world model for chess. If I move my bishop here, then my bishop ends up here. You know, when ChatGPT came out, one of my friends asked, “If I have $20, and I give $10 to my friend, how much money do we have?” And it said $30. That's an example of a bad world model.
+I'm in agreement with Demis Hassabis, who recently gave a talk where he said he thinks we still need one or two major breakthroughs before we have the kinds of capabilities that would be a big flashing red light for the human race.
+Will it be possible to know when AI agents have attained these abilities before it’s too late?
+Cohen: We don’t know — with the ways that AI is built currently, we can’t be sure.
+Russell: I would say if the breakthrough is a breakthrough that happens through human ingenuity, we would be aware of it because we would be figuring out how to combine all this world knowledge — extracted from human texts — with this ability to reason and plan.
+But the concern is: What's happening inside the large language models? We haven't the faintest idea. I think there are good reasons to think that the large language models are, in fact, acquiring goals, because we're training them to imitate human beings, and human beings have goals. But we don't have a way of finding out what goals they have or how they pursue them.
+In your recent Science paper, you argue that policies and oversight are key to preventing AI systems from evading human control. Why is that, and what are some of the key policies that you would advocate for?
+Cohen: The major AI labs are using rewards to train their systems to pursue long-term goals. As they come up with better algorithms, and more powerful systems, this is likely to incentivize behavior incompatible with human life. They need to be stopped from doing that.
+We propose that, if an AI system could be capable of extremely dangerous behavior, and it is trained to pursue long-term goals as well as it can, then such systems should be "kept in check" by not being built in the first place.
+Russell: You might ask, "Why don't you and your students just solve this problem?" If you just look at the resources, between the startups and the big tech companies we're probably going to spend $100 billion this year on creating artificial general intelligence. And I think the global expenditure in the public sector on AI safety research — on figuring out how to make these systems safe — is maybe $10 million. We're talking a factor of about 10,000 times less investment.
+So I think the only way forward is to figure out how to make AI safety a condition of doing business. If you think about other areas where safety matters, like medicine, airplanes and nuclear power stations, the government and the public research sector don’t solve all the problems of safety and then give all the solutions to the industry, right? They say to the companies, “If you want to put something out there that is potentially unsafe, you can’t — until you figure out how to make it safe.”
+We’re basically saying that you can't turn on artificial general intelligence until you've shown that it's safe. The extra problem — the tricky part — is that AI systems are much more general than things like airplanes. There's no simple definition of safety.
+What we’re exploring is something we call red lines, which are things that AI systems are absolutely not supposed to do.
+What are some of these red lines?
+Russell: These would include things like not replicating themselves without permission, not advising terrorists on how to build biological weapons, not breaking into other computer systems, not defaming real individuals, and not giving away classified information to our enemies.
+You can make a long list of these things, and it doesn't particularly matter exactly which things are on the list. The idea is that, in order to show that the systems will not cross those red lines, the companies will have to be able to understand, predict and control the AI systems that they build, and at the moment they are not close to being able to do that.
+How are AI systems currently regulated in the U.S.? Are our policies keeping up with the rapid development of AI?
+Russell: The only thing we really have now is the executive order that came out late last year, and the only requirements that it lays out are around reporting. It says that companies who are building models above a certain size have to tell the government that they are doing so. The rest is pretty much voluntary.
+So we're well short of the regulations that exist in the European Union and China. But even there, there's no requirement for up-front proof of safety. These acts also don't talk about existential risk. They talk about present risks — bias, disinformation, manipulation and so on — but there's very little related to loss of human control.
+Cohen: When it comes to preventing advanced AI from escaping our control, I would say everyone is still in the early stages.
+Why is it important to be thinking about the potential impact of these advanced AIs agents when we're already struggling with rampant polarization, disinformation and other issues caused by existing AI?
+Russell: Because I would prefer that human life and civilization continue.
+This story was originally published by Berkeley News as, "How to keep AI from killing us all."
+For Media Inquiries
+kjmanke@berkeley.edu
+Image
+Meet the Expert
+Stuart Russell is a distinguished professor of computer science at UC Berkeley and director of the Center for Human-Compatible Artificial Intelligence. (Photo courtesy of Berkeley News)
+Image
+Meet the Expert
+Michael Cohen is a postdoctoral scholar with the Center for Human-Compatible AI. (Photo courtesy of Berkeley News)
+Latest News
+Image
+Isabel Serrano builds bridges, empowers CSU students to find their PhD path
+News
+| April 24, 2024
+Image
+UC Berkeley joins effort to advance open source initiatives across UC system
+News
+| April 17, 2024
+Image
+Francisca Vasconcelos chosen as Paul and Daisy Soros New American fellow
+News
+| April 17, 2024
+Image
+U.S. News & World Report ranks UC Berkeley computer science graduate program No. 1
+News
+| April 9, 2024
+Image
+Three decades after UN milestone, experts convene to find AI climate solutions
+News
+| March 20, 2024
+View All
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

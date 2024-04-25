@@ -1,0 +1,137 @@
+What experts are watching in 2024 related to artificial intelligence | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+What experts are watching in 2024 related to artificial intelligenceBy Rachel Leven | January 30, 2024
+Artificial intelligence was called “the buzzword of 2023” by CNN and referenced by countless media reports. The technology became increasingly visible in society as business leaders used it to restructure workplaces, people chose it as their romantic partners, criminals used it to cloud the public’s sense of reality and more.
+AI has enabled striking scientific and technological breakthroughs for previously intractable problems. At UC Berkeley, researchers developed AI-powered tools that helped a paralyzed woman speak with a digital avatar and informed policymakers for a global plastics treaty negotiation. They’re using AI to speed up the discovery of materials that could stem the impacts of climate change and developing platforms to revolutionize healthcare. And they’re developing methods to assess whether AI chatbots are trustworthy.
+“Since the advent of generative AI a little over a year ago, it has become more pervasive in much of what we do – both for good and, potentially, for ill,” said Jennifer Chayes, dean of Berkeley’s College of Computing, Data Science, and Society. “AI can enable us to create new drugs and processes for biomedicine and health, materials and interventions to mitigate climate change and methods to more equitably distribute resources for the greater good.”
+“It can also enable deep fakes and spread misinformation, and could further destabilize already precarious societal processes,” Chayes said. “It’s our responsibility as educators and researchers to ensure AI is harnessed to benefit society and create a better world."
+We asked experts what areas or issues they’re watching related to artificial intelligence this year and where they anticipate change. Here’s what they shared with us.
+Pamela Samuelson is a UC Berkeley representative to the Public Interest Technology University Network. (Photo/ Jim Block)
+Copyright litigation and its impact on generative AI
+Pamela Samuelson, Berkeley representative to the Public Interest Technology University Network; Professor, Berkeley School of Law
+Generative AI has been a highly disruptive technology for copyright owners. The New York Times lawsuit against OpenAI may be the most visible lawsuit charging generative AI systems with copyright infringement, but Getty Images, Universal Music Group and several class actions representing visual artists, book authors and software developers have filed copyright lawsuits against the leading developers of generative AI systems, including OpenAI, Microsoft, Meta, Stability AI, Alphabet, and Anthropic. The main claims are that making copies of in-copyright works for purposes of training foundation models is copyright infringement, even if the works were posted voluntarily on the internet. Most also claim that the outputs of generative AI systems are infringing derivative works. The lawsuits mainly seek money damages, but a few of them ask courts to order the defendants to destroy the models trained on in-copyright works. Thus, the lawsuits could pose an existential threat to the existence of generative AI systems unless the systems were trained only on licensed content or public domain works. My research is focused on an assessment of the soundness of the claims and what kinds of remedies should be available if some claims are upheld.
+DJ Patil is the Dean’s Senior Fellow at Berkeley’s College of Computing, Data Science, and Society. (Photo courtesy of DJ Patil)
+The possibilities and perils of AI
+DJ Patil, Dean’s Senior Fellow, Berkeley’s College of Computing, Data Science, and Society
+2024 will be a double-edged sword. We're going to see awesomeness and also real harms from AI taking place. On the awesomeness side, what we're going to see is surprising applications of AI that will really open people's realization of what AI can do. We're going to see much more on the material sciences front, much more on the biological front. People realize that some of the problems that are going to be solved this year are Nobel Prize-worthy or other major prize-worthy. We're going to be realizing that, ‘Wow, AI is not only here, but is a force multiplier for scientific breakthroughs and other applications.’
+The other side of that double-edged sword is that for the first time I think what we're going to see real harms due to AI. We're going to see the interface of how AI is weaponized in a very divided environment for elections – not just here in the United States, but around the world. That's going to have real repercussions. We're also going to see AI harms as some of the applications have not been fully thought through, like we saw with self-driving cars. With self-driving cars, for the first time everyone was like, ‘Wait a second. This tech isn't fully there,’ and people were killed. We're going to see similar things elsewhere. A lot of that's going to come down to – not just the algorithm or bias – but poor implementation. People are going to try to implement AI tools without understanding the real nuances of these systems. This has often happened with new technologies in government systems and other critical services. It's going to be hard for people to realize where people really got hurt. We saw that early on when people started to implement AI bail calculators and other things that were determined as fundamentally racist and had other issues.
+Dawn Song is a faculty co-director of UC Berkeley's Center on Responsible Decentralized Intelligence. (Photo/ UC Berkeley's Department of Electrical Engineering and Computer Sciences)
+Governance systems and structures for safe AI
+Dawn Song, Faculty co-director, UC Berkeley Center on Responsible Decentralized Intelligence; Professor, Department of Electrical Engineering and Computer Sciences
+In 2024, we will see continued rise in AI capabilities across different domains including video generation, agents, etc. At the same time, we will see increasing issues in AI safety and AI security, such as deep fakes and voice-cloning scams. In 2023, many world-leading researchers signed the statement on AI Risks – “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war” – and President Biden signed an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. Continuing from these efforts, in 2024, I hope to see increasing united efforts from governments, industry and academia worldwide on forging an effective action plan that includes policy regulation and standardization, international collaboration, and significant increase in support for research and education in building towards safe and trustworthy AI.
+For Media Inquiries
+cdss-comms@berkeley.edu
+Latest News
+Image
+Isabel Serrano builds bridges, empowers CSU students to find their PhD path
+News
+| April 24, 2024
+Image
+UC Berkeley joins effort to advance open source initiatives across UC system
+News
+| April 17, 2024
+Image
+Francisca Vasconcelos chosen as Paul and Daisy Soros New American fellow
+News
+| April 17, 2024
+Image
+How to keep AI from killing us all
+News
+| April 9, 2024
+Image
+U.S. News & World Report ranks UC Berkeley computer science graduate program No. 1
+News
+| April 9, 2024
+Image
+Three decades after UN milestone, experts convene to find AI climate solutions
+News
+| March 20, 2024
+View All
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

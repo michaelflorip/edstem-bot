@@ -1,0 +1,139 @@
+Human and Population Health | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Human and Population Health
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+The goal of the domain emphasis in Human and Population Health is to expose students to questions, data structures, and methodology related to research in subject-matter areas such as epidemiology, environmental health, nutrition, toxicology, metabolic diseases, infectious diseases, and cancer.  This includes the formulation of meaningful research questions, the development of sound study designs, data collection, exploratory data analysis, the application of pertinent statistical and computational methods, and the interpretation and validation of results.
+From the lists shown below, students will select one course from the lower-division, and two courses from the upper-division. The lower division course is a required element of the Domain Emphasis.
+Courses in this domain emphasis are often restricted by major to enroll during Fall or Spring semesters. It may be difficult to complete this emphasis given these restrictions. Some of the courses (in Public Health particularly) may be offered during Summer without these enrollment restrictions. Students are advised to make appropriate alternate plans.
+Prerequisites shown within square brackets.
+Lower Division (select one)
+BIOLOGY 1A. General Biology Lecture (3 units) [CHEM 1A+1AL]
+BIOLOGY 1B. General Biology Lecture and Laboratory (4 units)
+MCELLBI 50. The Immune System and Disease (4 units)
+Upper Division (select two)
+DEMOG 110. Introduction to Population Analysis (3 units)
+INTEGBI 114. Infectious Disease Dynamics (4 units) [Prerequisites: BIO 1A, BIO 1B]
+INTEGBI 116L. Medical Parasitology (4 units) [Prerequisites: BIO 1A, BIO 1B]
+INTEGBI 132. Survey of Human Physiology (4 units) [Prerequisites: INTEGBI 131, BIO 1A]
+INTEGBI 137. Human Endocrinology [Prerequisites: BIO 1A, 1B, INTEGBI 132 strongly recommended]
+INTEGBI 140. Biology of Human Reproduction [Prerequisite: BIO 1A]
+MCB 132. Biology of Human Cancer (4 units) [Prerequisites: BIO 1A+1AL, BIO 1B, MCELLBI 102]
+NUSCTX 110. Toxicology (4 units) [Prerequisites: BIO 1A+1AL, CHEM 3B]
+NUSCTX 121. Computational Toxicology (3 units) [Prerequisites: BIO 1A+1AL, CHEM 3B]
+NUSCTX 160. Metabolic Bases of Human Health and Disease (4 units) [Prerequisite: BIO 1A]
+NUSCTX/ESPM C159. Human Diet (4 units) - no longer offered
+PBHLTH 132. Artificial Intelligence for Health and Healthcare (3 units) [Prerequisites: statistics, economics, computer science recommended]
+PBHLTH 150A. Introduction to Epidemiology and Human Disease (4 units) [Prerequisite: statistics]
+PBHLTH 150B. Introduction to Environmental Health Sciences (3 units) [Prerequisites: statistics, PBHLTH 150A recommended]
+PBHLTH 162A. Public Health Microbiology (3 units) [Prerequisites: BIO 1A, CHEM 1A]
+PBHLTH 181. Poverty and Population (3 units)
+These course lists are subject to change.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

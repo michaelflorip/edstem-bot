@@ -1,0 +1,154 @@
+Berkeley Data Stack | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Berkeley Data Stack
+Home
+Academics
+Data Science Major
+Data Science Minor
+Courses
+Advising
+Forms & Procedures
+Meet with an Advisor
+Transfer Mentors
+Peer Advising (DSPA)
+Career Services
+FAQs
+Student Opportunities
+Student Teams
+Student Course Staff
+Discovery Research
+Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+External Resources
+Workshops
+The Berkeley Data Stack is a collection of open source tools that help enable large-scale data science research and education efforts across UC Berkeley. These tools include:
+Jupyter - Interactive computing notebooks
+Online Textbooks - Open-source textbooks used in classroom instruction
+Interact Links - One-click access to notebook content
+Autograding Tools - Ok.py, Nbgrader, and Otter Grader
+All of these elements of the Berkeley Data Stack can be found on Berkeley's JupyterHub, known as DataHub. UC Berkeley currently has one of the largest collection of JupyterHub deployments in the world, capable of supporting tens of thousands of users across campus and beyond.
+CloudBank(link is external)
+Berkeley is partnering with UC San Diego and the University of Washington on a grant from the National Science Foundation to develop CloudBank, a suite of managed services to remove barriers to public cloud access for data science and computer science research and education. Details and updates here. (link is external)
+Education Hubs
+JupyterHubs designed for classroom use in relevant courses.
+Datahub
+Datahub for Data 8, connectors, modules
+(link is external)
+Data 100 Hub
+Datahub for the Data 100 course
+(link is external)
+Stat 140 Hub
+Datahub for the Stat 140 course
+(link is external)
+Haas Hub
+JupyterHub for Haas data science courses
+(link is external)
+Research JupyterHubs
+Research oriented JupyterHubs, though are also used in course settings. Most deployments utilize SLURM.
+Research Computing
+JupyterHub running on Savio HPCs
+(link is external)
+Economics JupyterHub
+JupyterHub for the economics research
+(link is external)
+Statistics JupyterHub
+JupyterHub for statistics research
+(link is external)
+NERSC JupyterHub
+LBNL's JupyterHub running on NERSC CORI
+(link is external)
+JupyterHub Working Group Steering Committee
+Shawna Dark - Chief Academic Technology Officer & Executive Director of Research, Teaching and Learning
+Eric Fraser - Assistant Dean and Director of IT, College of Engineering
+Yuvi Panda - Dev Ops Architect, Data Science Undergraduate Studies
+Anthony Suen(link sends e-mail) - Director of Programs, Data Science Undergraduate Studies
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

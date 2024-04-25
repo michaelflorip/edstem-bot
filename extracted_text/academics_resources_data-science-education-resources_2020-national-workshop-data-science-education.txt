@@ -1,0 +1,211 @@
+2020 National Workshop on Data Science Education | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+2020 National Workshop on Data Science Education
+Hybrid Online Format  June 22-26, 2020
+A set of recorded talks was released on Monday, June 22nd, available on YouTube.
+Office hours from the Berkeley professors and student staff and Labs for Data 8, Data 100 and Data Science Modules were held on Tuesday, June 23rd
+Panels and discussions were held from Wednesday to Friday
+The conference was  hosted on Microsoft teams. Archives of conference materials will be posted here.
+View all the speaker bios here(link is external)
+This workshop took place from June 22 - 26, 2020 online and was organized by UC Berkeley's Division of Computing, Data Science, and Society with support from Microsoft(link is external) and the West Big Data Innovation Hub(link is external)
+Resources
+Please take a look at our external-facing resources portal website with key links for instructors.
+We also have a one-page handout(link is external) summary guide to open source resources.  This short document will explain the curriculum and set of technologies developed at Berkeley.
+Questions
+Please feel free to contact us at ds-help@berkeley.edu(link sends e-mail) with any questions or concerns on implementing a Data Science program at your institution. We would also like to invite you to join our slack channel at datascienceeducation.slack.com
+Code of Conduct
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop and at all workshop events.  Code of Conduct(link is external)
+Schedule (all times are PDT)
+Monday, June 22: Pre-recorded videos of UC Berkeley Content(link is external) (Playlist Link)
+Welcome - Jennifer Chayes(link is external)
+Data 8: Overview - John De Nero(link is external)
+Data 100: Overview - Joseph Gonzalez and Suraj Rampure(link is external)
+Human Contexts and Ethics - Ari Edmundson and Margo Boenig-Liptsin(link is external)
+Connectors and Modules - Keeley Takimoto(link is external)
+Making a Major/Minor - Deborah Nolan(link is external)
+Institutional Transformation - Cathryn Carson (link is external)
+Jupyterhub Infrastructure - Chris Holdgraf(link is external)
+Student Teams - Anthony Suen(link is external)
+Technology Options - Atharva Mehendale(link is external)
+Tuesday, June 23: Open Office Hours AMA and Labs with UC Berkeley Course Staff (9AM-5PM PDT)
+9:00 AM
+Data 8 Instructors - Ani Adhikari and David Wagner(link is external)
+10:00 AM
+Data 8 Basic Lab Session(link is external)
+11:00 AM
+Data 100 Instructors - Fernando Perez and Suraj Rampure(link is external)
+12:00 PM
+Data 8 Advanced Lab Session(link is external)
+1:00 PM
+Modules/Connectors Curriculum Lab Session(link is external)
+2:00 PM
+Data 100 Lab Session(link is external)
+3:00 PM
+Infrastructure (link is external)
+4:00 PM
+Human Contexts and Ethics(link is external)
+Wednesday, June 24: Live Virtual Panels (9 AM-5 PM PDT) [Recording Playlist Link(link is external)]
+9:00 AM
+Human Contexts and Ethics Panel  (link is external)
+Rachel Thomas, USF
+Safiya Noble, UCLA
+Aaron Fraenkel, UCSD
+Lise Getoor, UCSC
+11:00 AM
+Institutional Transformations Panel (link is external)
+Rebecca Nugent, CMU(link is external)
+Nick Horton, Amherst College(link is external)
+Cathryn Carson, UC Berkeley(link is external)
+1:00 PM
+Adopters of Data 8 Panel(link is external)
+Casey Kennington, Boise State University(link is external)
+Karle Flanagan, UIUC(link is external)
+Memo Ergezer, Wentworth Institute of Technology(link is external)
+Brian Kim, University of Maryland(link is external)
+Taylor Brown, University of Virginia(link is external)
+3:30 PM
+Lightning Talks [Presentations(link is external)]
+Thursday, June 25: Live Virtual Panels (9 AM-5 PM PDT) [Recording Playlist Link(link is external)]
+9:00 AM
+California Strategy Panel (link is external)
+Aaron Fraenkel, UCSD(link is external)
+Solomon Russell, El Camino College(link is external)
+Yertai Tanai, CSU Fresno (link is external)
+Judith Canner, CSU Monterey Bay(link is external)
+Hunter Glanz, Cal Poly(link is external)
+Kate Kharitonova, UCSB(link is external)
+11:00 AM
+Using Jupyter Across Institutions Panel  (link is external)
+Colby Bell, Cal Poly(link is external)
+Yuvi Panda, UC Berkeley(link is external)
+Ben Winjum, UCLA(link is external)
+David Andersen, UC San Diego(link is external)
+Tannavee Kumar, UC Davis(link is external)
+1:00 PM
+IUSE Inclusion in Data Science Panel(link is external)
+David Harding, UC Berkeley(link is external)
+Vandana Janeja, UMBC(link is external)
+Maia Averett, Mills College(link is external)
+3:30 PM
+California Community Colleges(link is external)
+William Kerney, Clovis College(link is external)
+Solomon Russell, El Camino College(link is external)
+Jamal Ashraf, Pasadena City College(link is external)
+Ekaterina Fuchs, CCSF(link is external)
+Friday, June 26: Live Virtual Panels (9 AM-3 PM PDT) [Recording Playlist Link(link is external)]
+9:00 AM
+Commercial Solutions for Teaching with Notebooks  (link is external)
+Lee Stott & Nir Levy, Microsoft (link is external)Azure, MS Learn and Codespaces(link is external)   [Recording(link is external)]
+David Lin, Vocareum(link is external)
+Filip Stollar, Deepnote(link is external)
+Tim Novikoff, Google Colab
+11:00 AM
+Innovations in Jupyter Teaching Tools (link is external)
+Yuvi Panda, JupyterLab Chat(link is external)
+Ryan Lovett, RStudio on JupyterHub(link is external)
+Chris Pyles, Otter Grader(link is external)
+Chris Holdgraf, Jupyter Book 2.0  (link is external)
+1:00 PM
+National Efforts Panel(link is external)
+Ana Echeverri, IBM OpenDS4All(link is external)
+Mike Norman, ClouldBank & SDSC, West Big Data Hub(link is external)
+James Colliander, Syzygy & Callysto in Canada (link is external)
+Eric Van Dusen, UC Berkeley
+Previous Workshops
+2018 Workshop
+DATA SCIENCE EDUCATION WORKSHOP
+2019 National Workshop on Data Science Education
+2020 National Workshop on Data Science Education
+2021 National Workshop on Data Science Education
+Data Science Academic Resource Kit
+Data Science Curriculum Development
+Data Science Ethos Lifecycle
+SIGCSE Data Science Education Workshop
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved

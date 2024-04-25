@@ -1,0 +1,114 @@
+Safe drinking water is a right. Experts want AI to help make it a reality. | CDSS at UC Berkeley
+Skip to main content
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Search by keyword
+Search
+Search
+Safe drinking water is a right. Experts want AI to help make it a reality.By Rachel Leven | April 25, 2023
+Two California water engineers are working with the Data Science Discovery program to develop a drinking water regulation chatbot. (Photo/ Pexels)
+Safe, clean and affordable drinking water is a human right in California. But making that legal requirement a reality is a difficult challenge exacerbated further by climate change.
+Two water engineers believe artificial intelligence can help. Working with UC Berkeley’s Data Science Discovery program students, they are building a chatbot they hope will help California Water Resources Board staff discern, communicate and enforce rules to ensure the public’s water is safe to drink.
+“The regulations are complex and complicated, but protective of public health,” said Hung Bui, a California Water Resources Board associate sanitary engineer who is co-leading this project in his personal time. “If we can find a way for the staff to easily look up regulations… it would help not only the staff, but also the public water systems.”
+ChatGPT and other releases sparked public debate and concerns about the potential dangers of artificial intelligence. But projects like this one illustrate how AI can also help society by, for example, helping governments and companies more effectively protect public health.
+Through the Discovery program, Berkeley undergraduates participate in hands-on, cutting-edge data science research with non-profits, companies, government agencies and others. The program’s spring showcase featuring more than 130 projects will occur May 3.
+‘Keeping people safe’
+The drinking water chatbot’s development is being led by Bui and Dan Wang, a water resource control engineer at the state water board as well as Christoper Tull, Chief Data Officer from California Data Collaborative, a nonprofit that works with public water systems managing and fully utilizing their data resources. Their Berkeley student team members include Andy Chen; Hanning Xu; Shreyas Prasanna; Stephanie Xu; and Zwea Htet.
+The nation’s founding drinking water law was established in 1974, regulating the water sources and treatment of them. Since then, the rules have evolved with science and technology on both a state and federal level to best protect the public. Dirty drinking water can spread diseases and leave the public susceptible to otherwise avoidable health issues, science shows.
+Chen, a freshman, said he was attracted to the drinking water project because he could learn a lot about large language models, the models that underpin chatbots like ChatGPT. He also was interested in “making an impact on other people’s lives,” he said.
+“My dad grew up in this really small village in China without clean water or actual plumbing,” said Chen, who is in the Berkeley Management, Entrepreneurship, and Technology program. “This entire project is focused on water regulation and keeping people safe.”
+For the project, Bui and Wang provided students with information and directions about drinking water laws and where to find other useful resources. The team discussed how they wanted to build the bot and – because the technology by large language models has shifted so quickly – students built multiple models with Wang and Bui’s support.
+The students have done a “wonderful job,” Wang said. She hopes they will get excited about the ways their data science skills could be used to address environmental problems in the future. Chen said he enjoyed learning about these models and problem solving as a team.
+“It's definitely opened my eyes to the possibility of working at start-ups and other small research groups,” said Chen.
+‘Urgently’ need a system to show ‘possibilities’
+The chatbot isn’t ready for regulators to use yet, Wang said. They are working on getting the bot to read and incorporate tables into its responses, for example. After completing the current phase, Bui and Wang will need to find funding for computing resources to host, test and further develop it.
+But Bui and Wang have high hopes for the bot. Inspired in part by ChatGPT’s passing an exam to become a lawyer, the specialists want to train their bot to complete the regulation section of the California’s Drinking Water Treatment & Distribution System Operators Certificate Exam. That would signal it’s reliable enough for state regulators to use it in their work, they said.
+The tool would initially be designed as an internal tool for regulators, increasing their capacity to answer public water systems’ questions and enforce rules, Wang said. But it could eventually be used by the public, too, providing residents insight into their local drinking water.
+Making the same resources do more for public health is especially important as the planet warms, Wang said. Climate change is going to stress traditional water resources, and states may need to use alternative sources of, and treatment processes for, drinking water.
+“We really need urgently some kind of system that can gather data together and show us possibilities, so the drinking water system, the public and the regulator can all make decisions promptly and at the right level,” said Wang, who led this project during her personal time.
+“There's a lot that goes into us ensuring human rights to drinking water, even in the United States,” said Wang. “But it's a basic human right, so we strive to make it happen."
+For more information
+Learn more about the Data Science Discovery program; fall partner opportunities; and the May 3 showcase.
+Main navigation
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Center for Computational Biology
+Computational Precision Health
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+Department of Statistics
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+University of California, Berkeley
+Berkeley, CA 94720-1786
+Email: CDSSinfo@berkeley.edu
+Social Media Links
+Facebook
+Twitter
+Linkedin
+Youtube
+Instagram
+GIVE TO CDSS TODAY
+Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved
