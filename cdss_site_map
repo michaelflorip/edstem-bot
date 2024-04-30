@@ -1,0 +1,801 @@
+// CDSS Site Map
+digraph {
+	"https://cdss.berkeley.edu/academics" [label=academics]
+	"https://cdss.berkeley.edu/academics/graduate-education" [label="graduate-education"]
+	https:"//cdss.berkeley.edu/academics" -> https:"//cdss.berkeley.edu/academics/graduate-education"
+	"https://cdss.berkeley.edu/project" [label=project]
+	"https://cdss.berkeley.edu/project/nlp-analysis-negotiation-strategies-youth-entrepreneurship-uganda" [label="nlp-analysis-negotiation-strategies-youth-entrepreneurship-uganda"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/nlp-analysis-negotiation-strategies-youth-entrepreneurship-uganda"
+	"https://cdss.berkeley.edu/people" [label=people]
+	"https://cdss.berkeley.edu/people/jasmeet-lachhar" [label="jasmeet-lachhar"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/jasmeet-lachhar"
+	"https://cdss.berkeley.edu/project/eviction-research-network-0" [label="eviction-research-network-0"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/eviction-research-network-0"
+	"https://cdss.berkeley.edu/news-events" [label="news-events"]
+	"https://cdss.berkeley.edu/news-events/videos" [label=videos]
+	https:"//cdss.berkeley.edu/news-events" -> https:"//cdss.berkeley.edu/news-events/videos"
+	"https://cdss.berkeley.edu/people/miguel-rios" [label="miguel-rios"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/miguel-rios"
+	"https://cdss.berkeley.edu/academics/campus-resources" [label="campus-resources"]
+	https:"//cdss.berkeley.edu/academics" -> https:"//cdss.berkeley.edu/academics/campus-resources"
+	"https://cdss.berkeley.edu/academics/campus-resources/student-opportunities" [label="student-opportunities"]
+	https:"//cdss.berkeley.edu/academics/campus-resources" -> https:"//cdss.berkeley.edu/academics/campus-resources/student-opportunities"
+	"https://cdss.berkeley.edu/academics/campus-resources/student-opportunities/undergraduate-student-opportunities-application-hub" [label="undergraduate-student-opportunities-application-hub"]
+	https:"//cdss.berkeley.edu/academics/campus-resources/student-opportunities" -> https:"//cdss.berkeley.edu/academics/campus-resources/student-opportunities/undergraduate-student-opportunities-application-hub"
+	"https://cdss.berkeley.edu/news" [label=news]
+	"https://cdss.berkeley.edu/news/innovative-joint-program-computational-precision-health-uc-berkeley-and-ucsf-aims-improve" [label="innovative-joint-program-computational-precision-health-uc-berkeley-and-ucsf-aims-improve"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/innovative-joint-program-computational-precision-health-uc-berkeley-and-ucsf-aims-improve"
+	"https://cdss.berkeley.edu/project/using-machine-learning-elucidate-genetic-underpinnings-multicellularity" [label="using-machine-learning-elucidate-genetic-underpinnings-multicellularity"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/using-machine-learning-elucidate-genetic-underpinnings-multicellularity"
+	"https://cdss.berkeley.edu/faqs-undergrads" [label="faqs-undergrads"]
+	"https://cdss.berkeley.edu/news/ion-stoica-elected-national-academy-engineering" [label="ion-stoica-elected-national-academy-engineering"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/ion-stoica-elected-national-academy-engineering"
+	"https://cdss.berkeley.edu/academics/external-resources" [label="external-resources"]
+	https:"//cdss.berkeley.edu/academics" -> https:"//cdss.berkeley.edu/academics/external-resources"
+	"https://cdss.berkeley.edu/academics/external-resources/data-science-education-workshops" [label="data-science-education-workshops"]
+	https:"//cdss.berkeley.edu/academics/external-resources" -> https:"//cdss.berkeley.edu/academics/external-resources/data-science-education-workshops"
+	"https://cdss.berkeley.edu/project/analyzing-sources-lead-exposure-newark-new-jersey" [label="analyzing-sources-lead-exposure-newark-new-jersey"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/analyzing-sources-lead-exposure-newark-new-jersey"
+	"https://cdss.berkeley.edu/project/identifying-threats-web3-ecosystem" [label="identifying-threats-web3-ecosystem"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/identifying-threats-web3-ecosystem"
+	"https://cdss.berkeley.edu/project/costs-and-benefits-buying-american" [label="costs-and-benefits-buying-american"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/costs-and-benefits-buying-american"
+	"https://cdss.berkeley.edu/project/computationally-evaluating-design-rationale" [label="computationally-evaluating-design-rationale"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/computationally-evaluating-design-rationale"
+	"https://cdss.berkeley.edu/classes-enrollment-info" [label="classes-enrollment-info"]
+	"https://cdss.berkeley.edu/project/transcribeglass-software-internship" [label="transcribeglass-software-internship"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/transcribeglass-software-internship"
+	"https://cdss.berkeley.edu/project/irle-do-labor-market-policies-reduce-racial-and-ethnic-disparities-mental-health-and" [label="irle-do-labor-market-policies-reduce-racial-and-ethnic-disparities-mental-health-and"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/irle-do-labor-market-policies-reduce-racial-and-ethnic-disparities-mental-health-and"
+	"https://cdss.berkeley.edu/degrees" [label=degrees]
+	"https://cdss.berkeley.edu/degrees/domain-emphasis" [label="domain-emphasis"]
+	https:"//cdss.berkeley.edu/degrees" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/geospatial-info-and-technology" [label="geospatial-info-and-technology"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/geospatial-info-and-technology"
+	"https://cdss.berkeley.edu/project/i-school-detecting-illegal-sand-mining-deep-learning-and-remote-sensing" [label="i-school-detecting-illegal-sand-mining-deep-learning-and-remote-sensing"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/i-school-detecting-illegal-sand-mining-deep-learning-and-remote-sensing"
+	"https://cdss.berkeley.edu/project/identifying-epigenetic-and-expression-profile-regulatory-t-cells-expressing-ezh2-gain" [label="identifying-epigenetic-and-expression-profile-regulatory-t-cells-expressing-ezh2-gain"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/identifying-epigenetic-and-expression-profile-regulatory-t-cells-expressing-ezh2-gain"
+	"https://cdss.berkeley.edu/people/travis-caskey" [label="travis-caskey"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/travis-caskey"
+	"https://cdss.berkeley.edu/project/data-backed-global-pricing-strategy" [label="data-backed-global-pricing-strategy"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/data-backed-global-pricing-strategy"
+	"https://cdss.berkeley.edu/careeraccelerator" [label=careeraccelerator]
+	"https://cdss.berkeley.edu/infrastructure" [label=infrastructure]
+	"https://cdss.berkeley.edu/people/laura-imai" [label="laura-imai"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/laura-imai"
+	"https://cdss.berkeley.edu/taxonomy" [label=taxonomy]
+	"https://cdss.berkeley.edu/taxonomy/term" [label=term]
+	https:"//cdss.berkeley.edu/taxonomy" -> https:"//cdss.berkeley.edu/taxonomy/term"
+	"https://cdss.berkeley.edu/taxonomy/term/54" [label=54]
+	https:"//cdss.berkeley.edu/taxonomy/term" -> https:"//cdss.berkeley.edu/taxonomy/term/54"
+	"https://cdss.berkeley.edu/demography-88-data-science-and-immigration-1950-present" [label="demography-88-data-science-and-immigration-1950-present"]
+	"https://cdss.berkeley.edu/news/what-experts-are-watching-2024-related-artificial-intelligence" [label="what-experts-are-watching-2024-related-artificial-intelligence"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/what-experts-are-watching-2024-related-artificial-intelligence"
+	"https://cdss.berkeley.edu/news/division-computing-data-science-and-society-berkeley-moves-closer-becoming-college" [label="division-computing-data-science-and-society-berkeley-moves-closer-becoming-college"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/division-computing-data-science-and-society-berkeley-moves-closer-becoming-college"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies" [label="data-science-undergraduate-studies"]
+	https:"//cdss.berkeley.edu/academics" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major" [label="data-science-major"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/computational-biology-methods" [label="computational-biology-methods"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/computational-biology-methods"
+	"https://cdss.berkeley.edu/project/recsys-merlin-models" [label="recsys-merlin-models"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/recsys-merlin-models"
+	"https://cdss.berkeley.edu/discovery-exchange-workshops" [label="discovery-exchange-workshops"]
+	"https://cdss.berkeley.edu/dsus" [label=dsus]
+	"https://cdss.berkeley.edu/dsus/data-science-undergraduate-studies-faculty" [label="data-science-undergraduate-studies-faculty"]
+	https:"//cdss.berkeley.edu/dsus" -> https:"//cdss.berkeley.edu/dsus/data-science-undergraduate-studies-faculty"
+	"https://cdss.berkeley.edu/topics" [label=topics]
+	"https://cdss.berkeley.edu/topics/connector-courses" [label="connector-courses"]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/connector-courses"
+	"https://cdss.berkeley.edu/people/aaron-giacosa" [label="aaron-giacosa"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/aaron-giacosa"
+	"https://cdss.berkeley.edu/project/spectral-images-ai-data-driven-approach" [label="spectral-images-ai-data-driven-approach"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/spectral-images-ai-data-driven-approach"
+	"https://cdss.berkeley.edu/people/balaji-alwar" [label="balaji-alwar"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/balaji-alwar"
+	"https://cdss.berkeley.edu/david-spergel" [label="david-spergel"]
+	"https://cdss.berkeley.edu/videos" [label=videos]
+	"https://cdss.berkeley.edu/news/new-center-aims-create-healthcare-innovation-research-impact-pipeline" [label="new-center-aims-create-healthcare-innovation-research-impact-pipeline"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/new-center-aims-create-healthcare-innovation-research-impact-pipeline"
+	"https://cdss.berkeley.edu/people/danielle-carco" [label="danielle-carco"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/danielle-carco"
+	"https://cdss.berkeley.edu/people/greg-haskins" [label="greg-haskins"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/greg-haskins"
+	"https://cdss.berkeley.edu/project/chatchw-community-health-workers" [label="chatchw-community-health-workers"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/chatchw-community-health-workers"
+	"https://cdss.berkeley.edu/people/thao-thompson" [label="thao-thompson"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/thao-thompson"
+	"https://cdss.berkeley.edu/project/interrupting-lethal-structures-no-cop-city-san-pablo" [label="interrupting-lethal-structures-no-cop-city-san-pablo"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/interrupting-lethal-structures-no-cop-city-san-pablo"
+	"https://cdss.berkeley.edu/project/predicting-overall-team-performance-physiological-signals" [label="predicting-overall-team-performance-physiological-signals"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/predicting-overall-team-performance-physiological-signals"
+	"https://cdss.berkeley.edu/about" [label=about]
+	"https://cdss.berkeley.edu/about/our-vision" [label="our-vision"]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/our-vision"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/molecular-biology-and-genomics" [label="molecular-biology-and-genomics"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/molecular-biology-and-genomics"
+	"https://cdss.berkeley.edu/news/how-student-rebecca-gloyer-made-impact-data-science-education" [label="how-student-rebecca-gloyer-made-impact-data-science-education"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/how-student-rebecca-gloyer-made-impact-data-science-education"
+	"https://cdss.berkeley.edu/ds-advising" [label="ds-advising"]
+	"https://cdss.berkeley.edu/index" [label=index]
+	"https://cdss.berkeley.edu/people/patty-anderson" [label="patty-anderson"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/patty-anderson"
+	"https://cdss.berkeley.edu/data-sciences-ecology-and-environment" [label="data-sciences-ecology-and-environment"]
+	"https://cdss.berkeley.edu/decdse" [label=decdse]
+	"https://cdss.berkeley.edu/decdse/bylaws" [label=bylaws]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/bylaws"
+	"https://cdss.berkeley.edu/people/kseniya-usovich" [label="kseniya-usovich"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/kseniya-usovich"
+	"https://cdss.berkeley.edu/about/contact" [label=contact]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/contact"
+	"https://cdss.berkeley.edu/people/sandrine-dudoit" [label="sandrine-dudoit"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/sandrine-dudoit"
+	"https://cdss.berkeley.edu/node" [label="node"]
+	"https://cdss.berkeley.edu/node/1882" [label=1882]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/1882"
+	"https://cdss.berkeley.edu/people/ada-fraser" [label="ada-fraser"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/ada-fraser"
+	"https://cdss.berkeley.edu/news/cdss-top-communicator-eecs-and-ccb-professors-honored-aaas-2021-fellows" [label="cdss-top-communicator-eecs-and-ccb-professors-honored-aaas-2021-fellows"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/cdss-top-communicator-eecs-and-ccb-professors-honored-aaas-2021-fellows"
+	"https://cdss.berkeley.edu/project/traffic-signal-conditions-tested-robot" [label="traffic-signal-conditions-tested-robot"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/traffic-signal-conditions-tested-robot"
+	"https://cdss.berkeley.edu/project/ucsc-marine" [label="ucsc-marine"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/ucsc-marine"
+	"https://cdss.berkeley.edu/topics/discovery-program" [label="discovery-program"]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/discovery-program"
+	"https://cdss.berkeley.edu/project/strain-history-database" [label="strain-history-database"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/strain-history-database"
+	"https://cdss.berkeley.edu/decdse/supportingorganizations" [label=supportingorganizations]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/supportingorganizations"
+	"https://cdss.berkeley.edu/events" [label=events]
+	"https://cdss.berkeley.edu/events/bids-seminar-stefan-van-der-walt-phd" [label="bids-seminar-stefan-van-der-walt-phd"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/bids-seminar-stefan-van-der-walt-phd"
+	"https://cdss.berkeley.edu/project/automated-quality-control-and-analysis-histopathology-images-using-deep-learning" [label="automated-quality-control-and-analysis-histopathology-images-using-deep-learning"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/automated-quality-control-and-analysis-histopathology-images-using-deep-learning"
+	"https://cdss.berkeley.edu/project/credit-scoring-algorithms-using-alternative-data-sources-and-machine-learning" [label="credit-scoring-algorithms-using-alternative-data-sources-and-machine-learning"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/credit-scoring-algorithms-using-alternative-data-sources-and-machine-learning"
+	"https://cdss.berkeley.edu/californiaalliance" [label=californiaalliance]
+	"https://cdss.berkeley.edu/californiaalliance/uc" [label=uc]
+	https:"//cdss.berkeley.edu/californiaalliance" -> https:"//cdss.berkeley.edu/californiaalliance/uc"
+	"https://cdss.berkeley.edu/about/progress" [label=progress]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/progress"
+	"https://cdss.berkeley.edu/people/aaron-streets" [label="aaron-streets"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/aaron-streets"
+	"https://cdss.berkeley.edu/project/data-driven-design-graph-neural-network-metamaterials" [label="data-driven-design-graph-neural-network-metamaterials"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/data-driven-design-graph-neural-network-metamaterials"
+	"https://cdss.berkeley.edu/project/development-building-component-fragility-database-support-recovery-based-seismic-analysis" [label="development-building-component-fragility-database-support-recovery-based-seismic-analysis"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/development-building-component-fragility-database-support-recovery-based-seismic-analysis"
+	"https://cdss.berkeley.edu/news/us-news-world-report-ranks-uc-berkeley-computer-science-graduate-program-no-1" [label="us-news-world-report-ranks-uc-berkeley-computer-science-graduate-program-no-1"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/us-news-world-report-ranks-uc-berkeley-computer-science-graduate-program-no-1"
+	"https://cdss.berkeley.edu/project/project-sidewalk" [label="project-sidewalk"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/project-sidewalk"
+	"https://cdss.berkeley.edu/project/predicting-lead-tap-water" [label="predicting-lead-tap-water"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/predicting-lead-tap-water"
+	"https://cdss.berkeley.edu/about/diversity-equity-and-inclusion" [label="diversity-equity-and-inclusion"]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/diversity-equity-and-inclusion"
+	"https://cdss.berkeley.edu/people/meredith-lee" [label="meredith-lee"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/meredith-lee"
+	"https://cdss.berkeley.edu/pehong-chen-phd-88" [label="pehong-chen-phd-88"]
+	"https://cdss.berkeley.edu/education" [label=education]
+	"https://cdss.berkeley.edu/education/connectors" [label=connectors]
+	https:"//cdss.berkeley.edu/education" -> https:"//cdss.berkeley.edu/education/connectors"
+	"https://cdss.berkeley.edu/project/dataset-automation-quantum-dot-devices-control" [label="dataset-automation-quantum-dot-devices-control"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/dataset-automation-quantum-dot-devices-control"
+	"https://cdss.berkeley.edu/discovery" [label=discovery]
+	"https://cdss.berkeley.edu/discovery/aboutus" [label=aboutus]
+	https:"//cdss.berkeley.edu/discovery" -> https:"//cdss.berkeley.edu/discovery/aboutus"
+	"https://cdss.berkeley.edu/project/machine-learning-improved-semiconductor-manufacturing" [label="machine-learning-improved-semiconductor-manufacturing"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/machine-learning-improved-semiconductor-manufacturing"
+	"https://cdss.berkeley.edu/project/data-access-pattern-distributed-disk-cache-system" [label="data-access-pattern-distributed-disk-cache-system"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/data-access-pattern-distributed-disk-cache-system"
+	"https://cdss.berkeley.edu/external" [label=external]
+	"https://cdss.berkeley.edu/video" [label=video]
+	"https://cdss.berkeley.edu/video/data-8x-foundations-data-science-now-edx" [label="data-8x-foundations-data-science-now-edx"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/data-8x-foundations-data-science-now-edx"
+	"https://cdss.berkeley.edu/project/computational-suite-rna-universe" [label="computational-suite-rna-universe"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/computational-suite-rna-universe"
+	"https://cdss.berkeley.edu/data-science-pedagogy-and-practice-workshop" [label="data-science-pedagogy-and-practice-workshop"]
+	"https://cdss.berkeley.edu/events/bids-seminar-karthik-ram-phd" [label="bids-seminar-karthik-ram-phd"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/bids-seminar-karthik-ram-phd"
+	"https://cdss.berkeley.edu/people/eric-van-dusen" [label="eric-van-dusen"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/eric-van-dusen"
+	"https://cdss.berkeley.edu/events/spring-2024-campuswide-ceremony" [label="spring-2024-campuswide-ceremony"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/spring-2024-campuswide-ceremony"
+	"https://cdss.berkeley.edu/project/studying-data-access-patterns-using-dcache-logs" [label="studying-data-access-patterns-using-dcache-logs"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/studying-data-access-patterns-using-dcache-logs"
+	"https://cdss.berkeley.edu/people/dj-patil" [label="dj-patil"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/dj-patil"
+	"https://cdss.berkeley.edu/contact" [label=contact]
+	"https://cdss.berkeley.edu/data-science" [label="data-science"]
+	"https://cdss.berkeley.edu/data-science/student-opportunities" [label="student-opportunities"]
+	https:"//cdss.berkeley.edu/data-science" -> https:"//cdss.berkeley.edu/data-science/student-opportunities"
+	"https://cdss.berkeley.edu/data-science/student-opportunities/joining-data-course-staff" [label="joining-data-course-staff"]
+	https:"//cdss.berkeley.edu/data-science/student-opportunities" -> https:"//cdss.berkeley.edu/data-science/student-opportunities/joining-data-course-staff"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/philosophical-foundations-minds-morals-and-machines" [label="philosophical-foundations-minds-morals-and-machines"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/philosophical-foundations-minds-morals-and-machines"
+	"https://cdss.berkeley.edu/node/2261" [label=2261]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/2261"
+	"https://cdss.berkeley.edu/project/personalized-contextual-product-reviews" [label="personalized-contextual-product-reviews"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/personalized-contextual-product-reviews"
+	"https://cdss.berkeley.edu/news/berkeley-launches-agile-metabolic-health-and-open-platforms-initiative" [label="berkeley-launches-agile-metabolic-health-and-open-platforms-initiative"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/berkeley-launches-agile-metabolic-health-and-open-platforms-initiative"
+	"https://cdss.berkeley.edu/project/alecto-ai" [label="alecto-ai"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/alecto-ai"
+	"https://cdss.berkeley.edu/news/small-solar-sails-could-be-next-giant-leap-interplanetary-space-exploration" [label="small-solar-sails-could-be-next-giant-leap-interplanetary-space-exploration"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/small-solar-sails-could-be-next-giant-leap-interplanetary-space-exploration"
+	"https://cdss.berkeley.edu/project/unnatural-translation-database-streamlining-data-entry-through-automation" [label="unnatural-translation-database-streamlining-data-entry-through-automation"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/unnatural-translation-database-streamlining-data-entry-through-automation"
+	"https://cdss.berkeley.edu/news-archive" [label="news-archive"]
+	"https://cdss.berkeley.edu/project/mobility-analytics" [label="mobility-analytics"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/mobility-analytics"
+	"https://cdss.berkeley.edu/success-story" [label="success-story"]
+	"https://cdss.berkeley.edu/success-story/inland-empire-data-science-pathways-uc-riverside" [label="inland-empire-data-science-pathways-uc-riverside"]
+	https:"//cdss.berkeley.edu/success-story" -> https:"//cdss.berkeley.edu/success-story/inland-empire-data-science-pathways-uc-riverside"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/applied-math-and-modeling" [label="applied-math-and-modeling"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/applied-math-and-modeling"
+	"https://cdss.berkeley.edu/project/designing-cybersecure-responsive-environments-evaluating-design-interventions" [label="designing-cybersecure-responsive-environments-evaluating-design-interventions"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/designing-cybersecure-responsive-environments-evaluating-design-interventions"
+	"https://cdss.berkeley.edu/project/random-turn-games-governed-stakes" [label="random-turn-games-governed-stakes"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/random-turn-games-governed-stakes"
+	"https://cdss.berkeley.edu/academics/resources" [label=resources]
+	https:"//cdss.berkeley.edu/academics" -> https:"//cdss.berkeley.edu/academics/resources"
+	"https://cdss.berkeley.edu/academics/resources/data-science-education-workshop" [label="data-science-education-workshop"]
+	https:"//cdss.berkeley.edu/academics/resources" -> https:"//cdss.berkeley.edu/academics/resources/data-science-education-workshop"
+	"https://cdss.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education" [label="2021-national-workshop-data-science-education"]
+	https:"//cdss.berkeley.edu/academics/resources/data-science-education-workshop" -> https:"//cdss.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education"
+	"https://cdss.berkeley.edu/video/data-science-modules" [label="data-science-modules"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/data-science-modules"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/linguistic-sciences" [label="linguistic-sciences"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/linguistic-sciences"
+	"https://cdss.berkeley.edu/research" [label=research]
+	"https://cdss.berkeley.edu/research/faculty" [label=faculty]
+	https:"//cdss.berkeley.edu/research" -> https:"//cdss.berkeley.edu/research/faculty"
+	"https://cdss.berkeley.edu/project/candidate-feedback-report" [label="candidate-feedback-report"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/candidate-feedback-report"
+	"https://cdss.berkeley.edu/2022workshop" [label="2022workshop"]
+	"https://cdss.berkeley.edu/2022workshop/schedule" [label=schedule]
+	https:"//cdss.berkeley.edu/2022workshop" -> https:"//cdss.berkeley.edu/2022workshop/schedule"
+	"https://cdss.berkeley.edu/news/stem-has-diversity-problem-cdss-wants-help-solve-it" [label="stem-has-diversity-problem-cdss-wants-help-solve-it"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/stem-has-diversity-problem-cdss-wants-help-solve-it"
+	"https://cdss.berkeley.edu/people/silvia-guzman" [label="silvia-guzman"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/silvia-guzman"
+	"https://cdss.berkeley.edu/project/harnessing-ai-early-detection-attention-deficithyperactivity-disorder-adhd" [label="harnessing-ai-early-detection-attention-deficithyperactivity-disorder-adhd"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/harnessing-ai-early-detection-attention-deficithyperactivity-disorder-adhd"
+	"https://cdss.berkeley.edu/cognition" [label=cognition]
+	"https://cdss.berkeley.edu/people/colette-patt" [label="colette-patt"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/colette-patt"
+	"https://cdss.berkeley.edu/project/simplified-web-based-application-help-design-high-thermal-mass-radiant-systems" [label="simplified-web-based-application-help-design-high-thermal-mass-radiant-systems"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/simplified-web-based-application-help-design-high-thermal-mass-radiant-systems"
+	"https://cdss.berkeley.edu/project/next-step-public-education-factors-influencing-elementary-student-success-and-family" [label="next-step-public-education-factors-influencing-elementary-student-success-and-family"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/next-step-public-education-factors-influencing-elementary-student-success-and-family"
+	"https://cdss.berkeley.edu/node/17" [label=17]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/17"
+	"https://cdss.berkeley.edu/project/rocketship-next-step-public-education-factors-influencing-elementary-student-success-and" [label="rocketship-next-step-public-education-factors-influencing-elementary-student-success-and"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/rocketship-next-step-public-education-factors-influencing-elementary-student-success-and"
+	"https://cdss.berkeley.edu/project/machine-learning-localize-particles" [label="machine-learning-localize-particles"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/machine-learning-localize-particles"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/human-and-population-health" [label="human-and-population-health"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/human-and-population-health"
+	"https://cdss.berkeley.edu/news/gateway-groundbreaking-brings-new-opportunity-computing-data-science" [label="gateway-groundbreaking-brings-new-opportunity-computing-data-science"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/gateway-groundbreaking-brings-new-opportunity-computing-data-science"
+	"https://cdss.berkeley.edu/node/40" [label=40]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/40"
+	"https://cdss.berkeley.edu/node/969" [label=969]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/969"
+	"https://cdss.berkeley.edu/people/armando-fox" [label="armando-fox"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/armando-fox"
+	"https://cdss.berkeley.edu/data-science-advising-home" [label="data-science-advising-home"]
+	"https://cdss.berkeley.edu/data-science-advising-home/data-science-transfer-mentors" [label="data-science-transfer-mentors"]
+	https:"//cdss.berkeley.edu/data-science-advising-home" -> https:"//cdss.berkeley.edu/data-science-advising-home/data-science-transfer-mentors"
+	"https://cdss.berkeley.edu/project/transparency-segmentation-algorithms" [label="transparency-segmentation-algorithms"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/transparency-segmentation-algorithms"
+	"https://cdss.berkeley.edu/decdse/faculty" [label=faculty]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/faculty"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/science-technology-and-society" [label="science-technology-and-society"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/science-technology-and-society"
+	"https://cdss.berkeley.edu/news/cell-types-eye-have-ancient-evolutionary-origins" [label="cell-types-eye-have-ancient-evolutionary-origins"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/cell-types-eye-have-ancient-evolutionary-origins"
+	"https://cdss.berkeley.edu/project/recast-flexible-and-scalable-earthquake-modeling" [label="recast-flexible-and-scalable-earthquake-modeling"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/recast-flexible-and-scalable-earthquake-modeling"
+	"https://cdss.berkeley.edu/project/pagefelt-ai-mentor" [label="pagefelt-ai-mentor"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/pagefelt-ai-mentor"
+	"https://cdss.berkeley.edu/2022workshop/team" [label=team]
+	https:"//cdss.berkeley.edu/2022workshop" -> https:"//cdss.berkeley.edu/2022workshop/team"
+	"https://cdss.berkeley.edu/information-prospective-transfer-students" [label="information-prospective-transfer-students"]
+	"https://cdss.berkeley.edu/project/analyzing-healthcare-prices" [label="analyzing-healthcare-prices"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/analyzing-healthcare-prices"
+	"https://cdss.berkeley.edu/people/tiffany-lohwater" [label="tiffany-lohwater"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/tiffany-lohwater"
+	"https://cdss.berkeley.edu/news/trio-gifts-75-million-accelerates-transformation-computing-and-data-science-berkeley" [label="trio-gifts-75-million-accelerates-transformation-computing-and-data-science-berkeley"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/trio-gifts-75-million-accelerates-transformation-computing-and-data-science-berkeley"
+	"https://cdss.berkeley.edu/people/anthony-suen" [label="anthony-suen"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/anthony-suen"
+	"https://cdss.berkeley.edu/project/sustainability-data-framework" [label="sustainability-data-framework"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/sustainability-data-framework"
+	"https://cdss.berkeley.edu/andrew-viterbi" [label="andrew-viterbi"]
+	"https://cdss.berkeley.edu/project/acheivemnt-gaps-berkeley-public-schools" [label="acheivemnt-gaps-berkeley-public-schools"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/acheivemnt-gaps-berkeley-public-schools"
+	"https://cdss.berkeley.edu/people/amanda-dillon" [label="amanda-dillon"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/amanda-dillon"
+	"https://cdss.berkeley.edu/project/fiber-reinforced-polymer-frp-retrofitted-shear-wall-relational-database-development" [label="fiber-reinforced-polymer-frp-retrofitted-shear-wall-relational-database-development"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/fiber-reinforced-polymer-frp-retrofitted-shear-wall-relational-database-development"
+	"https://cdss.berkeley.edu/project/optimizing-hvac-operations-and-indoor-environments-through-predictive-modeling" [label="optimizing-hvac-operations-and-indoor-environments-through-predictive-modeling"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/optimizing-hvac-operations-and-indoor-environments-through-predictive-modeling"
+	"https://cdss.berkeley.edu/project/interaction-between-random-heteropolymers-and-metal-ions-perspective-selective-lanthanides" [label="interaction-between-random-heteropolymers-and-metal-ions-perspective-selective-lanthanides"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/interaction-between-random-heteropolymers-and-metal-ions-perspective-selective-lanthanides"
+	"https://cdss.berkeley.edu/project/are-certain-groups-race-gender-income-etc-more-susceptible-protective-factors-foster-care" [label="are-certain-groups-race-gender-income-etc-more-susceptible-protective-factors-foster-care"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/are-certain-groups-race-gender-income-etc-more-susceptible-protective-factors-foster-care"
+	"https://cdss.berkeley.edu/news/largest-gift-berkeleys-history-will-seed-hub-data-science" [label="largest-gift-berkeleys-history-will-seed-hub-data-science"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/largest-gift-berkeleys-history-will-seed-hub-data-science"
+	"https://cdss.berkeley.edu/events/bids-seminar-cody-markelz-phd" [label="bids-seminar-cody-markelz-phd"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/bids-seminar-cody-markelz-phd"
+	"https://cdss.berkeley.edu/news/marti-hearst-school-informations-new-head-school" [label="marti-hearst-school-informations-new-head-school"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/marti-hearst-school-informations-new-head-school"
+	"https://cdss.berkeley.edu/academics/resources/data-science-education-resources" [label="data-science-education-resources"]
+	https:"//cdss.berkeley.edu/academics/resources" -> https:"//cdss.berkeley.edu/academics/resources/data-science-education-resources"
+	"https://cdss.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education" [label="2020-national-workshop-data-science-education"]
+	https:"//cdss.berkeley.edu/academics/resources/data-science-education-resources" -> https:"//cdss.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education"
+	"https://cdss.berkeley.edu/project/gamifying-cognitive-training-emotion-regulation" [label="gamifying-cognitive-training-emotion-regulation"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/gamifying-cognitive-training-emotion-regulation"
+	"https://cdss.berkeley.edu/events/bidmap-special-seminar-how-chemistry-will-solve-climate-problem-fast" [label="bidmap-special-seminar-how-chemistry-will-solve-climate-problem-fast"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/bidmap-special-seminar-how-chemistry-will-solve-climate-problem-fast"
+	"https://cdss.berkeley.edu/quantitative-social-science" [label="quantitative-social-science"]
+	"https://cdss.berkeley.edu/people/karina-fong-hirschfelder" [label="karina-fong-hirschfelder"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/karina-fong-hirschfelder"
+	"https://cdss.berkeley.edu/project/creating-directed-learning-pathways-machine-learning" [label="creating-directed-learning-pathways-machine-learning"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/creating-directed-learning-pathways-machine-learning"
+	"https://cdss.berkeley.edu/emery-n-brown" [label="emery-n-brown"]
+	"https://cdss.berkeley.edu/people/danay-weldegabriel" [label="danay-weldegabriel"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/danay-weldegabriel"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/human-behavior-and-psych" [label="human-behavior-and-psych"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/human-behavior-and-psych"
+	"https://cdss.berkeley.edu/news/uc-berkeley-taps-microsoft-research-fellow-jennifer-tour-chayes-lead-new-data-science-division" [label="uc-berkeley-taps-microsoft-research-fellow-jennifer-tour-chayes-lead-new-data-science-division"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/uc-berkeley-taps-microsoft-research-fellow-jennifer-tour-chayes-lead-new-data-science-division"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/inequalities-in-society" [label="inequalities-in-society"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/inequalities-in-society"
+	"https://cdss.berkeley.edu/project/sierra-nevada-beaver-project" [label="sierra-nevada-beaver-project"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/sierra-nevada-beaver-project"
+	"https://cdss.berkeley.edu/california-state-universities" [label="california-state-universities"]
+	"https://cdss.berkeley.edu/discovery-exchange" [label="discovery-exchange"]
+	"https://cdss.berkeley.edu/peng-zhao" [label="peng-zhao"]
+	"https://cdss.berkeley.edu/people/ani-adhikari" [label="ani-adhikari"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/ani-adhikari"
+	"https://cdss.berkeley.edu/news/uc-berkeley-college-computing-data-science-and-society-established" [label="uc-berkeley-college-computing-data-science-and-society-established"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/uc-berkeley-college-computing-data-science-and-society-established"
+	"https://cdss.berkeley.edu/project/global-hunger-data-predictive-model" [label="global-hunger-data-predictive-model"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/global-hunger-data-predictive-model"
+	"https://cdss.berkeley.edu/project/ngo-insights-dashboard-0" [label="ngo-insights-dashboard-0"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/ngo-insights-dashboard-0"
+	"https://cdss.berkeley.edu/data-science-student-community" [label="data-science-student-community"]
+	"https://cdss.berkeley.edu/news/new-institute-brings-together-chemistry-and-machine-learning-tackle-climate-change" [label="new-institute-brings-together-chemistry-and-machine-learning-tackle-climate-change"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/new-institute-brings-together-chemistry-and-machine-learning-tackle-climate-change"
+	"https://cdss.berkeley.edu/project/chatbots-what-can-they-be-really-used" [label="chatbots-what-can-they-be-really-used"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/chatbots-what-can-they-be-really-used"
+	"https://cdss.berkeley.edu/project/developing-cnn-model-segmenting-electron-microscopy-images" [label="developing-cnn-model-segmenting-electron-microscopy-images"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/developing-cnn-model-segmenting-electron-microscopy-images"
+	"https://cdss.berkeley.edu/news/statistics-computer-science-faculty-among-schmidt-sciences-ai2050-fellows" [label="statistics-computer-science-faculty-among-schmidt-sciences-ai2050-fellows"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/statistics-computer-science-faculty-among-schmidt-sciences-ai2050-fellows"
+	"https://cdss.berkeley.edu/news/ziad-obermeyer-testifies-us-congress-how-ai-can-help-health-care" [label="ziad-obermeyer-testifies-us-congress-how-ai-can-help-health-care"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/ziad-obermeyer-testifies-us-congress-how-ai-can-help-health-care"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/social-welfare-health-poverty" [label="social-welfare-health-poverty"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/social-welfare-health-poverty"
+	"https://cdss.berkeley.edu/project/trend-analysis-birth-acquired-age-related-disabilities-and-factors-impact-such-trends" [label="trend-analysis-birth-acquired-age-related-disabilities-and-factors-impact-such-trends"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/trend-analysis-birth-acquired-age-related-disabilities-and-factors-impact-such-trends"
+	"https://cdss.berkeley.edu/project/transforming-ai-capabilities-hr-huellas-strategic-enhancement-candidate-evaluation" [label="transforming-ai-capabilities-hr-huellas-strategic-enhancement-candidate-evaluation"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/transforming-ai-capabilities-hr-huellas-strategic-enhancement-candidate-evaluation"
+	"https://cdss.berkeley.edu/project/recommendation-system" [label="recommendation-system"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/recommendation-system"
+	"https://cdss.berkeley.edu/about/job-opportunities" [label="job-opportunities"]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/job-opportunities"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/robotics" [label=robotics]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/robotics"
+	"https://cdss.berkeley.edu/education/faqs" [label=faqs]
+	https:"//cdss.berkeley.edu/education" -> https:"//cdss.berkeley.edu/education/faqs"
+	"https://cdss.berkeley.edu/project/demonstrating-reproducibility-data-science" [label="demonstrating-reproducibility-data-science"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/demonstrating-reproducibility-data-science"
+	"https://cdss.berkeley.edu/node/1353" [label=1353]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/1353"
+	"https://cdss.berkeley.edu/research/news" [label=news]
+	https:"//cdss.berkeley.edu/research" -> https:"//cdss.berkeley.edu/research/news"
+	"https://cdss.berkeley.edu/datahub" [label=datahub]
+	"https://cdss.berkeley.edu/datahub/archetypes" [label=archetypes]
+	https:"//cdss.berkeley.edu/datahub" -> https:"//cdss.berkeley.edu/datahub/archetypes"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/social-policy-and-law" [label="social-policy-and-law"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/social-policy-and-law"
+	"https://cdss.berkeley.edu/discovery/consulting-old" [label="consulting-old"]
+	https:"//cdss.berkeley.edu/discovery" -> https:"//cdss.berkeley.edu/discovery/consulting-old"
+	"https://cdss.berkeley.edu/topics/courses" [label=courses]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/courses"
+	"https://cdss.berkeley.edu/faculty-staff-resources" [label="faculty-staff-resources"]
+	"https://cdss.berkeley.edu/decdse/executivecommittee" [label=executivecommittee]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/executivecommittee"
+	"https://cdss.berkeley.edu/project/technovation-analyzing-students-submitted-projects" [label="technovation-analyzing-students-submitted-projects"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/technovation-analyzing-students-submitted-projects"
+	"https://cdss.berkeley.edu/data-science-governance-committee" [label="data-science-governance-committee"]
+	"https://cdss.berkeley.edu/project/gauge-building-more-accessible-web" [label="gauge-building-more-accessible-web"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/gauge-building-more-accessible-web"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/sustainable-dev-and-engineering" [label="sustainable-dev-and-engineering"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/sustainable-dev-and-engineering"
+	"https://cdss.berkeley.edu/our-pathway-becoming-college" [label="our-pathway-becoming-college"]
+	"https://cdss.berkeley.edu/project/life-cycle-assessment-building-structures" [label="life-cycle-assessment-building-structures"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/life-cycle-assessment-building-structures"
+	"https://cdss.berkeley.edu/computing-data-science-and-society-advisory-board" [label="computing-data-science-and-society-advisory-board"]
+	"https://cdss.berkeley.edu/video/microsoft-video-features-uc-berkeley-data-science-program" [label="microsoft-video-features-uc-berkeley-data-science-program"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/microsoft-video-features-uc-berkeley-data-science-program"
+	"https://cdss.berkeley.edu/datahub/setup" [label=setup]
+	https:"//cdss.berkeley.edu/datahub" -> https:"//cdss.berkeley.edu/datahub/setup"
+	"https://cdss.berkeley.edu/project/machine-learning-tools-measuring-spectral-lines" [label="machine-learning-tools-measuring-spectral-lines"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/machine-learning-tools-measuring-spectral-lines"
+	"https://cdss.berkeley.edu/mary-lou-jepson" [label="mary-lou-jepson"]
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/ecology-and-environment" [label="ecology-and-environment"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/ecology-and-environment"
+	"https://cdss.berkeley.edu/about/support-us" [label="support-us"]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/support-us"
+	"https://cdss.berkeley.edu/project/supreme-court-opinion-draft-viewer-0" [label="supreme-court-opinion-draft-viewer-0"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/supreme-court-opinion-draft-viewer-0"
+	"https://cdss.berkeley.edu/project/reproducability-data-sceince" [label="reproducability-data-sceince"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/reproducability-data-sceince"
+	"https://cdss.berkeley.edu/news/uc-berkeley-joins-effort-advance-open-source-initiatives-across-uc-system" [label="uc-berkeley-joins-effort-advance-open-source-initiatives-across-uc-system"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/uc-berkeley-joins-effort-advance-open-source-initiatives-across-uc-system"
+	"https://cdss.berkeley.edu/california-alliance" [label="california-alliance"]
+	"https://cdss.berkeley.edu/california-alliance/timeline" [label=timeline]
+	https:"//cdss.berkeley.edu/california-alliance" -> https:"//cdss.berkeley.edu/california-alliance/timeline"
+	"https://cdss.berkeley.edu/events/2023-national-workshop-data-science-education" [label="2023-national-workshop-data-science-education"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/2023-national-workshop-data-science-education"
+	"https://cdss.berkeley.edu/project/product-development-ai" [label="product-development-ai"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/product-development-ai"
+	"https://cdss.berkeley.edu/data-science-smart-cities-civeng-88" [label="data-science-smart-cities-civeng-88"]
+	"https://cdss.berkeley.edu/data-science-courses" [label="data-science-courses"]
+	"https://cdss.berkeley.edu/project/machine-learning-models-arctic-climate-restoration" [label="machine-learning-models-arctic-climate-restoration"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/machine-learning-models-arctic-climate-restoration"
+	"https://cdss.berkeley.edu/project/network-performance-prediction-and-anomaly-detection-0" [label="network-performance-prediction-and-anomaly-detection-0"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/network-performance-prediction-and-anomaly-detection-0"
+	"https://cdss.berkeley.edu/academics/campus-resources/data-scholars" [label="data-scholars"]
+	https:"//cdss.berkeley.edu/academics/campus-resources" -> https:"//cdss.berkeley.edu/academics/campus-resources/data-scholars"
+	"https://cdss.berkeley.edu/people/caressa-mulder" [label="caressa-mulder"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/caressa-mulder"
+	"https://cdss.berkeley.edu/project/image-text-accessible-web" [label="image-text-accessible-web"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/image-text-accessible-web"
+	"https://cdss.berkeley.edu/requirements-upper-division" [label="requirements-upper-division"]
+	"https://cdss.berkeley.edu/project/2d-visualization-3d-data-utilizing-paraview-and-discourse" [label="2d-visualization-3d-data-utilizing-paraview-and-discourse"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/2d-visualization-3d-data-utilizing-paraview-and-discourse"
+	"https://cdss.berkeley.edu/business-and-industrial-analytics" [label="business-and-industrial-analytics"]
+	"https://cdss.berkeley.edu/news/how-use-ai-discovery-without-leading-science-astray" [label="how-use-ai-discovery-without-leading-science-astray"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/how-use-ai-discovery-without-leading-science-astray"
+	"https://cdss.berkeley.edu/video/fall-2018-discovery-showcase" [label="fall-2018-discovery-showcase"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/fall-2018-discovery-showcase"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/human-biology" [label="human-biology"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/human-biology"
+	"https://cdss.berkeley.edu/news/berkeley-experts-urge-high-schools-offer-advanced-math-line-uc-report" [label="berkeley-experts-urge-high-schools-offer-advanced-math-line-uc-report"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/berkeley-experts-urge-high-schools-offer-advanced-math-line-uc-report"
+	"https://cdss.berkeley.edu/people/claudia-von-vacano" [label="claudia-von-vacano"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/claudia-von-vacano"
+	"https://cdss.berkeley.edu/project/transforming-legacy-engineering-reports-useful-machine-readable-information" [label="transforming-legacy-engineering-reports-useful-machine-readable-information"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/transforming-legacy-engineering-reports-useful-machine-readable-information"
+	"https://cdss.berkeley.edu/project/opportunities-and-risks-ai-improving-pancreatic-cancer-detection" [label="opportunities-and-risks-ai-improving-pancreatic-cancer-detection"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/opportunities-and-risks-ai-improving-pancreatic-cancer-detection"
+	"https://cdss.berkeley.edu/project/survey-documentation-substance-abuse-and-mental-health-disparities-within-racial-and-ethnic" [label="survey-documentation-substance-abuse-and-mental-health-disparities-within-racial-and-ethnic"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/survey-documentation-substance-abuse-and-mental-health-disparities-within-racial-and-ethnic"
+	"https://cdss.berkeley.edu/events/college-computing-data-science-and-society-undergraduate-commencement-ceremonies" [label="college-computing-data-science-and-society-undergraduate-commencement-ceremonies"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/college-computing-data-science-and-society-undergraduate-commencement-ceremonies"
+	"https://cdss.berkeley.edu/robert-tjian" [label="robert-tjian"]
+	"https://cdss.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year" [label="berkeley-unboxing-data-science-program-doubles-number-interns-second-year"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/berkeley-unboxing-data-science-program-doubles-number-interns-second-year"
+	"https://cdss.berkeley.edu/news/data-science-minor-available-declare" [label="data-science-minor-available-declare"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/data-science-minor-available-declare"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/environment-resources-society" [label="environment-resources-society"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/environment-resources-society"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/physical-science-analytics" [label="physical-science-analytics"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/physical-science-analytics"
+	"https://cdss.berkeley.edu/economics" [label=economics]
+	"https://cdss.berkeley.edu/academics/undergraduate-education" [label="undergraduate-education"]
+	https:"//cdss.berkeley.edu/academics" -> https:"//cdss.berkeley.edu/academics/undergraduate-education"
+	"https://cdss.berkeley.edu/project/data-initiative-environmental-and-climate-action-californias-tk-12-schools" [label="data-initiative-environmental-and-climate-action-californias-tk-12-schools"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/data-initiative-environmental-and-climate-action-californias-tk-12-schools"
+	"https://cdss.berkeley.edu/decdse/students" [label=students]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/students"
+	"https://cdss.berkeley.edu/file" [label=file]
+	"https://cdss.berkeley.edu/file/871" [label=871]
+	https:"//cdss.berkeley.edu/file" -> https:"//cdss.berkeley.edu/file/871"
+	"https://cdss.berkeley.edu/education/modules" [label=modules]
+	https:"//cdss.berkeley.edu/education" -> https:"//cdss.berkeley.edu/education/modules"
+	"https://cdss.berkeley.edu/project/enhancing-severe-heatwave-forecasting-using-theory-and-data-science" [label="enhancing-severe-heatwave-forecasting-using-theory-and-data-science"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/enhancing-severe-heatwave-forecasting-using-theory-and-data-science"
+	"https://cdss.berkeley.edu/vincent-cheung" [label="vincent-cheung"]
+	"https://cdss.berkeley.edu/node/1409" [label=1409]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/1409"
+	"https://cdss.berkeley.edu/project/chemoproteomic-analysis-methionine-redox-sites" [label="chemoproteomic-analysis-methionine-redox-sites"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/chemoproteomic-analysis-methionine-redox-sites"
+	"https://cdss.berkeley.edu/people/marjorie-ensor" [label="marjorie-ensor"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/marjorie-ensor"
+	"https://cdss.berkeley.edu/topics/events" [label=events]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/events"
+	"https://cdss.berkeley.edu/consulting" [label=consulting]
+	"https://cdss.berkeley.edu/success-story/san-bernardino-valley-college" [label="san-bernardino-valley-college"]
+	https:"//cdss.berkeley.edu/success-story" -> https:"//cdss.berkeley.edu/success-story/san-bernardino-valley-college"
+	"https://cdss.berkeley.edu/project/human-i-t-proving-publicprivate-partnerships-promote-digital-equity" [label="human-i-t-proving-publicprivate-partnerships-promote-digital-equity"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/human-i-t-proving-publicprivate-partnerships-promote-digital-equity"
+	"https://cdss.berkeley.edu/california-alliance/projects" [label=projects]
+	https:"//cdss.berkeley.edu/california-alliance" -> https:"//cdss.berkeley.edu/california-alliance/projects"
+	"https://cdss.berkeley.edu/about/departments-and-programs" [label="departments-and-programs"]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/departments-and-programs"
+	"https://cdss.berkeley.edu/project/data-analyst-box" [label="data-analyst-box"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/data-analyst-box"
+	"https://cdss.berkeley.edu/project/comfortdat-open-source-data-analysis-toolkit-thermal-comfort-research" [label="comfortdat-open-source-data-analysis-toolkit-thermal-comfort-research"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/comfortdat-open-source-data-analysis-toolkit-thermal-comfort-research"
+	"https://cdss.berkeley.edu/project/automated-extraction-chemical-names-database" [label="automated-extraction-chemical-names-database"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/automated-extraction-chemical-names-database"
+	"https://cdss.berkeley.edu/michael-grimes" [label="michael-grimes"]
+	"https://cdss.berkeley.edu/project/cross-regional-lead-service-line-prediction-using-machine-learning" [label="cross-regional-lead-service-line-prediction-using-machine-learning"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/cross-regional-lead-service-line-prediction-using-machine-learning"
+	"https://cdss.berkeley.edu/project/advancing-higgs-boson-research-through-b-jet-classification-machine-learning" [label="advancing-higgs-boson-research-through-b-jet-classification-machine-learning"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/advancing-higgs-boson-research-through-b-jet-classification-machine-learning"
+	"https://cdss.berkeley.edu/video/data-science-major-offers-many-pathways" [label="data-science-major-offers-many-pathways"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/data-science-major-offers-many-pathways"
+	"https://cdss.berkeley.edu/project/enterprise-customer-content-taste" [label="enterprise-customer-content-taste"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/enterprise-customer-content-taste"
+	"https://cdss.berkeley.edu/lip-bu-tan" [label="lip-bu-tan"]
+	"https://cdss.berkeley.edu/events/data-science-discovery-research-symposium" [label="data-science-discovery-research-symposium"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/data-science-discovery-research-symposium"
+	"https://cdss.berkeley.edu/information-and-resources-students" [label="information-and-resources-students"]
+	"https://cdss.berkeley.edu/topics/data-8" [label="data-8"]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/data-8"
+	"https://cdss.berkeley.edu/external/workshops" [label=workshops]
+	https:"//cdss.berkeley.edu/external" -> https:"//cdss.berkeley.edu/external/workshops"
+	"https://cdss.berkeley.edu/people/maura-mcginnity" [label="maura-mcginnity"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/maura-mcginnity"
+	"https://cdss.berkeley.edu/project/moment-price-estimator" [label="moment-price-estimator"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/moment-price-estimator"
+	"https://cdss.berkeley.edu/people/adrian-hill" [label="adrian-hill"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/adrian-hill"
+	"https://cdss.berkeley.edu/project/ml-biodiversity-monitoring" [label="ml-biodiversity-monitoring"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/ml-biodiversity-monitoring"
+	"https://cdss.berkeley.edu/project/towards-new-outcome-based-contracting-model-full-service-partnerships" [label="towards-new-outcome-based-contracting-model-full-service-partnerships"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/towards-new-outcome-based-contracting-model-full-service-partnerships"
+	"https://cdss.berkeley.edu/project/unmasking-media-bias-criminal-justice-reform-news" [label="unmasking-media-bias-criminal-justice-reform-news"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/unmasking-media-bias-criminal-justice-reform-news"
+	"https://cdss.berkeley.edu/ds-peer-consulting" [label="ds-peer-consulting"]
+	"https://cdss.berkeley.edu/ds-peer-consulting/aashritha" [label=aashritha]
+	https:"//cdss.berkeley.edu/ds-peer-consulting" -> https:"//cdss.berkeley.edu/ds-peer-consulting/aashritha"
+	"https://cdss.berkeley.edu/project/graph-neural-network-online-particle-identification-large-hadron-collider" [label="graph-neural-network-online-particle-identification-large-hadron-collider"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/graph-neural-network-online-particle-identification-large-hadron-collider"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/philosophical-foundations-evidence-and-interference" [label="philosophical-foundations-evidence-and-interference"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/philosophical-foundations-evidence-and-interference"
+	"https://cdss.berkeley.edu/about/people" [label=people]
+	https:"//cdss.berkeley.edu/about" -> https:"//cdss.berkeley.edu/about/people"
+	"https://cdss.berkeley.edu/data-science/student-opportunities/data-scholars" [label="data-scholars"]
+	https:"//cdss.berkeley.edu/data-science/student-opportunities" -> https:"//cdss.berkeley.edu/data-science/student-opportunities/data-scholars"
+	"https://cdss.berkeley.edu/human-contexts-and-ethics" [label="human-contexts-and-ethics"]
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/computational-methods-molecular-and-genomic-biology" [label="computational-methods-molecular-and-genomic-biology"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/computational-methods-molecular-and-genomic-biology"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-minor" [label="data-science-minor"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-minor"
+	"https://cdss.berkeley.edu/project/novel-database-design-better-learning-experiences-and-outcomes" [label="novel-database-design-better-learning-experiences-and-outcomes"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/novel-database-design-better-learning-experiences-and-outcomes"
+	"https://cdss.berkeley.edu/project/lmc-language-model-uncertainty" [label="lmc-language-model-uncertainty"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/lmc-language-model-uncertainty"
+	"https://cdss.berkeley.edu/study-abroad-data-science-majors" [label="study-abroad-data-science-majors"]
+	"https://cdss.berkeley.edu/decdse/contact" [label=contact]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/contact"
+	"https://cdss.berkeley.edu/discovery/get-involved" [label="get-involved"]
+	https:"//cdss.berkeley.edu/discovery" -> https:"//cdss.berkeley.edu/discovery/get-involved"
+	"https://cdss.berkeley.edu/project/homelessness-and-mental-illness-california-towards-new-scale-outcomes" [label="homelessness-and-mental-illness-california-towards-new-scale-outcomes"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/homelessness-and-mental-illness-california-towards-new-scale-outcomes"
+	"https://cdss.berkeley.edu/project/data-recovery-after-natural-hazard-events" [label="data-recovery-after-natural-hazard-events"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/data-recovery-after-natural-hazard-events"
+	"https://cdss.berkeley.edu/distinctly-berkeley-data-science-major-has-wide-appeal" [label="distinctly-berkeley-data-science-major-has-wide-appeal"]
+	"https://cdss.berkeley.edu/node/6" [label=6]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/6"
+	"https://cdss.berkeley.edu/events/bids-seminar-antonia-winkler" [label="bids-seminar-antonia-winkler"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/bids-seminar-antonia-winkler"
+	"https://cdss.berkeley.edu/news/safe-drinking-water-right-experts-want-ai-help-make-it-reality" [label="safe-drinking-water-right-experts-want-ai-help-make-it-reality"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/safe-drinking-water-right-experts-want-ai-help-make-it-reality"
+	"https://cdss.berkeley.edu/topics/nexus" [label=nexus]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/nexus"
+	"https://cdss.berkeley.edu/people/jacob-gallice" [label="jacob-gallice"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/jacob-gallice"
+	"https://cdss.berkeley.edu/project/measuring-minority-political-rights" [label="measuring-minority-political-rights"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/measuring-minority-political-rights"
+	"https://cdss.berkeley.edu/news/deb-nolan-returns-cdss-associate-dean-faculty" [label="deb-nolan-returns-cdss-associate-dean-faculty"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/deb-nolan-returns-cdss-associate-dean-faculty"
+	"https://cdss.berkeley.edu/data-science-resources-berkeley" [label="data-science-resources-berkeley"]
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising" [label=advising]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising/advising-resources" [label="advising-resources"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising/advising-resources"
+	"https://cdss.berkeley.edu/external/data8-adoption" [label="data8-adoption"]
+	https:"//cdss.berkeley.edu/external" -> https:"//cdss.berkeley.edu/external/data8-adoption"
+	"https://cdss.berkeley.edu/mike-olson" [label="mike-olson"]
+	"https://cdss.berkeley.edu/project/tracking-eminent-domain-and-tax-foreclosure-over-time" [label="tracking-eminent-domain-and-tax-foreclosure-over-time"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/tracking-eminent-domain-and-tax-foreclosure-over-time"
+	"https://cdss.berkeley.edu/people/shante-harding" [label="shante-harding"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/shante-harding"
+	"https://cdss.berkeley.edu/search" [label=search]
+	"https://cdss.berkeley.edu/project/advanced-methods-time-series-data-analysis" [label="advanced-methods-time-series-data-analysis"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/advanced-methods-time-series-data-analysis"
+	"https://cdss.berkeley.edu/academics/resources/berkeley-data-stack" [label="berkeley-data-stack"]
+	https:"//cdss.berkeley.edu/academics/resources" -> https:"//cdss.berkeley.edu/academics/resources/berkeley-data-stack"
+	"https://cdss.berkeley.edu/prabhakar-raghavan" [label="prabhakar-raghavan"]
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/evolution-and-biodiversity" [label="evolution-and-biodiversity"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/evolution-and-biodiversity"
+	"https://cdss.berkeley.edu/data-tech-all-week" [label="data-tech-all-week"]
+	"https://cdss.berkeley.edu/people/julie-niedermayr" [label="julie-niedermayr"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/julie-niedermayr"
+	"https://cdss.berkeley.edu/jeff-huber" [label="jeff-huber"]
+	"https://cdss.berkeley.edu/people/kristen-williams" [label="kristen-williams"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/kristen-williams"
+	"https://cdss.berkeley.edu/external/data100-adoption" [label="data100-adoption"]
+	https:"//cdss.berkeley.edu/external" -> https:"//cdss.berkeley.edu/external/data100-adoption"
+	"https://cdss.berkeley.edu/node/2262" [label=2262]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/2262"
+	"https://cdss.berkeley.edu/news-events/events-calendar" [label="events-calendar"]
+	https:"//cdss.berkeley.edu/news-events" -> https:"//cdss.berkeley.edu/news-events/events-calendar"
+	"https://cdss.berkeley.edu/node/13" [label=13]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/13"
+	"https://cdss.berkeley.edu/node/2370" [label=2370]
+	https:"//cdss.berkeley.edu/node" -> https:"//cdss.berkeley.edu/node/2370"
+	"https://cdss.berkeley.edu/project/analysis-minnesota-hospital-rates" [label="analysis-minnesota-hospital-rates"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/analysis-minnesota-hospital-rates"
+	"https://cdss.berkeley.edu/project/search-query-suggestions" [label="search-query-suggestions"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/search-query-suggestions"
+	"https://cdss.berkeley.edu/video/student-profile-ollie-downs" [label="student-profile-ollie-downs"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/student-profile-ollie-downs"
+	"https://cdss.berkeley.edu/semester" [label=semester]
+	"https://cdss.berkeley.edu/project/bay-twin-climate-justice-digital-twin-san-francisco-bay-area" [label="bay-twin-climate-justice-digital-twin-san-francisco-bay-area"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/bay-twin-climate-justice-digital-twin-san-francisco-bay-area"
+	"https://cdss.berkeley.edu/discovery/projects" [label=projects]
+	https:"//cdss.berkeley.edu/discovery" -> https:"//cdss.berkeley.edu/discovery/projects"
+	"https://cdss.berkeley.edu/project/evaluating-protein-structure-prediction-methods-crispr-proteins" [label="evaluating-protein-structure-prediction-methods-crispr-proteins"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/evaluating-protein-structure-prediction-methods-crispr-proteins"
+	"https://cdss.berkeley.edu/project/monetization-journey-existing-free-users" [label="monetization-journey-existing-free-users"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/monetization-journey-existing-free-users"
+	"https://cdss.berkeley.edu/people/fred-smith" [label="fred-smith"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/fred-smith"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/urban-science" [label="urban-science"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/urban-science"
+	"https://cdss.berkeley.edu/project/changes-global-economy" [label="changes-global-economy"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/changes-global-economy"
+	"https://cdss.berkeley.edu/research/related-research-units" [label="related-research-units"]
+	https:"//cdss.berkeley.edu/research" -> https:"//cdss.berkeley.edu/research/related-research-units"
+	"https://cdss.berkeley.edu/project/predicting-future-water-main-breaks-pressure-data" [label="predicting-future-water-main-breaks-pressure-data"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/predicting-future-water-main-breaks-pressure-data"
+	"https://cdss.berkeley.edu/events/data-science-discovery-program-research-symposium" [label="data-science-discovery-program-research-symposium"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/data-science-discovery-program-research-symposium"
+	"https://cdss.berkeley.edu/dsus/data-science-undergraduate-studies-staff" [label="data-science-undergraduate-studies-staff"]
+	https:"//cdss.berkeley.edu/dsus" -> https:"//cdss.berkeley.edu/dsus/data-science-undergraduate-studies-staff"
+	"https://cdss.berkeley.edu/project/resilient-energy-allocation-system-extreme-weather-balancing-ac-demand-and-fire-safety" [label="resilient-energy-allocation-system-extreme-weather-balancing-ac-demand-and-fire-safety"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/resilient-energy-allocation-system-extreme-weather-balancing-ac-demand-and-fire-safety"
+	"https://cdss.berkeley.edu/news/meet-ashish-sahni-new-executive-director-bids" [label="meet-ashish-sahni-new-executive-director-bids"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/meet-ashish-sahni-new-executive-director-bids"
+	"https://cdss.berkeley.edu/information-and-resources-facultystaff" [label="information-and-resources-facultystaff"]
+	"https://cdss.berkeley.edu/california-alliance/success-stories" [label="success-stories"]
+	https:"//cdss.berkeley.edu/california-alliance" -> https:"//cdss.berkeley.edu/california-alliance/success-stories"
+	"https://cdss.berkeley.edu/video/beauty-datahub" [label="beauty-datahub"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/beauty-datahub"
+	"https://cdss.berkeley.edu/project/building-proactive-climate-smart-technologies-prevent-heat-related-human-health-hazard-and" [label="building-proactive-climate-smart-technologies-prevent-heat-related-human-health-hazard-and"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/building-proactive-climate-smart-technologies-prevent-heat-related-human-health-hazard-and"
+	"https://cdss.berkeley.edu/news/three-decades-after-un-milestone-experts-convene-find-ai-climate-solutions" [label="three-decades-after-un-milestone-experts-convene-find-ai-climate-solutions"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/three-decades-after-un-milestone-experts-convene-find-ai-climate-solutions"
+	"https://cdss.berkeley.edu/people/rachel-leven" [label="rachel-leven"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/rachel-leven"
+	"https://cdss.berkeley.edu/data-science-academics-home" [label="data-science-academics-home"]
+	"https://cdss.berkeley.edu/people/susan-graham" [label="susan-graham"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/susan-graham"
+	"https://cdss.berkeley.edu/project/using-graph-neural-networks-identify-quark-collisions-particle-collider" [label="using-graph-neural-networks-identify-quark-collisions-particle-collider"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/using-graph-neural-networks-identify-quark-collisions-particle-collider"
+	"https://cdss.berkeley.edu/news-events/college-newsletter" [label="college-newsletter"]
+	https:"//cdss.berkeley.edu/news-events" -> https:"//cdss.berkeley.edu/news-events/college-newsletter"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/organizations-and-the-economy" [label="organizations-and-the-economy"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/organizations-and-the-economy"
+	"https://cdss.berkeley.edu/project/uc-berkeley-stanford-university-adoption-new-technologies-womens-safety-and-trust-formal" [label="uc-berkeley-stanford-university-adoption-new-technologies-womens-safety-and-trust-formal"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/uc-berkeley-stanford-university-adoption-new-technologies-womens-safety-and-trust-formal"
+	"https://cdss.berkeley.edu/people/alice-tsai" [label="alice-tsai"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/alice-tsai"
+	"https://cdss.berkeley.edu/project/characterizing-landscape-student-learning-outcomes-undergraduate-programs-web-scraping-text" [label="characterizing-landscape-student-learning-outcomes-undergraduate-programs-web-scraping-text"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/characterizing-landscape-student-learning-outcomes-undergraduate-programs-web-scraping-text"
+	"https://cdss.berkeley.edu/2024workshop" [label="2024workshop"]
+	"https://cdss.berkeley.edu/research/discovery-program-home" [label="discovery-program-home"]
+	https:"//cdss.berkeley.edu/research" -> https:"//cdss.berkeley.edu/research/discovery-program-home"
+	"https://cdss.berkeley.edu/2023workshop" [label="2023workshop"]
+	"https://cdss.berkeley.edu/news-events/news" [label=news]
+	https:"//cdss.berkeley.edu/news-events" -> https:"//cdss.berkeley.edu/news-events/news"
+	"https://cdss.berkeley.edu/people/christina-teller" [label="christina-teller"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/christina-teller"
+	"https://cdss.berkeley.edu/news/how-keep-ai-killing-us-all" [label="how-keep-ai-killing-us-all"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/how-keep-ai-killing-us-all"
+	"https://cdss.berkeley.edu/news/francisca-vasconcelos-chosen-paul-and-daisy-soros-new-american-fellow" [label="francisca-vasconcelos-chosen-paul-and-daisy-soros-new-american-fellow"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/francisca-vasconcelos-chosen-paul-and-daisy-soros-new-american-fellow"
+	"https://cdss.berkeley.edu/people/sarah-pecora" [label="sarah-pecora"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/sarah-pecora"
+	"https://cdss.berkeley.edu/people/deborah-nolan" [label="deborah-nolan"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/deborah-nolan"
+	"https://cdss.berkeley.edu/project/assessing-creative-agency-big-ideas-course-imagination-innovation" [label="assessing-creative-agency-big-ideas-course-imagination-innovation"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/assessing-creative-agency-big-ideas-course-imagination-innovation"
+	"https://cdss.berkeley.edu/video/data-science-showcase" [label="data-science-showcase"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/data-science-showcase"
+	"https://cdss.berkeley.edu/project/datahub" [label=datahub]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/datahub"
+	"https://cdss.berkeley.edu/qi-lu" [label="qi-lu"]
+	"https://cdss.berkeley.edu/news/dj-patil-speak-cdss-inaugural-undergraduate-graduation-ceremony" [label="dj-patil-speak-cdss-inaugural-undergraduate-graduation-ceremony"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/dj-patil-speak-cdss-inaugural-undergraduate-graduation-ceremony"
+	"https://cdss.berkeley.edu/academics/resources/textbooks" [label=textbooks]
+	https:"//cdss.berkeley.edu/academics/resources" -> https:"//cdss.berkeley.edu/academics/resources/textbooks"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/neurosciences" [label=neurosciences]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/neurosciences"
+	"https://cdss.berkeley.edu/project/polymorph-evolution-protein-two-dimensional-crystals" [label="polymorph-evolution-protein-two-dimensional-crystals"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/polymorph-evolution-protein-two-dimensional-crystals"
+	"https://cdss.berkeley.edu/degrees/domain-emphasis/data-arts-and-humanities" [label="data-arts-and-humanities"]
+	https:"//cdss.berkeley.edu/degrees/domain-emphasis" -> https:"//cdss.berkeley.edu/degrees/domain-emphasis/data-arts-and-humanities"
+	"https://cdss.berkeley.edu/project/enabling-drug-discovery-ai-powered-quantum-chemistry" [label="enabling-drug-discovery-ai-powered-quantum-chemistry"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/enabling-drug-discovery-ai-powered-quantum-chemistry"
+	"https://cdss.berkeley.edu/declaring-major" [label="declaring-major"]
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/data-science-degree-programs" [label="data-science-degree-programs"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major/data-science-degree-programs"
+	"https://cdss.berkeley.edu/california-alliance/college-systems" [label="college-systems"]
+	https:"//cdss.berkeley.edu/california-alliance" -> https:"//cdss.berkeley.edu/california-alliance/college-systems"
+	"https://cdss.berkeley.edu/project/trends-birth-acquired-and-age-related-disabilities-vosap" [label="trends-birth-acquired-and-age-related-disabilities-vosap"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/trends-birth-acquired-and-age-related-disabilities-vosap"
+	"https://cdss.berkeley.edu/project/sub-seasonal-wildfire-burned-area-prediction-machine-learning" [label="sub-seasonal-wildfire-burned-area-prediction-machine-learning"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/sub-seasonal-wildfire-burned-area-prediction-machine-learning"
+	"https://cdss.berkeley.edu/project/archive-urban-futures-who-owns-oakland" [label="archive-urban-futures-who-owns-oakland"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/archive-urban-futures-who-owns-oakland"
+	"https://cdss.berkeley.edu/butler-lampson" [label="butler-lampson"]
+	"https://cdss.berkeley.edu/janet-napolitano" [label="janet-napolitano"]
+	"https://cdss.berkeley.edu/project/gmo-acceptance-bioengineered-brewers-yeast" [label="gmo-acceptance-bioengineered-brewers-yeast"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/gmo-acceptance-bioengineered-brewers-yeast"
+	"https://cdss.berkeley.edu/events/bidmap-special-seminar-digital-reticular-chemistry" [label="bidmap-special-seminar-digital-reticular-chemistry"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/bidmap-special-seminar-digital-reticular-chemistry"
+	"https://cdss.berkeley.edu/people/ronald-cohen" [label="ronald-cohen"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/ronald-cohen"
+	"https://cdss.berkeley.edu/project/exploring-achievement-gap-berkeley-public-schools-0" [label="exploring-achievement-gap-berkeley-public-schools-0"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/exploring-achievement-gap-berkeley-public-schools-0"
+	"https://cdss.berkeley.edu/video/wids-data-collaboration-day" [label="wids-data-collaboration-day"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/wids-data-collaboration-day"
+	"https://cdss.berkeley.edu/video/student-video-data-science-berkeley" [label="student-video-data-science-berkeley"]
+	https:"//cdss.berkeley.edu/video" -> https:"//cdss.berkeley.edu/video/student-video-data-science-berkeley"
+	"https://cdss.berkeley.edu/californiaalliance/california-community-colleges" [label="california-community-colleges"]
+	https:"//cdss.berkeley.edu/californiaalliance" -> https:"//cdss.berkeley.edu/californiaalliance/california-community-colleges"
+	"https://cdss.berkeley.edu/data-science-honors-program" [label="data-science-honors-program"]
+	"https://cdss.berkeley.edu/external/ds-curriculum-dev" [label="ds-curriculum-dev"]
+	https:"//cdss.berkeley.edu/external" -> https:"//cdss.berkeley.edu/external/ds-curriculum-dev"
+	"https://cdss.berkeley.edu/people/jennifer-chayes" [label="jennifer-chayes"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/jennifer-chayes"
+	"https://cdss.berkeley.edu/degrees/peer-advising" [label="peer-advising"]
+	https:"//cdss.berkeley.edu/degrees" -> https:"//cdss.berkeley.edu/degrees/peer-advising"
+	"https://cdss.berkeley.edu/hce" [label=hce]
+	"https://cdss.berkeley.edu/people/sierra-j-white" [label="sierra-j-white"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/sierra-j-white"
+	"https://cdss.berkeley.edu/2022workshop/past-workshops" [label="past-workshops"]
+	https:"//cdss.berkeley.edu/2022workshop" -> https:"//cdss.berkeley.edu/2022workshop/past-workshops"
+	"https://cdss.berkeley.edu/decdse/overview" [label=overview]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/overview"
+	"https://cdss.berkeley.edu/project/construction-real-time-emotion-based-content-recommender-and-physical-behaviour-prediction" [label="construction-real-time-emotion-based-content-recommender-and-physical-behaviour-prediction"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/construction-real-time-emotion-based-content-recommender-and-physical-behaviour-prediction"
+	"https://cdss.berkeley.edu/2024-fall-new-student-information" [label="2024-fall-new-student-information"]
+	"https://cdss.berkeley.edu/events/inaugural-berkeley-stanford-workshop-veridical-data-science" [label="inaugural-berkeley-stanford-workshop-veridical-data-science"]
+	https:"//cdss.berkeley.edu/events" -> https:"//cdss.berkeley.edu/events/inaugural-berkeley-stanford-workshop-veridical-data-science"
+	"https://cdss.berkeley.edu/decdse/resources" [label=resources]
+	https:"//cdss.berkeley.edu/decdse" -> https:"//cdss.berkeley.edu/decdse/resources"
+	"https://cdss.berkeley.edu/news/isabel-serrano-builds-bridges-empowers-csu-students-find-their-phd-path" [label="isabel-serrano-builds-bridges-empowers-csu-students-find-their-phd-path"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/isabel-serrano-builds-bridges-empowers-csu-students-find-their-phd-path"
+	"https://cdss.berkeley.edu/requirements-lower-division" [label="requirements-lower-division"]
+	"https://cdss.berkeley.edu/news/berkeley-launches-workshop-undergraduate-data-science-pedagogy" [label="berkeley-launches-workshop-undergraduate-data-science-pedagogy"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/berkeley-launches-workshop-undergraduate-data-science-pedagogy"
+	"https://cdss.berkeley.edu/equity-inclusion" [label="equity-inclusion"]
+	"https://cdss.berkeley.edu/topics/major" [label=major]
+	https:"//cdss.berkeley.edu/topics" -> https:"//cdss.berkeley.edu/topics/major"
+	"https://cdss.berkeley.edu/project/navigating-alzheimers-diseases-ai-early-detection-innovations" [label="navigating-alzheimers-diseases-ai-early-detection-innovations"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/navigating-alzheimers-diseases-ai-early-detection-innovations"
+	"https://cdss.berkeley.edu/news/omar-yaghi-honored-fiat-lux-faculty-award" [label="omar-yaghi-honored-fiat-lux-faculty-award"]
+	https:"//cdss.berkeley.edu/news" -> https:"//cdss.berkeley.edu/news/omar-yaghi-honored-fiat-lux-faculty-award"
+	"https://cdss.berkeley.edu/project/uc-berkeley-shekhar-lab-evolution-retinal-cell-types" [label="uc-berkeley-shekhar-lab-evolution-retinal-cell-types"]
+	https:"//cdss.berkeley.edu/project" -> https:"//cdss.berkeley.edu/project/uc-berkeley-shekhar-lab-evolution-retinal-cell-types"
+	"https://cdss.berkeley.edu/people/janice-lee" [label="janice-lee"]
+	https:"//cdss.berkeley.edu/people" -> https:"//cdss.berkeley.edu/people/janice-lee"
+	"https://cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising/forms-procedures" [label="forms-procedures"]
+	https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising" -> https:"//cdss.berkeley.edu/academics/data-science-undergraduate-studies/advising/forms-procedures"
+	"https://cdss.berkeley.edu/academics/resources/data-science-education-workshops" [label="data-science-education-workshops"]
+	https:"//cdss.berkeley.edu/academics/resources" -> https:"//cdss.berkeley.edu/academics/resources/data-science-education-workshops"
+}

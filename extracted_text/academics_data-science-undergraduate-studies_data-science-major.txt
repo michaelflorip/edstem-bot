@@ -2,14 +2,20 @@ Data Science Major | CDSS at UC Berkeley
 Skip to main content
 Social Media Links
 Facebook
+(link is external)
 Twitter
+(link is external)
 Linkedin
+(link is external)
 Youtube
+(link is external)
 Instagram
+(link is external)
 Topbar Navigation
 Students
 Faculty & Staff
 Give
+(link is external)
 Main navigation
 About
 Main navigation
@@ -23,10 +29,14 @@ Academics
 Main navigation
 Departments and Programs
 Center for Computational Biology
+(link is external)
 Computational Precision Health
+(link is external)
 Data Science Undergraduate Studies
 Department of Electrical Engineering and Computer Sciences (EECS)
+(link is external)
 Department of Statistics
+(link is external)
 Undergraduate Education
 Graduate Education
 Advising Resources
@@ -45,9 +55,83 @@ Videos
 Search by keyword
 Search
 Search
+About
+Main navigation
+People
+Departments and Programs
+Our Vision
+Support Our People and Research
+Job Opportunities
+Contact
+Academics
+Main navigation
+Departments and Programs
+Title
+Center for Computational Biology
+(link is external)
+Computational Precision Health
+(link is external)
+Data Science Undergraduate Studies
+Department of Electrical Engineering and Computer Sciences (EECS)
+(link is external)
+Department of Statistics
+(link is external)
+Undergraduate Education
+Graduate Education
+Advising Resources
+Student Opportunities
+Research & Faculty
+Main navigation
+Research
+Faculty
+Equity & Inclusion
+News & Events
+Main navigation
+College Newsletter
+Events
+News
+Videos
+Topbar Navigation
+Students
+Faculty & Staff
+Give
+(link is external)
+Social Media Links
+Facebook
+(link is external)
+Twitter
+(link is external)
+Linkedin
+(link is external)
+Youtube
+(link is external)
+Instagram
+(link is external)
 Data Science Major
 Declaring the Major
 FAQs
+Home
+Academics
+- Data Science Major
+- Data Science Minor
+- Courses
+Advising
+- Forms & Procedures
+- Meet with an Advisor
+- Transfer Mentors
+- Peer Advising (DSPA)
+- Career Services
+- FAQs
+Student Opportunities
+- Student Teams
+- Student Course Staff
+- Discovery Research
+- Data Scholars
+Discovery Research
+Human Contexts and Ethics
+Data Science Resources
+- External Resources
+- Workshops
 Home
 Academics
 Data Science Major
@@ -76,17 +160,31 @@ Lower-division Requirements
 Upper-division Requirements
 Domain Emphasis
 Declaring The Major
-Visit our declaring the major page to learn more about eligibility and prerequisites to declare, as well as the application process and timeline. Learn more.
+Visit our declaring the major page to learn more about eligibility and prerequisites to declare, as well as the application process and timeline. Learn
+more
+.
 Program Planning
-We are happy to provide sample program plans and other resources to help students plan their classes. However, everyone's plan will be different, so please consult with a Data Science Advisor for help creating the perfect plan for you! Also, keep in mind that your plan is likely to change over time as you learn more about new classes, new opportunities and about yourself. Some helpful resources:
+We are happy to provide sample program plans and other resources to help students plan their classes. However, everyone's plan will be different, so please consult with a
+Data Science Advisor
+for help creating the perfect plan for you! Also, keep in mind that your plan is likely to change over time as you learn more about new classes, new opportunities and about yourself. Some helpful resources:
 Sample 2-year and 4-year program plans
+(link is external)
 Data Science BA Worksheet [PDF]
+(link is external)
 Blank Long-Term Program Plan [PDF]
+(link is external)
 Fillable Data Science BA Worksheet & Program Plan [Google Sheet]
+(link is external)
 Information for Prospective Transfer Students
-Our students come from all sorts of backgrounds and interests, with very diverse career pursuits.  Some of our students are in research, others spend their summers in internships. The Data Science major is very flexible and allows students to create a curriculum that best fits their educational goals. See more for prospective transfers students here.
+Our students come from all sorts of backgrounds and interests, with very diverse career pursuits.  Some of our students are in research, others spend their summers in internships. The Data Science major is very flexible and allows students to create a curriculum that best fits their educational goals.
+See more for prospective transfers students
+here
+.
 Transfer Mentor & Orientation Program
-Beginning the summer before you arrive on campus, Transfer Mentors are available to help as you create your fall schedule, investigate extra-curricular opportunities, plan for internships, and generally guide you as you transition onto campus and into classes by sharing institutional knowledge on diverse topics. Learn more about Data Science Transfer Mentors.
+Beginning the summer before you arrive on campus, Transfer Mentors are available to help as you create your fall schedule, investigate extra-curricular opportunities, plan for internships, and generally guide you as you transition onto campus and into classes by sharing institutional knowledge on diverse topics
+.
+Learn more about Data Science Transfer Mentors
+.
 Helpful Links
 Study Abroad for Data Science Majors
 Data Science Honors Program
@@ -98,9 +196,14 @@ Upper-division Requirements
 Domain Emphasis Requirements
 Declaring the Major
 Need Advising?
-Data Science advisors are available to help! Email us at ds-advising@berkeley.edu, or find out about our other advising services.
+Data Science advisors are available to help! Email us at
+ds-advising@berkeley.edu
+, or find out about our other
+advising services
+.
 Ready to declare?
-Submit your application online.
+Submit your application online
+.
 More questions?
 View our FAQs.
 Main navigation
@@ -116,10 +219,14 @@ Academics
 Main navigation
 Departments and Programs
 Center for Computational Biology
+(link is external)
 Computational Precision Health
+(link is external)
 Data Science Undergraduate Studies
 Department of Electrical Engineering and Computer Sciences (EECS)
+(link is external)
 Department of Statistics
+(link is external)
 Undergraduate Education
 Graduate Education
 Advising Resources
@@ -140,9 +247,21 @@ Berkeley, CA 94720-1786
 Email: CDSSinfo@berkeley.edu
 Social Media Links
 Facebook
+(link is external)
 Twitter
+(link is external)
 Linkedin
+(link is external)
 Youtube
+(link is external)
 Instagram
+(link is external)
 GIVE TO CDSS TODAY
-Accessibility  |  Nondiscrimination  |  Privacy  |  Copyright © 2023 UC Regents; all rights reserved
+(link is external)
+Accessibility
+|
+Nondiscrimination
+|
+Privacy
+|
+Copyright © 2023 UC Regents; all rights reserved

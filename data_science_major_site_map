@@ -1,0 +1,4 @@
+// Data Science Major Site Map
+digraph {
+	"academics_data-science-undergraduate-studies_data-science-major" [label="academics_data-science-undergraduate-studies_data-science-major"]
+}
